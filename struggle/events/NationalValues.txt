@@ -74,11 +74,11 @@ country_event = {
 	picture = "Parade"
 	
 	trigger = {
+		war = yes
 		OR = {
 			nationalvalue = nv_order
 			nationalvalue = nv_autocracy
 		}
-		war = yes
 		NOT = { war_exhaustion = 8 }
 	}
 	
@@ -141,8 +141,8 @@ country_event = {
 	picture = "Expansion"
 	
 	trigger = {
-		nationalvalue = nv_liberty
 		badboy = 0.7
+		nationalvalue = nv_liberty
 	}
 	
 	mean_time_to_happen = {
@@ -231,8 +231,8 @@ country_event = {
 	picture = "Demonstration"
 	
 	trigger = {
-		nationalvalue = nv_equality
 		war = yes
+		nationalvalue = nv_equality
 		war_exhaustion = 4
 	}
 	
@@ -271,8 +271,8 @@ country_event = {
 	picture = "Anti-Jacobin"
 	
 	trigger = {
-		nationalvalue = nv_productivity
 		war = no
+		nationalvalue = nv_productivity
 	}
 	
 	mean_time_to_happen = {
@@ -433,7 +433,6 @@ country_event = {
 	picture = "Demonstration"
 	
 	trigger = {
-		nationalvalue = nv_liberty
 		OR = {
 			government = presidential_dictatorship
 			government = fascist_dictatorship
@@ -441,6 +440,7 @@ country_event = {
 			government = bourgeois_dictatorship
 			government = absolute_monarchy
 		}
+		nationalvalue = nv_liberty
 	}
 	
 	mean_time_to_happen = {
@@ -505,8 +505,8 @@ country_event = {
 	picture = "big_parade"
 	
 	trigger = {
-		nationalvalue = nv_order
 		war = no
+		nationalvalue = nv_order
 	}
 	
 	mean_time_to_happen = {
@@ -541,9 +541,9 @@ country_event = {
 	picture = "unite"
 	
 	trigger = {
-		nationalvalue = nv_tradition
 		war = no
 		civilized = yes
+		nationalvalue = nv_tradition
 	}
 	
 	mean_time_to_happen = {

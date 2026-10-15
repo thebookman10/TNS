@@ -389,8 +389,8 @@ country_event = {
 	picture = "Dental"
 	
 	trigger = {
-		health_care = good_health_care
 		civilized = yes
+		health_care = good_health_care
 		NOT = { ruling_party_ideology = conservative }
 	}
 	
@@ -521,8 +521,8 @@ country_event = {
 	picture = "Elderly"	
 	
 	trigger = {
-		pensions = trinket_pensions
 		civilized = yes
+		pensions = trinket_pensions
 	}
 	
 	mean_time_to_happen = {
@@ -837,13 +837,13 @@ country_event = {
 	picture = "Oldsoldiers"
 	
 	trigger = {
-		pensions = no_pensions
 		civilized = yes
+		war = yes
+		pensions = no_pensions
 		OR = {
 			war_policy = jingoism
 			war_policy = pro_military
 		}
-		war = yes
 		war_exhaustion = 6
 		social_reform_want = 0.1
 	}
@@ -2445,8 +2445,8 @@ country_event = {
 	picture = "Strike"
 	
 	trigger = {
-		trade_unions = all_trade_unions
 		civilized = yes
+		trade_unions = all_trade_unions
 		NOT = {
 			ruling_party_ideology = socialist
 			ruling_party_ideology = communist
@@ -2517,8 +2517,8 @@ country_event = {
 	picture = "Slaves"
 	
 	trigger = {
-		slavery = freedom_of_womb
 		civilized = yes
+		slavery = freedom_of_womb
 		no_slavery = 10
 	}
 	
@@ -2590,8 +2590,8 @@ country_event = {
 	picture = "Slaves"
 	
 	trigger = {
-		slavery = yes_slavery
 		civilized = yes
+		slavery = yes_slavery
 		freedom_of_womb = 10
 	}
 	
@@ -2663,9 +2663,9 @@ country_event = {
 	picture = "Slaves"
 	
 	trigger = {
-		slavery = no_slavery
 		civilized = yes
 		prestige = 20
+		slavery = no_slavery
 		NOT = {
 			citizenship_policy = residency
 		}

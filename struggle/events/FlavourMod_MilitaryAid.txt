@@ -141,9 +141,9 @@ country_event = {
 	picture = "administration"
 	
 	trigger = {
-		part_of_sphere = yes
 		has_country_flag = received_military_aid
 		war = no
+		part_of_sphere = yes
 	}
 	
 	mean_time_to_happen = {

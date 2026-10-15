@@ -60,8 +60,8 @@ country_event = {
 	picture = "starving"
 	
 	trigger = {
-		NOT = { poor_strata_life_needs = 0.8 }
 		NOT = { government = democracy }
+		NOT = { poor_strata_life_needs = 0.8 }
 		total_pops = 50000
 	}
 		
@@ -204,8 +204,8 @@ country_event = {
 	picture = "disease"
 	
 	trigger = {
-		NOT = { poor_strata_life_needs = 0.9 }
 		NOT = { has_country_modifier = pandemic_influenza }
+		NOT = { poor_strata_life_needs = 0.9 }
 		total_pops = 50000
 		any_owned_province = {
 			NOT = { terrain = arctic }
@@ -337,6 +337,10 @@ country_event = {
 	picture = "Cholera"
 
 	trigger = {
+		OR = {
+			NOT = { primary_culture = japanese }
+			year = 1850
+		}
 		total_pops = 50000
 		OR = {
 			num_of_cities = 3
@@ -354,10 +358,6 @@ country_event = {
 		any_owned_province = {
 			NOT = { terrain = arctic }
 			NOT = { terrain = desert }
-		}
-		OR = {
-			NOT = { primary_culture = japanese }
-			year = 1850
 		}
 	}
 	
@@ -448,19 +448,19 @@ province_event = {
 	id = 10240
 
 	trigger = {
-		NOT = { AND = { continent = oceania owner = { civilized = no } } }
 		NOT = { terrain = arctic }
 		NOT = { terrain = desert }
+		NOT = {
+			has_province_modifier = cholera_epidemic_small
+			has_province_modifier = cholera_epidemic_big
+		}
+		NOT = { AND = { continent = oceania owner = { civilized = no } } }
 		total_pops = 35000
 		any_neighbor_province = {
 			OR = {
 				has_province_modifier = cholera_epidemic_small
 				has_province_modifier = cholera_epidemic_big
 			}
-		}
-		NOT = {
-			has_province_modifier = cholera_epidemic_small
-			has_province_modifier = cholera_epidemic_big
 		}
 	}
 	

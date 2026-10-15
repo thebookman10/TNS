@@ -6,11 +6,11 @@ province_event = {
 	allow_multiple_instances = no
 	
 	trigger = {
+		has_building = fort
 		OR = {
 			unit_in_battle = yes
 			country_units_in_province = REB
 		}
-		has_building = fort
 	}
 	
 	mean_time_to_happen = { months = 600 }
@@ -29,11 +29,11 @@ province_event = {
 	allow_multiple_instances = no
 	
 	trigger = {
+		has_building = railroad
 		OR = {
 			unit_in_battle = yes
 			country_units_in_province = REB
 		}
-		has_building = railroad
 	}
 	
 	mean_time_to_happen = { months = 600 }

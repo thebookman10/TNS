@@ -3108,9 +3108,9 @@ country_event = {
 	}
 	fire_only_once = yes
 	trigger = {
+	tag = BYZ
+	year = 1838
 	BYZ = { ai = no }
-		tag = BYZ
-		year = 1838
 		}
 	#oportunity to finish off kachuskaya
 	option = {

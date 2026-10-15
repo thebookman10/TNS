@@ -525,9 +525,9 @@ country_event = {
 	picture = "Thermopylae"
 	
 	trigger = {
-		num_of_ports = 1
 		NOT = { has_country_modifier = neutrality }
-		economic_policy = laissez_faire	
+		num_of_ports = 1
+		economic_policy = laissez_faire
 		OR = {
 			war_policy = jingoism
 			war_policy = pro_military
@@ -957,8 +957,6 @@ province_event = {
 	desc = "EVTDESC2600"
 	
 	trigger = {
-		owner = { is_substate = no }
-		owner = { NOT = { has_country_modifier = preparations_to_kill } NOT = { any_owned_province = { has_province_modifier = genocide } } }
 		NOT = {
 			is_core = THIS
 			has_province_modifier = core_integration
@@ -969,6 +967,8 @@ province_event = {
 		owned_by = THIS
 		is_colonial = no
 		is_overseas = no
+		owner = { is_substate = no }
+		owner = { NOT = { has_country_modifier = preparations_to_kill } NOT = { any_owned_province = { has_province_modifier = genocide } } }
 		OR = {
 			is_primary_culture = yes
 			is_accepted_culture = yes
@@ -1177,7 +1177,6 @@ province_event = {
 	desc = "EVTDESC2605"
 	
 	trigger = {
-		owner = { NOT = { has_country_modifier = preparations_to_kill } NOT = { any_owned_province = { has_province_modifier = genocide } } }
 		has_province_modifier = core_integration
 		NOT = {
 			is_core = THIS
@@ -1186,6 +1185,7 @@ province_event = {
 		controlled_by = THIS
 		owned_by = THIS
 		is_colonial = no
+		owner = { NOT = { has_country_modifier = preparations_to_kill } NOT = { any_owned_province = { has_province_modifier = genocide } } }
 		OR = {
 			is_primary_culture = yes
 			is_accepted_culture = yes
@@ -1272,10 +1272,18 @@ province_event = {
 	desc = "EVTDESC2610"
 	
 	trigger = {
-		owner = { is_substate = no }
-		owner = { NOT = { has_country_modifier = preparations_to_kill } NOT = { any_owned_province = { has_province_modifier = genocide } } }
 		is_core = THIS
 		is_overseas = no
+		NOT = {
+			has_province_modifier = integration_refusal
+			has_province_modifier = national_assimilation
+			has_province_modifier = nationalist_agitation
+		}
+		controlled_by = THIS
+		owned_by = THIS
+		is_colonial = no
+		owner = { is_substate = no }
+		owner = { NOT = { has_country_modifier = preparations_to_kill } NOT = { any_owned_province = { has_province_modifier = genocide } } }
 		any_core = {
 			exists = yes
 			NOT = { tag = THIS }
@@ -1292,18 +1300,10 @@ province_event = {
 				}
 			}
 		}
-		NOT = {
-			has_province_modifier = integration_refusal
-			has_province_modifier = national_assimilation
-			has_province_modifier = nationalist_agitation
-		}
 		OR = {
 			is_primary_culture = yes
 			is_accepted_culture = yes
 		}
-		controlled_by = THIS
-		owned_by = THIS
-		is_colonial = no
 		owner = {
 			war = no
 			civilized = yes
@@ -1490,8 +1490,8 @@ country_event = {
 	picture = "deliberation"
 	
 	trigger = {
-		citizens_rights = all_voting_pops
 		war = no
+		citizens_rights = all_voting_pops
 		any_owned_province = { has_province_modifier = national_assimilation }
 	}
 	
@@ -1797,10 +1797,10 @@ province_event = {
 	desc = "EVTDESC2616"
 	
 	trigger = {
-		owner = { NOT = { has_country_modifier = preparations_to_kill } NOT = { any_owned_province = { has_province_modifier = genocide } } }
 		has_province_modifier = national_assimilation_rejection
 		NOT = { has_province_modifier = nationalist_agitation }
 		controlled_by = THIS
+		owner = { NOT = { has_country_modifier = preparations_to_kill } NOT = { any_owned_province = { has_province_modifier = genocide } } }
 		owner = {
 			civilized = yes
 			war = no
@@ -1896,13 +1896,7 @@ province_event = {
 	desc = "EVTDESC2620"
 	
 	trigger = {
-		owner = { NOT = { has_country_modifier = preparations_to_kill } NOT = { any_owned_province = { has_province_modifier = genocide } } }
 		is_core = THIS
-		any_core = {
-			exists = yes
-			NOT = { tag = THIS }
-			NOT = { is_cultural_union = THIS }
-		}
 		has_province_modifier = national_assimilation
 		NOT = {
 			has_province_modifier = national_assimilation_acceptance
@@ -1911,6 +1905,12 @@ province_event = {
 		controlled_by = THIS
 		owned_by = THIS
 		is_colonial = no
+		owner = { NOT = { has_country_modifier = preparations_to_kill } NOT = { any_owned_province = { has_province_modifier = genocide } } }
+		any_core = {
+			exists = yes
+			NOT = { tag = THIS }
+			NOT = { is_cultural_union = THIS }
+		}
 		owner = {
 			civilized = yes
 			war = no
@@ -1994,8 +1994,12 @@ province_event = {
 	desc = "EVTDESC2625"
 	
 	trigger = {
-		owner = { NOT = { has_country_modifier = preparations_to_kill } NOT = { any_owned_province = { has_province_modifier = genocide } } }
 		is_core = THIS
+		NOT = { has_province_modifier = nationalist_agitation }
+		controlled_by = THIS
+		owned_by = THIS
+		is_colonial = no
+		owner = { NOT = { has_country_modifier = preparations_to_kill } NOT = { any_owned_province = { has_province_modifier = genocide } } }
 		any_core = {
 			exists = yes
 			NOT = { tag = THIS }
@@ -2015,10 +2019,6 @@ province_event = {
 				owner = { NOT = { tag = USA } }
 			}
 		}
-		NOT = { has_province_modifier = nationalist_agitation }
-		controlled_by = THIS
-		owned_by = THIS
-		is_colonial = no
 		owner = {
 			civilized = yes
 			war = no

@@ -8,12 +8,12 @@ country_event = {
 	fire_only_once = yes
 	
 	trigger = {
-	LIT = { vassal_of = BUL}
-	PRD = { vassal_of = BUL}
 	tag = BUL
-    OR = { AND = { year = 1848  ai = no }
+	OR = { AND = { year = 1848  ai = no }
 	       AND = { year = 1842  ai = yes }       
 	                          }
+	LIT = { vassal_of = BUL}
+	PRD = { vassal_of = BUL}
 	
 	}
 	
@@ -85,12 +85,12 @@ country_event = {
 	fire_only_once = yes
 	
 	trigger = {
-	 NOT = { LIT = { vassal_of = BUL} }
-	PRD = { vassal_of = BUL}
-	tag = BUL
-    OR = { AND = { year = 1848  ai = no }
+	 tag = BUL
+	 OR = { AND = { year = 1848  ai = no }
 	       AND = { year = 1842  ai = yes }       
 	                          }
+	 NOT = { LIT = { vassal_of = BUL} }
+	 PRD = { vassal_of = BUL}
 	
 	}
 	
@@ -152,14 +152,14 @@ country_event = {
 	picture = "danishgovernment"
 	fire_only_once = yes
 	trigger = {
+	tag = BUL
+	OR = { AND = { year = 1849  ai = no }
+	       AND = { year = 1843  ai = yes }       
+	                          }
 	OR = { 
 	BYE = { vassal_of = BUL}
 	BKV = { vassal_of = BUL}
 	KUR = { vassal_of = BUL} }
-	tag = BUL
-    OR = { AND = { year = 1849  ai = no }
-	       AND = { year = 1843  ai = yes }       
-	                          }
 	}
 	
 	mean_time_to_happen = {
@@ -238,11 +238,11 @@ country_event = {
 	major = yes
 	
 	trigger = {
+	tag = BUL
+	has_global_flag = western_revolts_bolkania
+	war = no
 	LIT = { vassal_of = BUL}
 	PRD = { vassal_of = BUL}
-	tag = BUL
-    has_global_flag = western_revolts_bolkania
-	war = no
 	
 	}
 	
@@ -270,14 +270,13 @@ country_event = {
 	major = yes
 	
 	trigger = {
+	exists = LIT
+	tag = BUL
+	war = no
 	NOT = {  OR = { LIT = { vassal_of = THIS }
 	                BYE = { vassal_of = THIS } }
 	         OR = { owns = 1007 AND = { owns = 3734 } }        
                                                 		   }
-						 
-	exists = LIT
-	tag = BUL
-	war = no
 	
 	}
 	

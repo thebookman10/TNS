@@ -900,7 +900,6 @@ country_event = {
 	picture = "Rebellion"
 	
 	trigger = {
-		vassal_of = RUS
 		ai = yes
 		civilized = no
 		OR = {
@@ -911,6 +910,7 @@ country_event = {
 			primary_culture = kazak
 		}
 		NOT = { has_country_flag = no_russian_doctrine }
+		vassal_of = RUS
 	}
 	
 	mean_time_to_happen = {

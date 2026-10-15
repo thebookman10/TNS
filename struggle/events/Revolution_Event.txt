@@ -2963,6 +2963,7 @@ province_event = {
 	desc = "EVTDESC97570"
 	
 	trigger = {
+		controlled_by = THIS
 		owner = {
 			war = no
 			has_country_flag = post_colonial_country
@@ -2987,7 +2988,6 @@ province_event = {
 				has_pop_culture = maori
 			}
 		}
-		controlled_by = THIS
 		NOT = {
 			average_militancy = 6
 			is_primary_culture = yes

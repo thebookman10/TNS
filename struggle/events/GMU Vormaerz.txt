@@ -53,13 +53,13 @@ country_event = {
 	picture = "queenvictoria"
 
 	trigger = {
-		NOT = { vassal_of = ENG }
 		tag = HAN
-                owns = 537
+		owns = 537
 		NOT = {
 			has_country_flag = han_constitution_revoked
 			has_country_flag = han_constitution_approved
 		}
+		NOT = { vassal_of = ENG }
 	}
 
 	fire_only_once = yes

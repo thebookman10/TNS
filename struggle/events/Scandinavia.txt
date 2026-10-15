@@ -386,10 +386,10 @@ country_event = {
 	fire_only_once = yes
 
 	trigger = {
+	tag = SCA
+	has_country_flag = dismantle_pridain
 	273 = { owned_by = THIS }
 	263 = { owned_by = THIS }
-		tag = SCA
-		has_country_flag = dismantle_pridain
 		
 	}
 
@@ -833,9 +833,9 @@ country_event = {
 	fire_only_once = yes
 	
 	trigger = { 
-	    OR = { owns = 2113 ZUL = { vassal_of = THIS }  }
-		exists = SAF
-		SAF = { vassal_of = THIS } 
+	    exists = SAF 
+	    OR = { owns = 2113 ZUL = { vassal_of = THIS }  } 
+	    SAF = { vassal_of = THIS } 
 	}
 
 	#give provinces to nyr heima

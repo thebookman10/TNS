@@ -14,7 +14,6 @@ province_event = {
 	picture = "Revolution"
 	
 	trigger = {
-		is_ideology_enabled = socialist
 		civilized = yes
 		is_colonial = no
 		OR = {
@@ -24,6 +23,7 @@ province_event = {
 			has_pop_type = labourers
 		}
 		NOT = { has_province_modifier = labor_union }
+		is_ideology_enabled = socialist
 		owner = {
 			OR = {
 				government = prussian_constitutionalism
@@ -225,15 +225,15 @@ country_event = {
 	picture = "Revolution"
 	
 	trigger = {
-		is_ideology_enabled = socialist
 		civilized = yes
-		socialist = 5
 		OR = {
 			government = prussian_constitutionalism
 			government = democracy
 			government = hms_government
 			government = absolute_monarchy
 		}
+		is_ideology_enabled = socialist
+		socialist = 5
 		OR = {
 			trade_unions = non_socialist
 			trade_unions = all_trade_unions
@@ -393,8 +393,12 @@ province_event = {
 	picture = "Factoryattack"
 	
 	trigger = {
-		is_ideology_enabled = socialist
 		civilized = yes
+		NOT = {
+			has_province_modifier = militant_trade_union
+			has_province_modifier = worker_union
+		}
+		is_ideology_enabled = socialist
 		socialist = 10
 		owner = {
 			OR = {
@@ -410,10 +414,6 @@ province_event = {
 			NOT = {
 				ruling_party_ideology = socialist
 			}
-		}
-		NOT = {
-			has_province_modifier = militant_trade_union
-			has_province_modifier = worker_union
 		}
 		state_scope = {
 			has_building = factory
@@ -598,15 +598,15 @@ country_event = {
 	picture = "Strike"
 	
 	trigger = {
-		is_ideology_enabled = socialist
 		civilized = yes
-		socialist = 15
 		OR = {
 			government = prussian_constitutionalism
 			government = democracy
 			government = hms_government
 			government = absolute_monarchy
 		}
+		is_ideology_enabled = socialist
+		socialist = 15
 		OR = {
 			trade_unions = non_socialist
 			trade_unions = all_trade_unions
@@ -751,9 +751,16 @@ province_event = {
 	picture = "Strike"
 	
 	trigger = {
-		is_ideology_enabled = socialist
 		is_colonial = no
 		civilized = yes
+		OR = {
+			has_pop_type = artisans
+			has_pop_type = clerks
+			has_pop_type = craftsmen
+			has_pop_type = labourers
+		}
+		NOT = { has_province_modifier = province_strike }
+		is_ideology_enabled = socialist
 		socialist = 10
 		owner = {
 			OR = {
@@ -770,13 +777,6 @@ province_event = {
 				ruling_party_ideology = socialist
 			}
 		}
-		OR = {
-			has_pop_type = artisans
-			has_pop_type = clerks
-			has_pop_type = craftsmen
-			has_pop_type = labourers
-		}
-		NOT = { has_province_modifier = province_strike }
 	}
 	
 	mean_time_to_happen = {
@@ -986,7 +986,6 @@ country_event = {
 	picture = "Workers"
 	
 	trigger = {
-		is_ideology_enabled = socialist
 		civilized = yes
 		OR = {
 			government = prussian_constitutionalism
@@ -994,6 +993,7 @@ country_event = {
 			government = hms_government
 			government = absolute_monarchy
 		}
+		is_ideology_enabled = socialist
 		OR = {
 			trade_unions = non_socialist
 			trade_unions = all_trade_unions
@@ -1134,16 +1134,16 @@ country_event = {
 	picture = "Unite"
 	
 	trigger = {
-		is_ideology_enabled = socialist
 		civilized = yes
 		year = 1886
-		socialist = 10
 		OR = {
 			government = prussian_constitutionalism
 			government = democracy
 			government = hms_government
 			government = absolute_monarchy
 		}
+		is_ideology_enabled = socialist
+		socialist = 10
 		public_meetings = yes_meeting
 		NOT = {
 			ruling_party_ideology = socialist
@@ -1285,7 +1285,6 @@ country_event = {
 	picture = "Unite"
 	
 	trigger = {
-		is_ideology_enabled = socialist
 		civilized = yes
 		OR = {
 			government = prussian_constitutionalism
@@ -1293,6 +1292,7 @@ country_event = {
 			government = hms_government
 			government = absolute_monarchy
 		}
+		is_ideology_enabled = socialist
 		press_rights = free_press
 	}
 	
@@ -1419,7 +1419,6 @@ country_event = {
 	picture = "Spies"
 	
 	trigger = {
-		is_ideology_enabled = socialist
 		civilized = yes
 		OR = {
 			government = prussian_constitutionalism
@@ -1427,6 +1426,7 @@ country_event = {
 			government = hms_government
 			government = absolute_monarchy
 		}
+		is_ideology_enabled = socialist
 		any_owned_province = {
 			OR = {
 				has_province_modifier = labor_union
@@ -1621,15 +1621,15 @@ country_event = {
 	picture = "Strike"
 	
 	trigger = {
-		is_ideology_enabled = socialist
 		civilized = yes
-		socialist = 5
 		OR = {
 			government = prussian_constitutionalism
 			government = democracy
 			government = hms_government
 			government = absolute_monarchy
 		}
+		is_ideology_enabled = socialist
+		socialist = 5
 		any_state = {
 			has_building = factory
 		}
@@ -1803,9 +1803,6 @@ country_event = {
 	picture = "Celebration"
 	
 	trigger = {
-		is_ideology_enabled = fascist
-		socialist = 5
-		NOT = { fascist = 5 }
 		civilized = yes
 		OR = {
 			government = prussian_constitutionalism
@@ -1813,6 +1810,9 @@ country_event = {
 			government = hms_government
 			government = absolute_monarchy
 		}
+		is_ideology_enabled = fascist
+		socialist = 5
+		NOT = { fascist = 5 }
 		OR = {			
 			any_core = {
 				empty = no
@@ -1981,9 +1981,7 @@ country_event = {
 	picture = "Fascist"
 	
 	trigger = {
-		is_ideology_enabled = fascist
 		civilized = yes
-		public_meetings = yes_meeting
 		NOT = { has_country_flag = paramilitaries_outlawed }
 		OR = {
 			government = prussian_constitutionalism
@@ -1991,6 +1989,8 @@ country_event = {
 			government = hms_government
 			government = absolute_monarchy
 		}
+		is_ideology_enabled = fascist
+		public_meetings = yes_meeting
 		OR = {			
 			any_core = {
 				empty = no
@@ -2161,7 +2161,6 @@ country_event = {
 	picture = "Poor"
 	
 	trigger = {
-		is_ideology_enabled = fascist
 		civilized = yes
 		OR = {
 			government = prussian_constitutionalism
@@ -2169,6 +2168,7 @@ country_event = {
 			government = hms_government
 			government = absolute_monarchy
 		}
+		is_ideology_enabled = fascist
 		any_owned_province = {
 			is_colonial = no
 			fascist = 5
@@ -2338,9 +2338,7 @@ country_event = {
 	picture = "Fascist"
 	
 	trigger = {
-		is_ideology_enabled = fascist
 		civilized = yes
-		fascist = 30
 		OR = {
 			government = prussian_constitutionalism
 			government = democracy
@@ -2348,6 +2346,8 @@ country_event = {
 			government = absolute_monarchy
 		}
 		NOT = { has_country_flag = march_on_capital }
+		is_ideology_enabled = fascist
+		fascist = 30
 	}
 	
 	mean_time_to_happen = {
@@ -2507,7 +2507,6 @@ country_event = {
 	picture = "Oldsoldiers"
 	
 	trigger = {
-		is_ideology_enabled = fascist
 		civilized = yes
 		war = no
 		OR = {
@@ -2516,6 +2515,7 @@ country_event = {
 			government = hms_government
 			government = absolute_monarchy
 		}
+		is_ideology_enabled = fascist
 		OR = {		
 			any_core = {
 				empty = no
@@ -2695,15 +2695,15 @@ country_event = {
 	picture = "propaganda"
 	
 	trigger = {
-		is_ideology_enabled = fascist
 		civilized = yes
-		press_rights = free_press
 		OR = {
 			government = prussian_constitutionalism
 			government = democracy
 			government = hms_government
 			government = absolute_monarchy
 		}
+		is_ideology_enabled = fascist
+		press_rights = free_press
 		OR = {		
 			any_core = {
 				empty = no
@@ -2854,7 +2854,6 @@ country_event = {
 	picture = "Riot"
 	
 	trigger = {
-		is_ideology_enabled = fascist
 		civilized = yes
 		OR = {
 			government = prussian_constitutionalism
@@ -2862,6 +2861,7 @@ country_event = {
 			government = hms_government
 			government = absolute_monarchy
 		}
+		is_ideology_enabled = fascist
 		any_owned_province = {
 			has_province_modifier = black_shirts
 			NOT = { has_province_modifier = the_massacre }
@@ -3018,15 +3018,15 @@ country_event = {
 	picture = "propaganda"
 	
 	trigger = {
-		is_ideology_enabled = fascist
 		civilized = yes
-		fascist = 10
 		OR = {
 			government = prussian_constitutionalism
 			government = democracy
 			government = hms_government
 			government = absolute_monarchy
 		}
+		is_ideology_enabled = fascist
+		fascist = 10
 		OR = {			
 			any_core = {
 				empty = no
@@ -3197,18 +3197,18 @@ country_event = {
 	picture = "Parade"
 	
 	trigger = {
-		is_ideology_enabled = fascist
 		NOT = {
 			has_country_flag = paramilitaries_outlawed
 		}
 		civilized = yes
-		fascist = 10
 		OR = {
 			government = prussian_constitutionalism
 			government = democracy
 			government = hms_government
 			government = absolute_monarchy
 		}
+		is_ideology_enabled = fascist
+		fascist = 10
 		any_owned_province = {
 			has_province_modifier = black_shirts
 		}
@@ -3368,7 +3368,6 @@ country_event = {
 	picture = "Policeaction"
 	
 	trigger = {
-		is_ideology_enabled = fascist
 		civilized = yes
 		OR = {
 			government = prussian_constitutionalism
@@ -3376,6 +3375,7 @@ country_event = {
 			government = hms_government
 			government = absolute_monarchy
 		}
+		is_ideology_enabled = fascist
 		any_owned_province = {
 			is_colonial = no
 			is_primary_culture = yes
@@ -3549,16 +3549,16 @@ country_event = {
 	picture = "Strike"
 	
 	trigger = {
-		is_ideology_enabled = fascist
-		is_ideology_enabled = socialist
 		civilized = yes
-		NOT = { trade_unions = no_trade_unions }
 		OR = {
 			government = prussian_constitutionalism
 			government = democracy
 			government = hms_government
 			government = absolute_monarchy
 		}
+		is_ideology_enabled = fascist
+		is_ideology_enabled = socialist
+		NOT = { trade_unions = no_trade_unions }
 		any_owned_province = {
 			is_colonial = no
 			is_primary_culture = yes
@@ -3737,8 +3737,12 @@ country_event = {
 	picture = "communist_crowd"
 	
 	trigger = {
-		is_ideology_enabled = communist
 		civilized = yes
+		NOT = {
+			government = proletarian_dictatorship
+			government = fascist_dictatorship
+		}
+		is_ideology_enabled = communist
 		any_owned_province = {
 			is_colonial = no
 			socialist = 20
@@ -3748,10 +3752,6 @@ country_event = {
 				has_pop_type = craftsmen
 				has_pop_type = labourers
 			}
-		}
-		NOT = {
-			government = proletarian_dictatorship
-			government = fascist_dictatorship
 		}
 	}
 	
@@ -3962,17 +3962,17 @@ country_event = {
 	picture = "communist_crowd"
 	
 	trigger = {
-		is_ideology_enabled = communist
 		civilized = yes
-		any_owned_province = {
-			is_colonial = no
-			socialist = 20
-		}
 		OR = {
 			government = absolute_monarchy
 			government = prussian_constitutionalism
 			government = presidential_dictatorship
 			government = bourgeois_dictatorship
+		}
+		is_ideology_enabled = communist
+		any_owned_province = {
+			is_colonial = no
+			socialist = 20
 		}
 	}
 
@@ -4149,8 +4149,12 @@ country_event = {
 	picture = "communist_riot"
 	
 	trigger = {
-		is_ideology_enabled = communist
 		civilized = yes
+		NOT = {
+			government = proletarian_dictatorship
+			government = fascist_dictatorship
+		}
+		is_ideology_enabled = communist
 		any_owned_province = {
 			is_colonial = no
 			socialist = 20
@@ -4161,10 +4165,6 @@ country_event = {
 				has_pop_type = labourers
 			}
 			average_militancy = 4
-		}
-		NOT = {
-			government = proletarian_dictatorship
-			government = fascist_dictatorship
 		}
 	}
 	
@@ -4343,18 +4343,18 @@ province_event = {
 	desc = "EVTDESC17730"
 	
 	trigger = {
-		is_ideology_enabled = communist
 		is_colonial = no
 		NOT = { controlled_by = REB }
-		OR = {
-			socialist = 20
-			communist = 10
-		}
 		OR = {
 			has_pop_type = artisans
 			has_pop_type = clerks
 			has_pop_type = craftsmen
 			has_pop_type = labourers
+		}
+		is_ideology_enabled = communist
+		OR = {
+			socialist = 20
+			communist = 10
 		}
 		OR = {
 			average_militancy = 6

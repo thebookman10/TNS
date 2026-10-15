@@ -577,12 +577,13 @@ country_event = {
 	picture = "JulyColumn"
 
 	trigger = {
-	is_ideology_enabled = fascist 
-		OR = {
+	OR = {
 			government = democracy
 			government = hms_government
 		}
-		NOT = {
+	is_greater_power = yes
+	is_ideology_enabled = fascist
+	NOT = {
 			OR = {
 				ruling_party_ideology = communist
 				ruling_party_ideology = fascist
@@ -590,8 +591,7 @@ country_event = {
 				ruling_party_ideology = reactionary
 			}
 		}
-		is_greater_power = yes
-		any_neighbor_country = {
+	any_neighbor_country = {
 			is_greater_power = no
 			is_vassal = no
 			OR = {
@@ -686,12 +686,13 @@ country_event = {
 	picture = "JulyColumn"
 
 	trigger = {
-		is_ideology_enabled = fascist 
 		OR = {
 			government = democracy
 			government = hms_government
 		}
 		is_vassal = no
+		is_greater_power = no
+		is_ideology_enabled = fascist
 		NOT = {
 			OR = {
 				ruling_party_ideology = communist
@@ -700,7 +701,6 @@ country_event = {
 				ruling_party_ideology = reactionary
 			}
 		}
-		is_greater_power = no
 		any_neighbor_country = {
 			is_vassal = no
 			OR = {

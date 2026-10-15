@@ -12,10 +12,10 @@ country_event = {
 	picture = "Socialism"
 	
 	trigger = {
-		NOT = { is_ideology_enabled = socialist  }
 		year = 1860
 		civilized = yes
 		literacy = 0.4
+		NOT = { is_ideology_enabled = socialist  }
 		OR = {
 			unemployment = 0.2
 			NOT = { poor_strata_life_needs = 0.8 }
@@ -68,12 +68,12 @@ country_event = {
 	picture = "Socialism"
 	
 	trigger = {
-		NOT = {
-			is_ideology_enabled = communist 
-		}
 		year = 1870
 		civilized = yes
 		literacy = 0.5
+		NOT = {
+			is_ideology_enabled = communist 
+		}
 		OR = {
 			planned_economy = 5
 			pro_atheism = 5
@@ -154,11 +154,11 @@ country_event = {
 	picture = "AnarchoLiberals"
 	
 	trigger = {
-		NOT = { is_ideology_enabled = anarcho_liberal }
 		NOT = { has_global_flag = anarcho_liberals_disabled }
 		year = 1848
 		civilized = yes
 		literacy = 0.6
+		NOT = { is_ideology_enabled = anarcho_liberal }
 		OR = {
 			laissez_faire = 10
 			pluralism = 15
@@ -193,12 +193,13 @@ country_event = {
 	picture = "Fascist"
 	
 	trigger = {
+		year = 1900
+		civilized = yes
 		NOT = { is_ideology_enabled = fascist }
 		OR = {
 			great_wars_enabled = yes
 			has_country_flag = dismantling_treaty
 		}
-		year = 1900
 		OR = {
 			literacy = 0.65
 			AND = {
@@ -207,7 +208,6 @@ country_event = {
 				revanchism = 0.2
 			}
 		}
-		civilized = yes
 		OR = {
 			interventionism = 20
 			secularized = 20

@@ -246,15 +246,15 @@ country_event = {
 	picture = "national_congress"
 	
 	trigger = {
+		NOT = { tag = MUG }
+		NOT = { tag = PAK }
+		is_vassal = no
+		NOT = { has_global_flag = indian_call_to_union }
 		OR = {
 			is_culture_group = south_asian
 			any_owned_province = { is_core = HND any_pop = { is_culture_group = south_asian } }
 		}
-		NOT = { tag = MUG }
-		NOT = { tag = PAK }
-		is_vassal = no
 		revolution_n_counterrevolution = 1
-		NOT = { has_global_flag = indian_call_to_union }
 	}
 	
 	fire_only_once = yes
@@ -694,13 +694,13 @@ province_event = {
 	desc = "EVTDESC97121"
 	
 	trigger = {
+		is_core = HND
+		NOT = { year = 1880 }
+		is_colonial = yes
 		owner = { has_country_flag = sepoy_rebellion }
-		is_core = HND 
 		any_pop = { is_primary_culture = yes }
 		controlled_by_rebels = yes
 		average_militancy = 2
-		NOT = { year = 1880 }
-		is_colonial = yes
 		owner = { 
 			NOT = { is_culture_group = indo_iranian }
 			NOT = { is_culture_group = south_asian }
@@ -738,9 +738,9 @@ province_event = {
 	desc = "EVTDESC9712101"
 	
 	trigger = {
-	BER = { ai = yes }
 	exists = BER
 	is_greater_power = yes
+	BER = { ai = yes }
 	BER = { in_sphere = THIS }
 	state_n_government = 1
 	}

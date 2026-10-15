@@ -588,8 +588,8 @@ country_event = {
 	picture = "Revolution"
 	
 	trigger = {
-		trade_unions = no_trade_unions
 		civilized = yes
+		trade_unions = no_trade_unions
 		is_ideology_enabled = socialist
 		socialist = 5
 	}
@@ -949,10 +949,10 @@ country_event = {
 	picture = "Finepeople"
 	
 	trigger = {
-		public_meetings = yes_meeting
 		plurality = 20
 		civilized = yes
 		has_pop_type = capitalists
+		public_meetings = yes_meeting
 	}
 	
 	mean_time_to_happen = {
@@ -1563,9 +1563,9 @@ country_event = {
 	picture = "meeting3"
 	
 	trigger = {
-		voting_system = first_past_the_post
 		NOT = { tag = ENG }
 		civilized = yes
+		voting_system = first_past_the_post
 	}
 	
 	mean_time_to_happen = {
@@ -6721,10 +6721,10 @@ country_event = {
 	picture = "conscription_marching"
 	
 	trigger = {
-		is_mobilised = yes
 		war = no
 		NOT = { has_country_modifier = peacetime_mobilization }
 		ai = no
+		is_mobilised = yes
 		military_score = 5
 		OR = {
 			military_score = 10

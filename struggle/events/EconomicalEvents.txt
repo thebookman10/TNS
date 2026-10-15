@@ -132,9 +132,9 @@ country_event = {
 	picture = "private_banks"
 	
 	trigger = {
+		NOT = { has_country_modifier = central_bank_established }
 		economic_policy = laissez_faire
 		private_bank_money_bill_printing = 1
-		NOT = { has_country_modifier = central_bank_established }
 	}
 	
 	mean_time_to_happen = {
@@ -189,10 +189,10 @@ country_event = {
 	picture = "private_banks"
 	
 	trigger = {
+		NOT = { government = proletarian_dictatorship }
 		early_railroad = 1
 		stock_exchange = 1
 		economic_policy = laissez_faire
-		NOT = { government = proletarian_dictatorship }
 	}
 	
 	mean_time_to_happen = {
@@ -245,8 +245,8 @@ country_event = {
 	picture = "stocks"
 	
 	trigger = {
-		stock_exchange = 1
 		NOT = { government = proletarian_dictatorship }
+		stock_exchange = 1
 		any_owned_province = { is_state_capital = yes NOT = { has_province_modifier = local_stock_exchange } }
 	}
 	
@@ -287,12 +287,12 @@ country_event = {
 	picture = "private_banks"
 	
 	trigger = {
+		has_pop_type = capitalists
 		private_bank_money_bill_printing = 1
 		NOT = {
 			economic_policy = planned_economy
 			has_country_modifier = central_bank_established
 		}
-		has_pop_type = capitalists
 	}
 	
 	mean_time_to_happen = {
@@ -339,10 +339,10 @@ country_event = {
 	picture = "greatpowers"
 	
 	trigger = {
+		NOT = { has_country_modifier = economic_boom }
 		business_banks = 1
 		poor_strata_everyday_needs = 0.5
 		NOT = { unemployment = 0.2 }
-		NOT = { has_country_modifier = economic_boom }
 	}
 	
 	mean_time_to_happen = {
@@ -388,10 +388,10 @@ country_event = {
 	picture = "Bankruptcy"
 	
 	trigger = {
+		has_pop_type = capitalists
 		business_regulations = 1
 		unemployment = 0.1
 		average_consciousness = 3
-		has_pop_type = capitalists
 	}
 	
 	mean_time_to_happen = {

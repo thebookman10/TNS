@@ -546,6 +546,11 @@ province_event = {
 	desc = "EVTDESC97130"
 	
 	trigger = {
+		owned_by = THIS
+		controlled_by = THIS
+		NOT = {
+			is_core = INO
+		}
 		OR = {
 			region = BAL_1438 #Bali
 			region = NET_1398 #Djambi
@@ -562,8 +567,6 @@ province_event = {
 			region = AST_2528 #Southern New Guina
 			region = GER_2530 #Northern New Guinea
 		}
-		owned_by = THIS
-		controlled_by = THIS
 		any_neighbor_province = {
 			is_core = INO
 		}
@@ -580,9 +583,6 @@ province_event = {
 				vassal_of = THIS
 				is_culture_group = THIS
 			}
-		}
-		NOT = {
-			is_core = INO
 		}
 	}
 	
@@ -630,13 +630,16 @@ province_event = {
 	desc = "EVTDESC97130"
 	
 	trigger = {
+		owned_by = THIS
+		controlled_by = THIS
+		NOT = {
+			is_core = INO
+		}
 		OR = {
 			region = NET_1446 #Flores
 			region = NET_1449 #Sulawesi
 			region = NET_1447 #Moluccas
 		}
-		owned_by = THIS
-		controlled_by = THIS
 		any_neighbor_province = {
 			is_core = INO
 		}
@@ -653,9 +656,6 @@ province_event = {
 				vassal_of = THIS
 				is_culture_group = THIS
 			}
-		}
-		NOT = {
-			is_core = INO
 		}
 	}
 	
@@ -705,13 +705,16 @@ province_event = {
 	desc = "EVTDESC97130"
 	
 	trigger = {
+		owned_by = THIS
+		controlled_by = THIS
+		NOT = {
+			is_core = INO
+		}
 		OR = {
 			region = NET_1451 #West New Guinea
 			region = AST_2528 #Southeast New Guinea
 			region = GER_2530 #Northeast New Guinea
 		}
-		owned_by = THIS
-		controlled_by = THIS
 		any_neighbor_province = {
 			is_core = INO
 		}
@@ -728,9 +731,6 @@ province_event = {
 				vassal_of = THIS
 				is_culture_group = THIS
 			}
-		}
-		NOT = {
-			is_core = INO
 		}
 	}
 	

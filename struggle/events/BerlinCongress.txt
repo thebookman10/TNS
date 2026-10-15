@@ -13,12 +13,6 @@ country_event = {
 	picture = "ottoman"
 
 	trigger = {
-		RUS = {
-			OR = {
-				is_disarmed = yes
-				is_greater_power = no
-			}
-		}
 		NOT = { has_global_flag = great_eastern_crisis }
 		NOT = { has_global_flag = berlin_congress_held }
 		OR = {
@@ -26,7 +20,6 @@ country_event = {
 			has_global_flag = crimea_has_happened
 		}
 		is_greater_power = yes
-		capital_scope = { continent = europe }
 		NOT = {
 			tag = RUS
 			has_global_flag = berlin_congress_to_be_held
@@ -34,6 +27,13 @@ country_event = {
 			has_country_flag = hosting_berlin_congress
 			has_country_modifier = neutrality
 		}
+		RUS = {
+			OR = {
+				is_disarmed = yes
+				is_greater_power = no
+			}
+		}
+		capital_scope = { continent = europe }
 		TUR = {
 			is_greater_power = no
 			war = no
@@ -491,8 +491,14 @@ country_event = {
 	picture = "cyprus_convention"
 	
 	trigger = {
-		TUR = { owns = 855 }
 		has_country_flag = attending_berlin_congress
+		NOT = {
+			tag = TUR
+			tag = RUS
+			has_country_flag = cyprus_convention
+			has_global_flag = berlin_congress_held
+		}
+		TUR = { owns = 855 }
 		OR = {
 			owns = 1755
 			1755 = {
@@ -501,12 +507,6 @@ country_event = {
 					in_sphere = THIS
 				}
 			}
-		}
-		NOT = {
-			tag = TUR
-			tag = RUS
-			has_country_flag = cyprus_convention
-			has_global_flag = berlin_congress_held
 		}
 	}
 	
@@ -672,6 +672,14 @@ country_event = {
 	picture = "croatia_issue"
 	
 	trigger = {
+		has_country_flag = attending_berlin_congress
+		NOT = {
+			tag = TUR
+			tag = RUS
+			has_country_flag = claimed_croatia
+			has_country_flag = refused_croatia
+			has_global_flag = berlin_congress_held
+		}
 		OR = {
 			TUR = { owns = 771 }
 			CRO = {
@@ -679,17 +687,9 @@ country_event = {
 				owns = 771
 			}
 		}
-		has_country_flag = attending_berlin_congress
 		OR = {
 			owns = 768
 			SLO = { vassal_of = THIS }
-		}
-		NOT = {
-			tag = TUR
-			tag = RUS
-			has_country_flag = claimed_croatia
-			has_country_flag = refused_croatia
-			has_global_flag = berlin_congress_held
 		}
 	}
 
@@ -749,6 +749,9 @@ country_event = {
 	major = yes
 	
 	trigger = {
+		NOT = { has_global_flag = berlin_congress_held }
+		has_country_flag = hosting_berlin_congress
+		has_country_flag = attending_berlin_congress
 		TUR = {
 			exists = yes
 			OR = { 
@@ -760,9 +763,6 @@ country_event = {
 				value = 1
 			}
 		}
-		NOT = { has_global_flag = berlin_congress_held }
-		has_country_flag = hosting_berlin_congress
-		has_country_flag = attending_berlin_congress
 	}
 	
 	mean_time_to_happen = {
@@ -835,6 +835,9 @@ country_event = {
 	major = yes
 	
 	trigger = {
+		NOT = { has_global_flag = berlin_congress_held }
+		has_country_flag = hosting_berlin_congress
+		has_country_flag = attending_berlin_congress
 		TUR = {
 			exists = yes
 			OR = { 
@@ -845,10 +848,7 @@ country_event = {
 				which = berlin_congress_support_balkans
 				value = 1
 			}
-		}
-		NOT = { has_global_flag = berlin_congress_held }
-		has_country_flag = hosting_berlin_congress
-		has_country_flag = attending_berlin_congress		
+		}		
 	}
 	
 	mean_time_to_happen = {

@@ -5,10 +5,7 @@ province_event = {
 	desc = "EVTDESC29900"
 	
 	trigger = {
-		owner = { invention = tractors }
 		NOT = { has_province_modifier = local_tractors }
-		NOT = { state_scope = { any_owned_province = { NOT = { controlled_by = THIS } } } }
-		NOT = { state_scope = { is_slave = yes } }
 		OR = {
 			terrain = plains
 			terrain = steppe
@@ -243,6 +240,9 @@ province_event = {
 			trade_goods = cotton
 			trade_goods = fruit
 		}
+		owner = { invention = tractors }
+		NOT = { state_scope = { any_owned_province = { NOT = { controlled_by = THIS } } } }
+		NOT = { state_scope = { is_slave = yes } }
 	}
 	
 	allow_multiple_instances = no

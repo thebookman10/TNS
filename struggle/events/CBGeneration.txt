@@ -6,6 +6,12 @@ country_event = {
 	picture = "supportwar" 
 	
 	trigger = {
+		NOT = {
+			OR = {	
+					has_country_modifier = CB_gen_plus
+					has_country_modifier = CB_gen_minus
+				}
+			}
 		NOT = { involved_in_crisis = yes }
 		constructing_cb_progress = 10 #10% progress
 		OR = {
@@ -14,12 +20,6 @@ country_event = {
 			constructing_cb_type = demand_concession_casus_belli
 			constructing_cb_type = establish_protectorate_casus_belli
 		}
-		NOT = {
-			OR = {	
-					has_country_modifier = CB_gen_plus
-					has_country_modifier = CB_gen_minus
-				}
-			}
 	}
 	
 	mean_time_to_happen = {
@@ -55,6 +55,12 @@ country_event = {
 	picture = "Demonstration" 
 	
 	trigger = {
+		NOT = {
+			OR = {	
+					has_country_modifier = CB_gen_plus
+					has_country_modifier = CB_gen_minus
+				}
+			}
 		NOT = { involved_in_crisis = yes }
 		constructing_cb_progress = 10 #10% progress
 		OR = {
@@ -62,12 +68,6 @@ country_event = {
 			constructing_cb_type = conquest
 			constructing_cb_type = demand_concession_casus_belli
 			constructing_cb_type = establish_protectorate_casus_belli
-			}
-		NOT = {
-			OR = {	
-					has_country_modifier = CB_gen_plus
-					has_country_modifier = CB_gen_minus
-				}
 			}
 	}
 	
@@ -104,15 +104,15 @@ country_event = {
 	picture = "Outside_influences" 
 	
 	trigger = {
-		NOT = { involved_in_crisis = yes }
-		constructing_cb_progress = 10 #10% progress
-		constructing_cb_type = take_from_sphere
 		NOT = {
 			OR = {	
 					has_country_modifier = CB_gen_plus
 					has_country_modifier = CB_gen_minus
 				}
 			}
+		NOT = { involved_in_crisis = yes }
+		constructing_cb_progress = 10 #10% progress
+		constructing_cb_type = take_from_sphere
 	}
 	
 	mean_time_to_happen = {
@@ -148,15 +148,15 @@ country_event = {
 	picture = "Demonstration" 
 	
 	trigger = {
-		NOT = { involved_in_crisis = yes }
-		constructing_cb_progress = 10 #10% progress
-		constructing_cb_type = take_from_sphere
 		NOT = {
 			OR = {	
 					has_country_modifier = CB_gen_plus
 					has_country_modifier = CB_gen_minus
 				}
 			}
+		NOT = { involved_in_crisis = yes }
+		constructing_cb_progress = 10 #10% progress
+		constructing_cb_type = take_from_sphere
 	}
 	
 		mean_time_to_happen = {
@@ -192,15 +192,15 @@ country_event = {
 	picture = "Opiumwar" 
 	
 	trigger = {
-		NOT = { involved_in_crisis = yes }
-		constructing_cb_progress = 10 #10% progress
-		constructing_cb_type = add_to_sphere
 		NOT = {
 			OR = {	
 					has_country_modifier = CB_gen_plus
 					has_country_modifier = CB_gen_minus
 				}
 			}
+		NOT = { involved_in_crisis = yes }
+		constructing_cb_progress = 10 #10% progress
+		constructing_cb_type = add_to_sphere
 	}
 	
 	mean_time_to_happen = {
@@ -236,15 +236,15 @@ country_event = {
 	picture = "SeaPower" 
 	
 	trigger = {
-		NOT = { involved_in_crisis = yes }
-		constructing_cb_progress = 10 #10% progress
-		constructing_cb_type = add_to_sphere
 		NOT = {
 			OR = {	
 					has_country_modifier = CB_gen_plus
 					has_country_modifier = CB_gen_minus
 				}
 			}
+		NOT = { involved_in_crisis = yes }
+		constructing_cb_progress = 10 #10% progress
+		constructing_cb_type = add_to_sphere
 	}
 	
 	mean_time_to_happen = {
@@ -280,15 +280,15 @@ country_event = {
 	picture = "native_force" 
 	
 	trigger = {
-		NOT = { involved_in_crisis = yes }
-		constructing_cb_progress = 10 #10% progress
-		constructing_cb_type = place_in_the_sun
 		NOT = {
 			OR = {	
 					has_country_modifier = CB_gen_plus
 					has_country_modifier = CB_gen_minus
 				}
 			}
+		NOT = { involved_in_crisis = yes }
+		constructing_cb_progress = 10 #10% progress
+		constructing_cb_type = place_in_the_sun
 	}
 	
 	mean_time_to_happen = {
@@ -324,15 +324,15 @@ country_event = {
 	picture = "treaty" 
 	
 	trigger = {
-		NOT = { involved_in_crisis = yes }
-		constructing_cb_progress = 10 #10% progress
-		constructing_cb_type = place_in_the_sun
 		NOT = {
 			OR = {	
 					has_country_modifier = CB_gen_plus
 					has_country_modifier = CB_gen_minus
 				}
 			}
+		NOT = { involved_in_crisis = yes }
+		constructing_cb_progress = 10 #10% progress
+		constructing_cb_type = place_in_the_sun
 	}
 	
 	mean_time_to_happen = {
@@ -368,17 +368,17 @@ country_event = {
 	picture = "threehurrahs" 
 	
 	trigger = {
-		NOT = { involved_in_crisis = yes }
-		constructing_cb_progress = 10 #10% progress
-		OR = {
-			constructing_cb_type = cut_down_to_size
-			constructing_cb_type = humiliate
-			}
 		NOT = {
 			OR = {	
 					has_country_modifier = CB_gen_plus
 					has_country_modifier = CB_gen_minus
 				}
+			}
+		NOT = { involved_in_crisis = yes }
+		constructing_cb_progress = 10 #10% progress
+		OR = {
+			constructing_cb_type = cut_down_to_size
+			constructing_cb_type = humiliate
 			}
 	}
 	
@@ -415,17 +415,17 @@ country_event = {
 	picture = "anticorn" 
 	
 	trigger = {
-		NOT = { involved_in_crisis = yes }
-		constructing_cb_progress = 10 #10% progress
-		OR = {
-			constructing_cb_type = cut_down_to_size
-			constructing_cb_type = humiliate
-			}
 		NOT = {
 			OR = {	
 					has_country_modifier = CB_gen_plus
 					has_country_modifier = CB_gen_minus
 				}
+			}
+		NOT = { involved_in_crisis = yes }
+		constructing_cb_progress = 10 #10% progress
+		OR = {
+			constructing_cb_type = cut_down_to_size
+			constructing_cb_type = humiliate
 			}
 	}
 	

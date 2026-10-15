@@ -11,14 +11,17 @@ province_event = {
 	desc = "EVTDESC98800"
 	
 	trigger = {
+		owned_by = THIS
+		controlled_by = THIS
+		NOT = {
+			is_core = NGR
+		}
 		OR = {
 			region = FRA_1923
 			region = FRA_1930
 			region = SOK_1937
 			region = FRA_1927
 		}
-		owned_by = THIS
-		controlled_by = THIS
 		any_neighbor_province = {
 			is_core = NGR
 		}
@@ -39,9 +42,6 @@ province_event = {
 				vassal_of = THIS
 				is_culture_group = THIS
 			}
-		}
-		NOT = {
-			is_core = NGR
 		}
 	}
 	
@@ -70,9 +70,12 @@ province_event = {
 	desc = "EVTDESC98800"
 	
 	trigger = {
-		region = SOK_1934
 		owned_by = THIS
 		controlled_by = THIS
+		NOT = {
+			is_core = NGR
+		}
+		region = SOK_1934
 		any_neighbor_province = {
 			is_core = NGR
 		}
@@ -93,9 +96,6 @@ province_event = {
 				vassal_of = THIS
 				is_culture_group = THIS
 			}
-		}
-		NOT = {
-			is_core = NGR
 		}
 	}
 	
@@ -125,9 +125,12 @@ province_event = {
 	desc = "EVTDESC98800"
 	
 	trigger = {
-		region = SOK_1945
 		owned_by = THIS
 		controlled_by = THIS
+		NOT = {
+			is_core = NGR
+		}
+		region = SOK_1945
 		any_neighbor_province = {
 			is_core = NGR
 		}
@@ -148,9 +151,6 @@ province_event = {
 				vassal_of = THIS
 				is_culture_group = THIS
 			}
-		}
-		NOT = {
-			is_core = NGR
 		}
 	}
 	
@@ -180,9 +180,9 @@ province_event = {
 	desc = "EVTDESC98800"
 	
 	trigger = {
-		region = SOK_1963
 		owned_by = THIS
 		controlled_by = THIS
+		region = SOK_1963
 		any_neighbor_province = {
 			is_core = NGR
 		}
@@ -253,9 +253,9 @@ province_event = {
 	desc = "EVTDESC98805"
 	
 	trigger = {
-		region = FRA_1919
 		owned_by = THIS
 		controlled_by = THIS
+		region = FRA_1919
 		any_neighbor_province = {
 			is_core = TOG
 		}
@@ -312,9 +312,12 @@ province_event = {
 	desc = "EVTDESC98805"
 	
 	trigger = {
-		region = FRA_1914
 		owned_by = THIS
 		controlled_by = THIS
+		NOT = {
+			is_core = TOG
+		}
+		region = FRA_1914
 		any_neighbor_province = {
 			is_core = TOG
 		}
@@ -335,9 +338,6 @@ province_event = {
 				vassal_of = THIS
 				is_culture_group = THIS
 			}
-		}
-		NOT = {
-			is_core = TOG
 		}
 	}
 	
@@ -366,9 +366,12 @@ province_event = {
 	desc = "EVTDESC98806"
 	
 	trigger = {
-		region = FRA_1788
 		owned_by = THIS
 		controlled_by = THIS
+		NOT = {
+			is_core = GMB
+		}
+		region = FRA_1788
 		any_neighbor_province = {
 			is_core = GMB
 		}
@@ -389,9 +392,6 @@ province_event = {
 				vassal_of = THIS
 				is_culture_group = THIS
 			}
-		}
-		NOT = {
-			is_core = GMB
 		}
 	}
 	
@@ -422,9 +422,12 @@ province_event = {
 	desc = "EVTDESC98807"
 	
 	trigger = {
-		region = FRA_1892
 		owned_by = THIS
 		controlled_by = THIS
+		NOT = {
+			is_core = IVC
+		}
+		region = FRA_1892
 		any_neighbor_province = {
 			is_core = IVC
 		}
@@ -445,9 +448,6 @@ province_event = {
 				vassal_of = THIS
 				is_culture_group = THIS
 			}
-		}
-		NOT = {
-			is_core = IVC
 		}
 	}
 	
@@ -476,9 +476,12 @@ province_event = {
 	desc = "EVTDESC98807"
 	
 	trigger = {
-		region = FRA_1893
 		owned_by = THIS
 		controlled_by = THIS
+		NOT = {
+			is_core = IVC
+		}
+		region = FRA_1893
 		any_neighbor_province = {
 			is_core = IVC
 		}
@@ -499,9 +502,6 @@ province_event = {
 				vassal_of = THIS
 				is_culture_group = THIS
 			}
-		}
-		NOT = {
-			is_core = IVC
 		}
 	}
 	
@@ -533,9 +533,12 @@ province_event = {
 	desc = "EVTDESC98810"
 	
 	trigger = {
-		region = FRA_1884
 		owned_by = THIS
 		controlled_by = THIS
+		NOT = {
+			is_core = SLE
+		}
+		region = FRA_1884
 		any_neighbor_province = {
 			is_core = SLE
 		}
@@ -556,9 +559,6 @@ province_event = {
 				vassal_of = THIS
 				is_culture_group = THIS
 			}
-		}
-		NOT = {
-			is_core = SLE
 		}
 	}
 	
@@ -587,12 +587,12 @@ province_event = {
 	desc = "EVTDESC98810"
 	
 	trigger = {
+		owned_by = THIS
+		controlled_by = THIS
 		OR = {
 			region = FRA_1883
 			region = FRA_1878
 		}
-		owned_by = THIS
-		controlled_by = THIS
 		any_neighbor_province = {
 			is_core = SLE
 		}
@@ -650,9 +650,9 @@ province_event = {
 	desc = "EVTDESC98810"
 	
 	trigger = {
-		region = FRA_1893
 		owned_by = THIS
 		controlled_by = THIS
+		region = FRA_1893
 		any_neighbor_province = {
 			is_core = SLE
 		}
@@ -715,9 +715,12 @@ province_event = {
 	desc = "EVTDESC98815"
 	
 	trigger = {
-		region = FRA_1878
 		owned_by = THIS
 		controlled_by = THIS
+		NOT = {
+			is_core = GNE
+		}
+		region = FRA_1878
 		any_neighbor_province = {
 			is_core = GNE
 		}
@@ -738,9 +741,6 @@ province_event = {
 				vassal_of = THIS
 				is_culture_group = THIS
 			}
-		}
-		NOT = {
-			is_core = GNE
 		}
 	}
 	
@@ -769,9 +769,12 @@ province_event = {
 	desc = "EVTDESC98815"
 	
 	trigger = {
-		region = FRA_1883
 		owned_by = THIS
 		controlled_by = THIS
+		NOT = {
+			is_core = GNE
+		}
+		region = FRA_1883
 		any_neighbor_province = {
 			is_core = GNE
 		}
@@ -792,9 +795,6 @@ province_event = {
 				vassal_of = THIS
 				is_culture_group = THIS
 			}
-		}
-		NOT = {
-			is_core = GNE
 		}
 	}
 	
@@ -824,9 +824,9 @@ province_event = {
 	desc = "EVTDESC98815"
 	
 	trigger = {
-		region = FRA_1884
 		owned_by = THIS
 		controlled_by = THIS
+		region = FRA_1884
 		any_neighbor_province = {
 			is_core = GNE
 		}
@@ -887,9 +887,9 @@ province_event = {
 	desc = "EVTDESC98815"
 	
 	trigger = {
-		region = FRA_1788
 		owned_by = THIS
 		controlled_by = THIS
+		region = FRA_1788
 		any_neighbor_province = {
 			is_core = GNE
 		}
@@ -959,9 +959,12 @@ province_event = {
 	desc = "EVTDESC98820"
 	
 	trigger = {
-		region = FRA_1783
 		owned_by = THIS
 		controlled_by = THIS
+		NOT = {
+			is_core = SNG
+		}
+		region = FRA_1783
 		any_neighbor_province = {
 			is_core = SNG
 		}
@@ -982,9 +985,6 @@ province_event = {
 				vassal_of = THIS
 				is_culture_group = THIS
 			}
-		}
-		NOT = {
-			is_core = SNG
 		}
 	}
 	
@@ -1012,9 +1012,9 @@ province_event = {
 	desc = "EVTDESC98820"
 	
 	trigger = {
-		region = FRA_1788
 		owned_by = THIS
 		controlled_by = THIS
+		region = FRA_1788
 		any_neighbor_province = {
 			is_core = SNG
 		}
@@ -1075,12 +1075,15 @@ province_event = {
 	desc = "EVTDESC98825"
 	
 	trigger = {
+		owned_by = THIS
+		controlled_by = THIS
+		NOT = {
+			is_core = NIG
+		}
 		OR = {
 			region = FRA_1808
 			region = FRA_1813
 		}
-		owned_by = THIS
-		controlled_by = THIS
 		any_neighbor_province = {
 			is_core = NIG
 		}
@@ -1101,9 +1104,6 @@ province_event = {
 				vassal_of = THIS
 				is_culture_group = THIS
 			}
-		}
-		NOT = {
-			is_core = NIG
 		}
 	}
 	
@@ -1132,6 +1132,8 @@ province_event = {
 	desc = "EVTDESC98825"
 	
 	trigger = {
+		owned_by = THIS
+		controlled_by = THIS
 		OR = {
 			region = FRA_1927
 			region = SOK_1945
@@ -1139,8 +1141,6 @@ province_event = {
 			region = FRA_1930
 			region = SOK_1934
 		}
-		owned_by = THIS
-		controlled_by = THIS
 		any_neighbor_province = {
 			is_core = NIG
 		}
@@ -1201,9 +1201,9 @@ province_event = {
 	desc = "EVTDESC98825"
 	
 	trigger = {
-		region = ENG_1825
 		owned_by = THIS
 		controlled_by = THIS
+		region = ENG_1825
 		any_neighbor_province = {
 			is_core = NIG
 		}
@@ -1265,9 +1265,12 @@ province_event = {
 	desc = "EVTDESC98830"
 	
 	trigger = {
-		region = ENG_1818
 		owned_by = THIS
 		controlled_by = THIS
+		NOT = {
+			is_core = CHD
+		}
+		region = ENG_1818
 		any_neighbor_province = {
 			is_core = CHD
 		}
@@ -1288,9 +1291,6 @@ province_event = {
 				vassal_of = THIS
 				is_culture_group = THIS
 			}
-		}
-		NOT = {
-			is_core = CHD
 		}
 	}
 	
@@ -1318,9 +1318,12 @@ province_event = {
 	desc = "EVTDESC98830"
 	
 	trigger = {
-		region = ENG_1825
 		owned_by = THIS
 		controlled_by = THIS
+		NOT = {
+			is_core = CHD
+		}
+		region = ENG_1825
 		any_neighbor_province = {
 			is_core = CHD
 		}
@@ -1341,9 +1344,6 @@ province_event = {
 				vassal_of = THIS
 				is_culture_group = THIS
 			}
-		}
-		NOT = {
-			is_core = CHD
 		}
 	}
 	
@@ -1374,9 +1374,9 @@ province_event = {
 	desc = "EVTDESC98830"
 	
 	trigger = {
-		region = EGY_1842
 		owned_by = THIS
 		controlled_by = THIS
+		region = EGY_1842
 		any_neighbor_province = {
 			is_core = CHD
 		}
@@ -1446,9 +1446,9 @@ province_event = {
 	desc = "EVTDESC98830"
 	
 	trigger = {
-		region = FRA_1813
 		owned_by = THIS
 		controlled_by = THIS
+		region = FRA_1813
 		any_neighbor_province = {
 			is_core = CHD
 		}
@@ -1509,9 +1509,9 @@ province_event = {
 	desc = "EVTDESC98830"
 	
 	trigger = {
-		region = TRI_1735
 		owned_by = THIS
 		controlled_by = THIS
+		region = TRI_1735
 		any_neighbor_province = {
 			is_core = CHD
 		}
@@ -1575,12 +1575,12 @@ province_event = {
 	desc = "EVTDESC98835"
 	
 	trigger = {
+		owned_by = THIS
+		controlled_by = THIS
 		OR = {
 			region = ENG_1956
 			region = SPA_1955
 		}
-		owned_by = THIS
-		controlled_by = THIS
 		any_neighbor_province = {
 			is_core = CMR
 		}
@@ -1640,9 +1640,12 @@ province_event = {
 	desc = "EVTDESC98835"
 	
 	trigger = {
-		region = SOK_1963
 		owned_by = THIS
 		controlled_by = THIS
+		NOT = {
+			is_core = CMR
+		}
+		region = SOK_1963
 		any_neighbor_province = {
 			is_core = CMR
 		}
@@ -1663,9 +1666,6 @@ province_event = {
 				vassal_of = THIS
 				is_culture_group = THIS
 			}
-		}
-		NOT = {
-			is_core = CMR
 		}
 	}
 	
@@ -1697,12 +1697,15 @@ province_event = {
 	desc = "EVTDESC98837"
 	
 	trigger = {
+		owned_by = THIS
+		controlled_by = THIS
+		NOT = {
+			is_core = GAB
+		}
 		OR = {
 			region = FRA_1972
 			region = SPA_1955
 		}
-		owned_by = THIS
-		controlled_by = THIS
 		any_neighbor_province = {
 			is_core = GAB
 		}
@@ -1723,9 +1726,6 @@ province_event = {
 				vassal_of = THIS
 				is_culture_group = THIS
 			}
-		}
-		NOT = {
-			is_core = GAB
 		}
 	}
 	
@@ -1754,9 +1754,9 @@ province_event = {
 	desc = "EVTDESC98837"
 	
 	trigger = {
-		region = FRA_1978
 		owned_by = THIS
 		controlled_by = THIS
+		region = FRA_1978
 		any_neighbor_province = {
 			is_core = GAB
 		}
@@ -1815,13 +1815,13 @@ province_event = {
 	desc = "EVTDESC98840"
 	
 	trigger = {
+		owned_by = THIS
+		controlled_by = THIS
 		OR = {
 			region = FRA_1978
 			region = BEL_1977
 			region = POR_1999
 		}
-		owned_by = THIS
-		controlled_by = THIS
 		any_neighbor_province = {
 			is_core = CGO
 		}
@@ -1882,9 +1882,9 @@ province_event = {
 	desc = "EVTDESC98840"
 	
 	trigger = {
-		region = BEL_1992
 		owned_by = THIS
 		controlled_by = THIS
+		region = BEL_1992
 		any_neighbor_province = {
 			is_core = CGO
 		}
@@ -1942,9 +1942,9 @@ province_event = {
 	desc = "EVTDESC98840"
 	
 	trigger = {
-		region = BEL_1984
 		owned_by = THIS
 		controlled_by = THIS
+		region = BEL_1984
 		any_neighbor_province = {
 			is_core = CGO
 		}
@@ -2002,9 +2002,9 @@ province_event = {
 	desc = "EVTDESC98840"
 	
 	trigger = {
-		region = BEL_1990
 		owned_by = THIS
 		controlled_by = THIS
+		region = BEL_1990
 		any_neighbor_province = {
 			is_core = CGO
 		}
@@ -2063,9 +2063,12 @@ province_event = {
 	desc = "EVTDESC98845"
 	
 	trigger = {
-		region = BEL_1977
 		owned_by = THIS
 		controlled_by = THIS
+		NOT = {
+			is_core = CNG
+		}
+		region = BEL_1977
 		any_neighbor_province = {
 			is_core = CNG
 		}
@@ -2086,9 +2089,6 @@ province_event = {
 				vassal_of = THIS
 				is_culture_group = THIS
 			}
-		}
-		NOT = {
-			is_core = CNG
 		}
 	}
 	
@@ -2118,9 +2118,12 @@ province_event = {
 	desc = "EVTDESC98845"
 	
 	trigger = {
-		region = BEL_1984
 		owned_by = THIS
 		controlled_by = THIS
+		NOT = {
+			is_core = CNG
+		}
+		region = BEL_1984
 		any_neighbor_province = {
 			is_core = CNG
 		}
@@ -2141,9 +2144,6 @@ province_event = {
 				vassal_of = THIS
 				is_culture_group = THIS
 			}
-		}
-		NOT = {
-			is_core = CNG
 		}
 	}
 	
@@ -2173,9 +2173,9 @@ province_event = {
 	desc = "EVTDESC98845"
 	
 	trigger = {
-		region = BEL_1992
 		owned_by = THIS
 		controlled_by = THIS
+		region = BEL_1992
 		any_neighbor_province = {
 			is_core = CNG
 		}
@@ -2237,12 +2237,12 @@ province_event = {
 	desc = "EVTDESC98845"
 	
 	trigger = {
+		owned_by = THIS
+		controlled_by = THIS
 		OR = {
 			region = BEL_1990
 			region = BEL_1996
 		}
-		owned_by = THIS
-		controlled_by = THIS
 		any_neighbor_province = {
 			is_core = CNG
 		}
@@ -2303,12 +2303,15 @@ province_event = {
 	desc = "EVTDESC98845"
 	
 	trigger = {
+		owned_by = THIS
+		controlled_by = THIS
+		NOT = {
+			is_core = CNG			
+		}
 		OR = {
 			region = POR_2006
 			region = BEL_1987
 		}
-		owned_by = THIS
-		controlled_by = THIS
 		any_neighbor_province = {
 			is_core = CNG
 		}
@@ -2329,9 +2332,6 @@ province_event = {
 				vassal_of = THIS
 				is_culture_group = THIS
 			}
-		}
-		NOT = {
-			is_core = CNG			
 		}
 	}
 	
@@ -2363,9 +2363,12 @@ province_event = {
 	desc = "EVTDESC98852"
 	
 	trigger = {
-		region = FRA_1965
 		owned_by = THIS
 		controlled_by = THIS
+		NOT = {
+			is_core = CAR
+		}
+		region = FRA_1965
 		any_neighbor_province = {
 			is_core = CAR
 		}
@@ -2386,9 +2389,6 @@ province_event = {
 				vassal_of = THIS
 				is_culture_group = THIS
 			}
-		}
-		NOT = {
-			is_core = CAR
 		}
 	}
 	
@@ -2465,12 +2465,12 @@ province_event = {
 	desc = "EVTDESC98852"
 	
 	trigger = {
+		owned_by = THIS
+		controlled_by = THIS
 		OR = {
 			region = ENG_1844
 			region = EGY_1842
 		}
-		owned_by = THIS
-		controlled_by = THIS
 		any_neighbor_province = {
 			is_core = CAR
 		}
@@ -2533,9 +2533,9 @@ province_event = {
 	desc = "EVTDESC98852"
 	
 	trigger = {
-		region = BEL_1992
 		owned_by = THIS
 		controlled_by = THIS
+		region = BEL_1992
 		any_neighbor_province = {
 			is_core = CAR
 		}
@@ -2605,9 +2605,9 @@ province_event = {
 	desc = "EVTDESC98852"
 	
 	trigger = {
-		region = BEL_1990
 		owned_by = THIS
 		controlled_by = THIS
+		region = BEL_1990
 		any_neighbor_province = {
 			is_core = CAR
 		}
@@ -2668,9 +2668,9 @@ province_event = {
 	desc = "EVTDESC98852"
 	
 	trigger = {
-		region = SOK_1963
 		owned_by = THIS
 		controlled_by = THIS
+		region = SOK_1963
 		any_neighbor_province = {
 			is_core = CAR
 		}
@@ -2730,12 +2730,15 @@ province_event = {
 	desc = "EVTDESC98858"
 	
 	trigger = {
+		owned_by = THIS
+		controlled_by = THIS
+		NOT = {
+			is_core = SUD
+		}
 		OR = {
 			region = EGY_1842
 			region = ENG_1844
 		}
-		owned_by = THIS
-		controlled_by = THIS
 		any_neighbor_province = {
 			is_core = SUD
 		}
@@ -2756,9 +2759,6 @@ province_event = {
 			SUD = {
 				vassal_of = THIS
 			}
-		}
-		NOT = {
-			is_core = SUD
 		}
 	}
 	
@@ -2789,12 +2789,15 @@ province_event = {
 	desc = "EVTDESC98860"
 	
 	trigger = {
+		owned_by = THIS
+		controlled_by = THIS
+		NOT = {
+			is_core = ZAM
+		}
 		OR = {
 			region = ENG_2014
 			region = ENG_2016
 		}
-		owned_by = THIS
-		controlled_by = THIS
 		any_neighbor_province = {
 			is_core = ZAM
 		}
@@ -2815,9 +2818,6 @@ province_event = {
 				vassal_of = THIS
 				is_culture_group = THIS
 			}
-		}
-		NOT = {
-			is_core = ZAM
 		}
 	}
 	
@@ -2846,9 +2846,9 @@ province_event = {
 	desc = "EVTDESC98860"
 	
 	trigger = {
-		region = BEL_1987
 		owned_by = THIS
 		controlled_by = THIS
+		region = BEL_1987
 		any_neighbor_province = {
 			is_core = ZAM
 		}
@@ -2906,13 +2906,13 @@ province_event = {
 	desc = "EVTDESC98860"
 	
 	trigger = {
+		owned_by = THIS
+		controlled_by = THIS
 		OR = {
 			region = POR_2003
 			region = POR_2006
 			region = POR_1999
 		}
-		owned_by = THIS
-		controlled_by = THIS
 		any_neighbor_province = {
 			is_core = ZAM
 		}
@@ -2972,9 +2972,12 @@ province_event = {
 	desc = "EVTDESC98865"
 	
 	trigger = {
-		region = ENG_2024
 		owned_by = THIS
 		controlled_by = THIS
+		NOT = {
+			is_core = KNY
+		}
+		region = ENG_2024
 		any_neighbor_province = {
 			is_core = KNY
 		}
@@ -2995,9 +2998,6 @@ province_event = {
 				vassal_of = THIS
 				is_culture_group = THIS
 			}
-		}
-		NOT = {
-			is_core = KNY
 		}
 	}
 	
@@ -3026,9 +3026,12 @@ province_event = {
 	desc = "EVTDESC98865"
 	
 	trigger = {
-		region = ENG_2026
 		owned_by = THIS
 		controlled_by = THIS
+		NOT = {
+			is_core = KNY
+		}
+		region = ENG_2026
 		any_neighbor_province = {
 			is_core = KNY
 		}
@@ -3049,9 +3052,6 @@ province_event = {
 				vassal_of = THIS
 				is_culture_group = THIS
 			}
-		}
-		NOT = {
-			is_core = KNY
 		}
 	}
 	
@@ -3082,9 +3082,12 @@ province_event = {
 	desc = "EVTDESC98870"
 	
 	trigger = {
-		region = ENG_2044
 		owned_by = THIS
 		controlled_by = THIS
+		NOT = {
+			is_core = TNZ
+		}
+		region = ENG_2044
 		any_neighbor_province = {
 			is_core = TNZ
 		}
@@ -3105,9 +3108,6 @@ province_event = {
 				vassal_of = THIS
 				is_culture_group = THIS
 			}
-		}
-		NOT = {
-			is_core = TNZ
 		}
 	}
 	
@@ -3135,9 +3135,12 @@ province_event = {
 	desc = "EVTDESC98870"
 	
 	trigger = {
-		region = ENG_2039
 		owned_by = THIS
 		controlled_by = THIS
+		NOT = {
+			is_core = TNZ
+		}
+		region = ENG_2039
 		any_neighbor_province = {
 			is_core = TNZ
 		}
@@ -3158,9 +3161,6 @@ province_event = {
 				vassal_of = THIS
 				is_culture_group = THIS
 			}
-		}
-		NOT = {
-			is_core = TNZ
 		}
 	}
 	
@@ -3190,9 +3190,12 @@ province_event = {
 	desc = "EVTDESC98870"
 	
 	trigger = {
-		region = ENG_2036
 		owned_by = THIS
 		controlled_by = THIS
+		NOT = {
+			is_core = TNZ
+		}
+		region = ENG_2036
 		any_neighbor_province = {
 			is_core = TNZ
 		}
@@ -3213,9 +3216,6 @@ province_event = {
 				vassal_of = THIS
 				is_culture_group = THIS
 			}
-		}
-		NOT = {
-			is_core = TNZ
 		}
 	}
 	
@@ -3251,9 +3251,9 @@ province_event = {
 	desc = "EVTDESC98870"
 	
 	trigger = {
-		region = POR_2060
 		owned_by = THIS
 		controlled_by = THIS
+		region = POR_2060
 		any_neighbor_province = {
 			is_core = TNZ
 		}
@@ -3312,9 +3312,12 @@ province_event = {
 	desc = "EVTDESC98875"
 	
 	trigger = {
-		region = FRA_1803
 		owned_by = THIS
 		controlled_by = THIS
+		NOT = {
+			is_core = MLI
+		}
+		region = FRA_1803
 		any_neighbor_province = {
 			is_core = MLI
 		}
@@ -3335,9 +3338,6 @@ province_event = {
 				vassal_of = THIS
 				is_culture_group = THIS
 			}
-		}
-		NOT = {
-			is_core = MLI
 		}
 	}
 	
@@ -3366,9 +3366,12 @@ province_event = {
 	desc = "EVTDESC98875"
 	
 	trigger = {
-		region = FRA_1798
 		owned_by = THIS
 		controlled_by = THIS
+		NOT = {
+			is_core = MLI
+		}
+		region = FRA_1798
 		any_neighbor_province = {
 			is_core = MLI
 		}
@@ -3389,9 +3392,6 @@ province_event = {
 				vassal_of = THIS
 				is_culture_group = THIS
 			}
-		}
-		NOT = {
-			is_core = MLI
 		}
 	}
 	
@@ -3421,9 +3421,12 @@ province_event = {
 	desc = "EVTDESC98875"
 	
 	trigger = {
-		region = FRA_1801
 		owned_by = THIS
 		controlled_by = THIS
+		NOT = {
+			is_core = MLI
+		}
+		region = FRA_1801
 		any_neighbor_province = {
 			is_core = MLI
 		}
@@ -3444,9 +3447,6 @@ province_event = {
 				vassal_of = THIS
 				is_culture_group = THIS
 			}
-		}
-		NOT = {
-			is_core = MLI
 		}
 	}
 	
@@ -3478,9 +3478,9 @@ province_event = {
 	desc = "EVTDESC98875"
 	
 	trigger = {
-		region = FRA_1775
 		owned_by = THIS
 		controlled_by = THIS
+		region = FRA_1775
 		any_neighbor_province = { is_core = MLI }
 		owner = {
 			civilized = yes
@@ -3535,9 +3535,9 @@ province_event = {
 	desc = "EVTDESC98875"
 	
 	trigger = {
-		region = FRA_1798
 		owned_by = THIS
 		controlled_by = THIS
+		region = FRA_1798
 		any_neighbor_province = {
 			is_core = MLI
 		}
@@ -3595,12 +3595,15 @@ province_event = {
 	desc = "EVTDESC98880"
 	
 	trigger = {
+		owned_by = THIS
+		controlled_by = THIS
+		NOT = {
+			is_core = LBY
+		}
 		OR = {
 			region = TRI_1731
 			region = TRI_1735
 		}
-		owned_by = THIS
-		controlled_by = THIS
 		any_neighbor_province = {
 			is_core = LBY
 		}
@@ -3621,9 +3624,6 @@ province_event = {
 				vassal_of = THIS
 				is_culture_group = THIS
 			}
-		}
-		NOT = {
-			is_core = LBY
 		}
 	}
 	
@@ -3654,9 +3654,9 @@ province_event = {
 	desc = "EVTDESC98880"
 	
 	trigger = {
-		region = ENG_1825
 		owned_by = THIS
 		controlled_by = THIS
+		region = ENG_1825
 		any_neighbor_province = {
 			is_core = LBY
 		}
@@ -3716,12 +3716,12 @@ province_event = {
 	desc = "EVTDESC98883"
 	
 	trigger = {
+		owned_by = THIS
+		controlled_by = THIS
 		OR = {
 			region = ENG_2036
 			region = ENG_2039
 		}
-		owned_by = THIS
-		controlled_by = THIS
 		any_neighbor_province = {
 			is_core = ZAN
 		}
@@ -3779,13 +3779,16 @@ province_event = {
 	desc = "EVTDESC98884"
 	
 	trigger = {
+		owned_by = THIS
+		controlled_by = THIS
+		NOT = {
+			is_core = ANG
+		}
 		OR = {
 			region = POR_2003
 			region = POR_2006
 			region = POR_1999
 		}
-		owned_by = THIS
-		controlled_by = THIS
 		any_neighbor_province = {
 			is_core = ANG
 		}
@@ -3806,9 +3809,6 @@ province_event = {
 				vassal_of = THIS
 				is_culture_group = THIS
 			}
-		}
-		NOT = {
-			is_core = ANG
 		}
 	}
 	
@@ -3838,14 +3838,17 @@ province_event = {
 	desc = "EVTDESC98885"
 	
 	trigger = {
+		owned_by = THIS
+		controlled_by = THIS
+		NOT = {
+			is_core = MOZ
+		}
 		OR = {
 			region = POR_2049
 			region = POR_2053
 			region = POR_2060
 			region = POR_2054
 		}
-		owned_by = THIS
-		controlled_by = THIS
 		any_neighbor_province = {
 			is_core = MOZ
 		}
@@ -3866,9 +3869,6 @@ province_event = {
 				vassal_of = THIS
 				is_culture_group = THIS
 			}
-		}
-		NOT = {
-			is_core = MOZ
 		}
 	}
 	
@@ -3897,9 +3897,9 @@ province_event = {
 	desc = "EVTDESC98885"
 	
 	trigger = {
-		region = ENG_2039 
 		owned_by = THIS
 		controlled_by = THIS
+		region = ENG_2039
 		any_neighbor_province = {
 			is_core = MOZ
 		}
@@ -3963,9 +3963,9 @@ province_event = {
 	desc = "EVTDESC98890"
 	
 	trigger = {
-		region = MOR_1696
 		owned_by = THIS
 		controlled_by = THIS
+		region = MOR_1696
 		any_neighbor_province = {
 			is_core = TRZ
 		}
@@ -4022,9 +4022,12 @@ province_event = {
 	desc = "EVTDESC98891"
 	
 	trigger = {
-		region = MOR_1696
 		owned_by = THIS
 		controlled_by = THIS
+		NOT = {
+			is_core = MOR
+		}
+		region = MOR_1696
 		any_neighbor_province = {
 			is_core = MOR
 		}
@@ -4047,9 +4050,6 @@ province_event = {
 			MOR = {
 				vassal_of = THIS
 			}
-		}
-		NOT = {
-			is_core = MOR
 		}
 	}
 	
@@ -4079,12 +4079,12 @@ province_event = {
 	desc = "EVTDESC98892"
 	
 	trigger = {
+		owned_by = THIS
+		controlled_by = THIS
 		OR = {
 			region = FRA_1892
 			region = FRA_1893
 		}
-		owned_by = THIS
-		controlled_by = THIS
 		any_neighbor_province = {
 			is_core = ASH
 		}
@@ -4148,9 +4148,12 @@ province_event = {
 	desc = "EVTDESC98893"
 	
 	trigger = {
-		region = FRA_1901
 		owned_by = THIS
 		controlled_by = THIS
+		NOT = {
+			is_core = MOS
+		}
+		region = FRA_1901
 		any_neighbor_province = {
 			is_core = MOS
 		}
@@ -4171,9 +4174,6 @@ province_event = {
 			MOS = {
 				vassal_of = THIS
 			}
-		}
-		NOT = {
-			is_core = MOS
 		}
 	}
 	
@@ -4202,12 +4202,12 @@ province_event = {
 	desc = "EVTDESC98893"
 	
 	trigger = {
+		owned_by = THIS
+		controlled_by = THIS
 		OR = {
 			region = FRA_1798
 			region = FRA_1803
 		}
-		owned_by = THIS
-		controlled_by = THIS
 		any_neighbor_province = {
 			is_core = MOS
 		}
@@ -4265,9 +4265,9 @@ province_event = {
 	desc = "EVTDESC98895"
 	
 	trigger = {
-		region = ENG_2026
 		owned_by = THIS
 		controlled_by = THIS
+		region = ENG_2026
 		any_neighbor_province = {
 			is_core = BUG
 		}
@@ -4324,9 +4324,9 @@ province_event = {
 	desc = "EVTDESC98895"
 	
 	trigger = {
-		region = ENG_1844
 		owned_by = THIS
 		controlled_by = THIS
+		region = ENG_1844
 		any_neighbor_province = {
 			is_core = BUG
 		}
@@ -4390,6 +4390,11 @@ province_event = {
 	desc = "EVTDESC98900"
 	
 	trigger = {
+		owned_by = THIS
+		controlled_by = THIS
+		NOT = {
+			is_core = SAF
+		}
 		OR = {
 			region = ENG_2087
 			region = ENG_2092
@@ -4400,8 +4405,6 @@ province_event = {
 			region = ZUL_2113
 			region = ENG_2083
 		}
-		owned_by = THIS
-		controlled_by = THIS
 		any_neighbor_province = {
 			is_core = SAF
 		}
@@ -4422,9 +4425,6 @@ province_event = {
 				vassal_of = THIS
 				is_culture_group = THIS
 			}
-		}
-		NOT = {
-			is_core = SAF
 		}
 	}
 	
@@ -4456,6 +4456,14 @@ province_event = {
 	desc = "EVTDESC98905"
 	
 	trigger = {
+		owned_by = THIS
+		controlled_by = THIS
+		NOT = {
+			is_core = RPL
+			is_core = CAN
+			is_core = COL
+			is_core = QUE
+		}
 		OR = {
 			#region = ENG_6
 			region = ENG_9
@@ -4466,8 +4474,6 @@ province_event = {
 			region = CAN_50
 			region = CAN_60
 		}
-		owned_by = THIS
-		controlled_by = THIS
 		any_neighbor_province = {
 			is_core = RPL
 		}
@@ -4480,12 +4486,6 @@ province_event = {
 		OR = {
 			RPL = { exists = no }
 			RPL = { vassal_of = THIS }
-		}
-		NOT = {
-			is_core = RPL
-			is_core = CAN
-			is_core = COL
-			is_core = QUE
 		}
 	}
 	

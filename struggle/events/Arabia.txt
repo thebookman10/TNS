@@ -418,6 +418,8 @@ province_event = {
 	desc = "EVTDESC96106"
 	
 	trigger = {
+		controlled_by = THIS
+		NOT = { has_province_modifier = nationalist_agitation }
 		owner = {
 			has_country_flag = arab_revolt
 			NOT = { has_country_flag = arab_revolt_ended }
@@ -426,9 +428,6 @@ province_event = {
 				is_culture_group = iranian_turanian
 			}
 		}
-		
-		controlled_by = THIS
-		NOT = { has_province_modifier = nationalist_agitation }
 		any_core = {
 			OR = {
 				primary_culture = mashriqi

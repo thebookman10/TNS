@@ -2621,6 +2621,9 @@ country_event = {
 	fire_only_once = yes
 	
 	trigger = {
+		tag = ENG
+		has_global_flag = berlin_conference
+		owns = 2087
 		OR = {
 			AND = {
 				2068 = { empty = yes }
@@ -2633,13 +2636,10 @@ country_event = {
 				2635 = { owned_by = ENG }
 			}
 		}
-		tag = ENG
 		OR = {
 			2068 = { any_neighbor_province = { owned_by = THIS } }
 			2068 = { any_neighbor_province = { owner = { civilized = no in_sphere = THIS } } }
 		}
-		has_global_flag = berlin_conference
-		owns = 2087
 	}
 		
 	mean_time_to_happen = { days = 1 }

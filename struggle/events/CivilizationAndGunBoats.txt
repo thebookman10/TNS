@@ -2130,6 +2130,12 @@ province_event = {
 	news_desc_short = "EVTDESC13100_NEWS_SHORT"
 
 	trigger = {
+		OR = {
+			has_province_modifier = foreign_trading_post
+			has_province_modifier = western_presence
+			has_province_modifier = european_military_mission
+		}
+		NOT = { has_country_flag = gave_up_2nd_opium }
 		owner = {
 			NOT = { 
 				OR = {
@@ -2139,12 +2145,6 @@ province_event = {
 			}
 		}
 		average_militancy = 3
-		OR = {
-			has_province_modifier = foreign_trading_post
-			has_province_modifier = western_presence
-			has_province_modifier = european_military_mission
-		}
-		NOT = { has_country_flag = gave_up_2nd_opium }
 	}
 	mean_time_to_happen = {
 		months = 400
@@ -2499,6 +2499,13 @@ province_event = {
 	desc = "EVTDESC13150"
 	
 	trigger = {
+		OR = {
+			has_province_modifier = european_military_mission
+			has_province_modifier = western_presence
+			has_province_modifier = foreign_trading_post
+			has_province_modifier = foreign_smugglers
+		}
+		NOT = { has_country_flag = gave_up_2nd_opium }
 		owner = {
 			NOT = { 
 				OR = {
@@ -2507,14 +2514,7 @@ province_event = {
 				}
 			}
 		}
-		OR = {
-			has_province_modifier = european_military_mission
-			has_province_modifier = western_presence
-			has_province_modifier = foreign_trading_post
-			has_province_modifier = foreign_smugglers
-		}
 		average_militancy = 3
-		NOT = { has_country_flag = gave_up_2nd_opium }
 	}
 
 	mean_time_to_happen = {
@@ -4207,10 +4207,6 @@ country_event = {
 	picture = "Rebellion"
 	
 	trigger = {
-		OR = {
-			vassal_of = EIC
-			vassal_of = ENG
-		}
 		ai = yes
 		NOT = { tag = PAK }
 		NOT = { tag = MUG }
@@ -4229,10 +4225,6 @@ country_event = {
 		NOT = { tag = BUN }
 		NOT = { tag = BLC }
 		NOT = { has_country_flag = no_british_doctrine }
-		OR = {
-			EIC = { ideological_thought = 1 exists = yes }
-			ENG = { ideological_thought = 1 exists = yes }
-		}
 		OR = {
 			primary_culture = assamese
 			primary_culture = baluchi
@@ -4255,6 +4247,14 @@ country_event = {
 			primary_culture = tamil
 			primary_culture = telegu
 			tag = CRL
+		}
+		OR = {
+			vassal_of = EIC
+			vassal_of = ENG
+		}
+		OR = {
+			EIC = { ideological_thought = 1 exists = yes }
+			ENG = { ideological_thought = 1 exists = yes }
 		}
 	}
 	
@@ -4519,15 +4519,15 @@ country_event = {
 	fire_only_once = yes
 	
 	trigger = {
-			1714 = { empty = no }
-			1718 = { empty = no }
-			1714 = { NOT = { is_core = ALD } }
-			1718 = { NOT = { is_core = ALD } }
 			OR = {
 				owns = 1714
 				owns = 1718
 			}
 			NOT = { has_global_flag = algeria_claimed_sahara }
+			1714 = { empty = no }
+			1718 = { empty = no }
+			1714 = { NOT = { is_core = ALD } }
+			1718 = { NOT = { is_core = ALD } }
 		}
 
 	option = {
@@ -4544,6 +4544,9 @@ province_event = {
 	desc = "EVTDESC90954"
 		
 	trigger = {
+		port = yes
+		NOT = { has_province_modifier = treaty_port }
+		is_core = CHI
 		OR = {
 			province_id = 1498
 			province_id = 1496
@@ -4565,9 +4568,6 @@ province_event = {
 				NOT = { total_pops = 90000 }
 			}
 		}
-		port = yes
-		NOT = { has_province_modifier = treaty_port }
-		is_core = CHI
 		owner = {
 			civilized = yes
 			NOT = { is_culture_group = east_asian }
@@ -4595,12 +4595,12 @@ province_event = {
 	desc = "EVTDESC90955"
 		
 	trigger = {
+		trade_goods = precious_goods
 		owner = { capital_scope = { continent = asia } }
 		OR = {
 			owner = { is_culture_group = east_asian }
 			owner = { is_culture_group = far_east_asian }
 		}
-		trade_goods = precious_goods
 		OR = {
 			province_id = 1498
 			province_id = 1496
@@ -4707,6 +4707,8 @@ province_event = {
 	desc = "EVTDESC90954"
 		
 	trigger = {
+		port = yes
+		NOT = { has_province_modifier = treaty_port }
 		OR = {
 			AND = {
 				is_core = CHI
@@ -4718,8 +4720,6 @@ province_event = {
 			AND = { province_id = 1569 total_pops = 30000 }
 			AND = { province_id = 1566 total_pops = 30000 }
 		}
-		port = yes
-		NOT = { has_province_modifier = treaty_port }
 		owner = {
 			civilized = yes
 			NOT = { is_culture_group = east_asian }

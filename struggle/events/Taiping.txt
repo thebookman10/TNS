@@ -1101,13 +1101,8 @@ province_event = {
 	desc = "EVTDESC160012"
 	
 	trigger = {
-		owner = {
-			has_country_flag = heavenly_kingdom
-			tag = QNG
-		}
 		is_core = CHI
 		controlled_by = QNG
-		any_neighbor_province = { is_core = TPG }
 		NOT = {
 			is_core = QNG
 			is_core = TPG
@@ -1115,6 +1110,11 @@ province_event = {
 			has_province_modifier = christian_repression
 			has_global_flag = taiping_has_happened
 		}
+		owner = {
+			has_country_flag = heavenly_kingdom
+			tag = QNG
+		}
+		any_neighbor_province = { is_core = TPG }
 	}
 	
 	mean_time_to_happen = {
@@ -1214,19 +1214,19 @@ province_event = {
 	desc = "EVTDESC160013"
 	
 	trigger = {
-		owner = {
-			has_country_flag = heavenly_kingdom
-			tag = QNG
-		}
 		is_core = CHI
 		controlled_by = QNG
-		any_neighbor_province = { is_core = TPG }
 		NOT = {
 			is_core = QNG
 			is_core = TPG
 			has_province_modifier = anti_manchu_sentiment
 			has_global_flag = taiping_has_happened
 		}
+		owner = {
+			has_country_flag = heavenly_kingdom
+			tag = QNG
+		}
+		any_neighbor_province = { is_core = TPG }
 	}
 	
 	mean_time_to_happen = {
@@ -1427,8 +1427,8 @@ province_event = {
 	desc = "EVTDESC160017"
 	
 	trigger = {
-		owner = { tag = QNG }
 		is_core = TPG
+		owner = { tag = QNG }
 		NOT = {
 			has_global_flag = taiping_has_happened
 			average_militancy = 6
@@ -1500,6 +1500,7 @@ province_event = {
 	desc = "EVTDESC160020"
 	
 	trigger = {
+		is_core = CHI
 		owner = {
 			tag = QNG
 			has_country_flag = heavenly_kingdom
@@ -1525,7 +1526,6 @@ province_event = {
 			region = CHI_1519
 			region = CHI_1504
 		}
-		is_core = CHI
 		is_primary_culture = no
 		average_consciousness = 4
 		any_neighbor_province = { is_core = TPG }

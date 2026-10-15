@@ -6,8 +6,8 @@ country_event = {
 	picture = "prisonworkers"
 
 	trigger = {
-		crime_fighting = 0.5
 		civilized = yes
+		crime_fighting = 0.5
 		NOT = {
 			poor_strata_everyday_needs = 0.8
 		}
@@ -76,8 +76,8 @@ country_event = {
 	picture = "penal_colony"
 	
 	trigger = {
-		colonial_nation = yes
 		civilized = yes
+		colonial_nation = yes
 		NOT = {
 			poor_strata_everyday_needs = 0.9
 			has_country_modifier = penal_colonies
@@ -162,8 +162,8 @@ country_event = {
 	picture = "prisoners"
 	
 	trigger = {
-		NOT = { penal_system = rehabilitation }
 		civilized = yes
+		NOT = { penal_system = rehabilitation }
 		NOT = {
 			poor_strata_everyday_needs = 0.9
 		}

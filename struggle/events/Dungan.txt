@@ -11,6 +11,7 @@ province_event = {
 	desc = "EVTDESC80120"
 	
 	trigger = {
+		NOT = { has_province_modifier = anti_manchu_sentiment }
 		OR = {
 			owned_by = QNG
 			owner = { substate_of = QNG }
@@ -19,7 +20,6 @@ province_event = {
 			controlled_by = QNG
 			controller = { substate_of = QNG }
 		}
-		NOT = { has_province_modifier = anti_manchu_sentiment }
 		QNG = {
 			has_global_flag = hong
 			has_country_flag = mandate

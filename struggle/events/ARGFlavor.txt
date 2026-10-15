@@ -214,6 +214,12 @@ province_event = {
 	
 	trigger = {
 		OR = {
+			has_country_flag = conquest_of_the_desert
+			has_country_flag = occupation_of_araucania
+			has_country_flag = conquest_of_the_chaco
+		}
+		NOT = { life_rating = 18 }
+		OR = {
 			region = CHL_2332
 			region = ARG_2398
 			region = ARG_2391
@@ -226,12 +232,6 @@ province_event = {
 			province_id = 2393
 			province_id = 2395
 		}
-		OR = {
-			has_country_flag = conquest_of_the_desert
-			has_country_flag = occupation_of_araucania
-			has_country_flag = conquest_of_the_chaco
-		}
-		NOT = { life_rating = 18 }
 	}
 	
 	mean_time_to_happen = {

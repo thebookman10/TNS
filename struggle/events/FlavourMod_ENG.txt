@@ -124,12 +124,12 @@ province_event = {
 	fire_only_once = yes
 		
 	trigger = {
-		capital_scope = { continent = europe }
 		is_greater_power = yes
 		owns = 2033
 		owns = 2026
 		has_global_flag = berlin_conference
 		has_global_flag = kenya_organized
+		capital_scope = { continent = europe }
 	}
 	
 	mean_time_to_happen = { months = 12 }

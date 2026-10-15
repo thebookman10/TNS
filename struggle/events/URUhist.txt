@@ -252,7 +252,6 @@ country_event = {
 	fire_only_once = yes
 	
 	trigger = {
-		CRT = { exists = yes war = no }
 		NOT = { year = 1860 }
 		tag = URU
 		OR = {
@@ -263,6 +262,7 @@ country_event = {
 			has_country_flag = incite_rebellion
 			has_country_flag = rivera_backed_down	
 		}
+		CRT = { exists = yes war = no }
 	}
 	
 	mean_time_to_happen = { days = 15 }

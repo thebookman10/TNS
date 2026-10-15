@@ -1943,14 +1943,14 @@ province_event = {
 	id = 10170
 
 	trigger = {
+		NOT = { has_province_modifier = liberal_agitation }
+		is_colonial = no
 		owner = {
 			OR = {
 				has_country_flag = liberal_revolution_in_progress
 				has_country_modifier = springtime_of_nations
 			}
 		}
-		NOT = { has_province_modifier = liberal_agitation }
-		is_colonial = no
 		liberal = 20
 		any_neighbor_province = {
 			has_province_modifier = liberal_agitation
@@ -2195,10 +2195,10 @@ province_event = {
 	id = 10190
 
 	trigger = {
+		has_province_modifier = liberal_agitation
 		owner = {
 			NOT = { has_country_modifier = springtime_of_nations }
 		}
-		has_province_modifier = liberal_agitation
 		OR = {
 			conservative = 40
 			reactionary = 10
@@ -2944,13 +2944,15 @@ province_event = {
 	picture = "nationalists"
 
 	trigger = {
+		is_colonial = no
+		has_province_modifier = liberal_agitation
+		NOT = { has_province_modifier = nationalist_agitation }
 		owner = {
 			OR = {
 				has_country_flag = liberal_revolution_in_progress
 				has_country_modifier = springtime_of_nations
 			}
 		}
-		is_colonial = no
 		is_primary_culture = no
 		is_accepted_culture = no
 		any_core = {
@@ -2962,8 +2964,6 @@ province_event = {
 			}
 		}
 		liberal = 10
-		has_province_modifier = liberal_agitation
-		NOT = { has_province_modifier = nationalist_agitation }
 	}
 
 	mean_time_to_happen = {
@@ -3852,11 +3852,11 @@ country_event = {
 	picture = "Upperhouse"
 
 	trigger = {
+		has_pop_type = capitalists
 		NOT = {
 			economic_policy = laissez_faire
 			government = proletarian_dictatorship
 		}
-		has_pop_type = capitalists
 		average_consciousness = 2
 	}
 	
@@ -3927,8 +3927,8 @@ country_event = {
 	picture = "Demonstration"
 
 	trigger = {
-		freedom_of_trade = 1
 		civilized = yes
+		freedom_of_trade = 1
 		NOT = {
 			press_rights = state_press
 		}
@@ -3988,6 +3988,7 @@ country_event = {
 	picture = "demonstration"
 
 	trigger = {
+		civilized = yes
 		NOT = {
 			OR = {
 				vote_franschise = universal_weighted_voting
@@ -3995,7 +3996,6 @@ country_event = {
 				has_country_flag = isolationist
 			}
 		}
-		civilized = yes
 	}
 	
 	mean_time_to_happen = {

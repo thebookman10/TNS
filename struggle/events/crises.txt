@@ -153,9 +153,9 @@ country_event = {
 	desc = "EVTDESC20102"
 	picture = "crisis"
 	trigger = {
+		is_greater_power = yes
 		crisis_exist = yes
 		involved_in_crisis = yes
-		is_greater_power = yes
 		is_claim_crisis = yes
 	}
 	
@@ -203,9 +203,9 @@ country_event = {
 	desc = "EVTDESC20103"
 	picture = "crisis"
 	trigger = {
+		is_greater_power = yes
 		crisis_exist = yes
 		involved_in_crisis = yes
-		is_greater_power = yes
 		is_liberation_crisis = yes
 	}
 	
@@ -253,9 +253,9 @@ country_event = {
 	desc = "EVTDESC20104" 
 	picture = "crisis"
 	trigger = {
+		is_greater_power = no
 		crisis_exist = yes
 		involved_in_crisis = yes
-		is_greater_power = no
 		is_claim_crisis = yes
 	}
 	
@@ -304,9 +304,9 @@ country_event = {
 	picture = "crisis"
 	
 	trigger = {
+		is_greater_power = no
 		crisis_exist = yes
 		involved_in_crisis = yes
-		is_greater_power = no
 		is_liberation_crisis = yes
 	}
 	

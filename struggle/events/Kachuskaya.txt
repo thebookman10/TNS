@@ -42,13 +42,13 @@ country_event = {
 	picture = "food_shortage"
 
 	trigger = { 
+	tag = KSK 
+	year = 1850 
+	owns = 3324 
+	owns = 911 
+	owns = 3279 
+	owns = 3363 
 	nationalism_n_imperialism = 1
-	tag = KSK
-	 year = 1850
-	 owns = 3324
-	 owns = 911
-	 owns = 3279
-	 owns = 3363
 	}
 		
 	fire_only_once = yes
@@ -104,8 +104,8 @@ country_event = {
 	
 	
 	trigger = { 
+	has_global_flag = the_second_fall_of_constantinople 
 	capital_scope = { continent = europe }
-	has_global_flag = the_second_fall_of_constantinople
 	}
 	
 	mean_time_to_happen = {
