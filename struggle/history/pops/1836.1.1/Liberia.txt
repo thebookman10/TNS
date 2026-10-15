@@ -77,62 +77,33 @@
 	aristocrats = {
 		culture = mande
 		religion = animist
-		size = 150
+		size = 250
 	}
 
 	clergymen = {
-		culture = mande
-		religion = animist
-		size = 100
-	}
-
-	artisans = {
-		culture = mande
-		religion = animist
-		size = 450
-	}
-
-	soldiers = {
-		culture = mande
-		religion = animist
-		size = 100
-	}
-
-	farmers = {
-		culture = mande
-		religion = animist
-		size = 5225
-	}
-	#was african minor
-	aristocrats = {
-		culture = mande
-		religion = animist
-		size = 100
-	}
-
-	clergymen = {
-		culture = mande
-		religion = animist
-		size = 100
-	}
-
-	artisans = {
 		culture = mande
 		religion = animist
 		size = 200
 	}
 
+	artisans = {
+		culture = mande
+		religion = animist
+		size = 650
+	}
+
 	soldiers = {
 		culture = mande
 		religion = animist
-		size = 100
+		size = 200
 	}
 
 	farmers = {
 		culture = mande
 		religion = animist
-		size = 1625
+		size = 6850
 	}
+	#was african minor
 }
 #Harper (204000/51000 POPS) 
 1888 = {
@@ -332,13 +303,13 @@
 	clergymen = {
 		culture = afro_american
 		religion = animist
-		size = 250
+		size = 450
 	}
 
 	artisans = {
 		culture = afro_american
 		religion = animist
-		size = 1150
+		size = 2100
 	}
 
 	soldiers = {
@@ -357,18 +328,6 @@
 		culture = afro_american
 		religion = animist
 		size = 350
-	}
-
-	clergymen = {
-		culture = afro_american
-		religion = animist
-		size = 200
-	}
-
-	artisans = {
-		culture = afro_american
-		religion = animist
-		size = 950
 	}
 
 	soldiers = {

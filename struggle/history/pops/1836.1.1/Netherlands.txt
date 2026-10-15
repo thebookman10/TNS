@@ -39,22 +39,12 @@
 	artisans = {
 		culture = batavian_frankish
 		religion = protestant
-		size = 9400
-	}
-	artisans = {
-		culture = batavian_frankish
-		religion = protestant
-		size = 7520
+		size = 16920
 	}
 	soldiers = {
 		culture = batavian_frankish
 		religion = catholic
-		size = 9400
-	}
-	soldiers = {
-		culture = batavian_frankish
-		religion = catholic
-		size = 2256
+		size = 11656
 	}
 	farmers = {
 		culture = batavian_frankish
@@ -158,7 +148,7 @@
 	artisans = {
 		culture = dutch
 		religion = catholic
-		size = 3478
+		size = 3619
 	}
 	soldiers = {
 		culture = dutch
@@ -169,11 +159,6 @@
 		culture = dutch
 		religion = protestant
 		size = 33182
-	}
-	artisans = {
-		culture = dutch
-		religion = catholic
-		size = 141
 	}
 	farmers = {
 		culture = dutch
@@ -227,7 +212,7 @@
 	farmers = {
 		culture = dutch
 		religion = catholic
-		size = 47000
+		size = 49820
 	}
 	farmers = {
 		culture = ashkenazi
@@ -243,11 +228,6 @@
 		culture = dutch
 		religion = catholic
 		size = 141
-	}
-	farmers = {
-		culture = dutch
-		religion = catholic
-		size = 2820
 	}
 }
 #Breda (173200/43300 POPS)
@@ -307,86 +287,39 @@
 	farmers = {
 		culture = dutch
 		religion = protestant
-		size = 17850
+		size = 19050
 	}
 
-	farmers = {
-		culture = dutch
-		religion = protestant
-		size = 1200
-	}
-	
 	aristocrats = {
 		culture = dutch
 		religion = catholic
-		size = 300
+		size = 600
 	}
 
 	clergymen = {
 		culture = dutch
 		religion = catholic
-		size = 200
+		size = 400
 	}
 
 	artisans = {
 		culture = dutch
 		religion = catholic
-		size = 1100
+		size = 4000
 	}
 
 	soldiers = {
 		culture = dutch
 		religion = catholic
-		size = 1100
+		size = 2200
 	}
 	
-	artisans = {
-		culture = dutch
-		religion = catholic
-		size = 900
-	}
-
 	farmers = {
 		culture = dutch
 		religion = catholic
-		size = 29350
+		size = 47450
 	}
 	
-	aristocrats = {
-		culture = dutch
-		religion = catholic
-		size = 300
-	}
-
-	clergymen = {
-		culture = dutch
-		religion = catholic
-		size = 200
-	}
-
-	artisans = {
-		culture = dutch
-		religion = catholic
-		size = 1100
-	}
-
-	soldiers = {
-		culture = dutch
-		religion = catholic
-		size = 1100
-	}
-	
-	artisans = {
-		culture = dutch
-		religion = catholic
-		size = 900
-	}
-
-	farmers = {
-		culture = dutch
-		religion = catholic
-		size = 18100
-	}
 }
 #Arnhem (412000/103000 POPS)
 382 = {
@@ -477,12 +410,7 @@
 	soldiers = {
 		culture = frisian
 		religion = protestant
-		size = 2820
-	}
-	soldiers = {
-		culture = frisian
-		religion = protestant
-		size = 940
+		size = 3760
 	}
 	farmers = {
 		culture = frisian
@@ -515,12 +443,7 @@
 	soldiers = {
 		culture = batavian_frankish
 		religion = protestant
-		size = 2820
-	}
-	soldiers = {
-		culture = batavian_frankish
-		religion = protestant
-		size = 94
+		size = 2914
 	}
 	farmers = {
 		culture = batavian_frankish

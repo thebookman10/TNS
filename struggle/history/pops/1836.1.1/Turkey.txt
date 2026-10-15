@@ -35,7 +35,7 @@
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 17825
+		size = 29350
 	}
 
 	clergymen = {
@@ -54,12 +54,6 @@
 		culture = greek
 		religion = orthodox
 		size = 500
-	}
-
-	farmers = {
-		culture = greek
-		religion = orthodox
-		size = 11525
 	}
 
 	clergymen = {
@@ -145,7 +139,7 @@
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 21275
+		size = 38375
 	}
 	
 	soldiers = {
@@ -166,12 +160,6 @@
 		size = 550
 	}
 
-	farmers = {
-		culture = greek
-		religion = orthodox
-		size = 17100
-	}
-	
 	artisans = {
 		culture = sephardic
 		religion = jewish
@@ -207,7 +195,7 @@
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 18975
+		size = 37200
 	}
 	
 	soldiers = {
@@ -228,12 +216,6 @@
 		size = 450
 	}
 
-	farmers = {
-		culture = greek
-		religion = orthodox
-		size = 18225
-	}
-	
 	aristocrats = {
 		culture = aromanian
 		religion = orthodox
@@ -319,7 +301,7 @@
 	aristocrats = {
 		culture = greek
 		religion = orthodox
-		size = 1250
+		size = 1570
 	}
 
 	bureaucrats = {
@@ -331,73 +313,37 @@
 	officers = {
 		culture = greek
 		religion = orthodox
-		size = 250
+		size = 570
 	}
 
 	clergymen = {
 		culture = greek
 		religion = orthodox
-		size = 1425
+		size = 3175
 	}
 
 	artisans = {
 		culture = greek
 		religion = orthodox
-		size = 15000
+		size = 20000
 	}
 
 	soldiers = {
 		culture = greek
 		religion = orthodox
-		size = 6700
+		size = 10200
 	}
 
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 53675
+		size = 75575
 	}
 	
 	farmers = {
 		culture = circassian
 		religion = orthodox
-		size = 777
-	}
-	
-	aristocrats = {
-		culture = greek
-		religion = orthodox
-		size = 320
-	}
-	
-	officers = {
-		culture = greek
-		religion = orthodox
-		size = 320
-	}
-
-	soldiers = {
-		culture = greek
-		religion = orthodox
-		size = 3500
-	}
-
-	clergymen = {
-		culture = greek
-		religion = orthodox
-		size = 1750
-	}
-
-	artisans = {
-		culture = greek
-		religion = orthodox
-		size = 5000
-	}
-
-	farmers = {
-		culture = greek
-		religion = orthodox
-		size = 21900
+		size = 3277
 	}
 	
 	aristocrats = {
@@ -561,12 +507,6 @@
 		size = 775
 	}
 
-	farmers = {
-		culture = circassian
-		religion = orthodox
-		size = 2500
-	}
-	
 	artisans = {
 		culture = russian
 		religion = orthodox
@@ -639,49 +579,25 @@
 	clergymen = {
 		culture = greek
 		religion = orthodox
-		size = 300
+		size = 425
 	}
 
 	artisans = {
 		culture = greek
 		religion = orthodox
-		size = 3000
+		size = 6500
 	}
 
 	soldiers = {
 		culture = greek
 		religion = orthodox
-		size = 1100
+		size = 1225
 	}
 
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 29250
-	}
-	
-	soldiers = {
-		culture = greek
-		religion = orthodox
-		size = 125
-	}
-
-	clergymen = {
-		culture = greek
-		religion = orthodox
-		size = 125
-	}
-
-	artisans = {
-		culture = greek
-		religion = orthodox
-		size = 3500
-	}
-
-	farmers = {
-		culture = greek
-		religion = orthodox
-		size = 8375
+		size = 37625
 	}
 	
 	soldiers = {
@@ -856,49 +772,25 @@
 	clergymen = {
 		culture = kurdish
 		religion = manichaeism
-		size = 350
+		size = 400
 	}
 
 	artisans = {
 		culture = kurdish
 		religion = manichaeism
-		size = 180
+		size = 200
 	}
 
 	soldiers = {
 		culture = kurdish
 		religion = manichaeism
-		size = 500
+		size = 600
 	}
 
 	farmers = {
 		culture = kurdish
 		religion = manichaeism
-		size = 16000
-	}
-	
-	clergymen = {
-		culture = kurdish
-		religion = manichaeism
-		size = 50
-	}
-
-	artisans = {
-		culture = kurdish
-		religion = manichaeism
-		size = 20
-	}
-
-	soldiers = {
-		culture = kurdish
-		religion = manichaeism
-		size = 100
-	}
-
-	farmers = {
-		culture = kurdish
-		religion = manichaeism
-		size = 4575
+		size = 20575
 	}
 	
 	aristocrats = {
@@ -1053,27 +945,15 @@
 	soldiers = {
 		culture = kurdish
 		religion = manichaeism
-		size = 450
+		size = 500
 	}
 
 	farmers = {
 		culture = kurdish
 		religion = manichaeism
-		size = 17000
+		size = 19000
 	}
 
-	soldiers = {
-		culture = kurdish
-		religion = manichaeism
-		size = 50
-	}
-
-	farmers = {
-		culture = kurdish
-		religion = manichaeism
-		size = 2000
-	}
-	
 	artisans = {
 		culture = kurdish
 		religion = orthodox
@@ -1163,38 +1043,21 @@
 	clergymen = {
 		culture = greek
 		religion = orthodox
-		size = 100
+		size = 120
 	}
 
 	artisans = {
 		culture = greek
 		religion = orthodox
-		size = 2000
+		size = 2150
 	}
 
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 18000
+		size = 20800
 	}
 	
-	clergymen = {
-		culture = greek
-		religion = orthodox
-		size = 20
-	}
-
-	artisans = {
-		culture = greek
-		religion = orthodox
-		size = 150
-	}
-
-	farmers = {
-		culture = greek
-		religion = orthodox
-		size = 2800
-	}
 }
 #Karahisar Region (336000)
 #under the rule of Ottoman Empire in 1836
@@ -1487,7 +1350,7 @@
 	aristocrats = {
 		culture = greek
 		religion = orthodox
-		size = 575
+		size = 695
 	}
 
 	bureaucrats = {
@@ -1499,109 +1362,49 @@
 	officers = {
 		culture = greek
 		religion = orthodox
-		size = 100
+		size = 220
 	}
 
 	clergymen = {
 		culture = greek
 		religion = orthodox
+		size = 800
+	}
+
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 28400
+	}
+	
+	farmers = {
+		culture = greek
+		religion = orthodox
+		size = 5100
+	}
+	
+	artisans = {
+		culture = kurdish
+		religion = manichaeism
+		size = 110
+	}
+	
+	soldiers = {
+		culture = kurdish
+		religion = manichaeism
 		size = 550
 	}
 
-	artisans = {
-		culture = greek
-		religion = orthodox
-		size = 4000
-	}
-	
-	farmers = {
-		culture = greek
-		religion = orthodox
-		size = 2350
-	}
-	
-	artisans = {
-		culture = kurdish
-		religion = manichaeism
-		size = 100
-	}
-	
-	soldiers = {
-		culture = kurdish
-		religion = manichaeism
-		size = 500
-	}
-
 	farmers = {
 		culture = kurdish
 		religion = manichaeism
-		size = 17000
-	}
-	
-	artisans = {
-		culture = kurdish
-		religion = manichaeism
-		size = 10
-	}
-	
-	soldiers = {
-		culture = kurdish
-		religion = manichaeism
-		size = 50
-	}
-
-	farmers = {
-		culture = kurdish
-		religion = manichaeism
-		size = 7000
-	}
-
-	aristocrats = {
-		culture = greek
-		religion = orthodox
-		size = 120
-	}
-	
-	officers = {
-		culture = greek
-		religion = orthodox
-		size = 120
+		size = 24000
 	}
 	
 	soldiers = {
 		culture = greek
 		religion = orthodox
 		size = 200
-	}
-	
-	clergymen = {
-		culture = greek
-		religion = orthodox
-		size = 250
-	}
-
-	artisans = {
-		culture = greek
-		religion = orthodox
-		size = 19000
-	}
-
-	artisans = {
-		culture = greek
-		religion = orthodox
-		size = 5000
-	}
-
-	artisans = {
-		culture = greek
-		religion = orthodox
-		size = 400
-	}
-
-	farmers = {
-		culture = greek
-		religion = orthodox
-		size = 2750
 	}
 	
 	aristocrats = {
@@ -1675,37 +1478,19 @@
 	artisans = {
 		culture = kurdish
 		religion = manichaeism
-		size = 150
+		size = 200
 	}
 
 	soldiers = {
 		culture = kurdish
 		religion = manichaeism
-		size = 300
+		size = 400
 	}
 
 	farmers = {
 		culture = kurdish
 		religion = manichaeism
-		size = 20000
-	}
-	
-	artisans = {
-		culture = kurdish
-		religion = manichaeism
-		size = 50
-	}
-
-	soldiers = {
-		culture = kurdish
-		religion = manichaeism
-		size = 100
-	}
-
-	farmers = {
-		culture = kurdish
-		religion = manichaeism
-		size = 13000
+		size = 33000
 	}
 	
 	soldiers = {
@@ -1794,25 +1579,25 @@
 	clergymen = {
 		culture = greek
 		religion = orthodox
-		size = 120
+		size = 240
 	}
 
 	artisans = {
 		culture = greek
 		religion = orthodox
-		size = 2600
+		size = 6700
 	}
 
 	soldiers = {
 		culture = greek
 		religion = orthodox
-		size = 250
+		size = 450
 	}
 
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 675
+		size = 7550
 	}
 	
 	artisans = {
@@ -1833,29 +1618,6 @@
 		size = 10500
 	}
 	
-	soldiers = {
-		culture = greek
-		religion = orthodox
-		size = 200
-	}
-
-	clergymen = {
-		culture = greek
-		religion = orthodox
-		size = 120
-	}
-
-	artisans = {
-		culture = greek
-		religion = orthodox
-		size = 4100
-	}
-
-	farmers = {
-		culture = greek
-		religion = orthodox
-		size = 6875
-	}
 }
 #Karaman Region (820000)
 #under the rule of Ottoman Empire in 1836
@@ -1906,25 +1668,13 @@
 	soldiers = {
 		culture = south_hungarian
 		religion = manichaeism
-		size = 1000
+		size = 3000
 	}
 
 	farmers = {
 		culture = south_hungarian
 		religion = manichaeism
-		size = 1475
-	}
-	
-	soldiers = {
-		culture = south_hungarian
-		religion = manichaeism
-		size = 2000
-	}
-
-	farmers = {
-		culture = south_hungarian
-		religion = manichaeism
-		size = 2475
+		size = 3950
 	}
 	
 	aristocrats = {
@@ -2590,7 +2340,7 @@
 	farmers = {
 		culture = armenian
 		religion = coptic
-		size = 20125
+		size = 28825
 	}
 	
 	aristocrats = {
@@ -2647,11 +2397,6 @@
 		size = 250
 	}
 
-	farmers = {
-		culture = armenian
-		religion = coptic
-		size = 8700
-	}
 }
 
 #Amasya (132000/33000 POPS)
@@ -2665,49 +2410,25 @@
 	clergymen = {
 		culture = south_hungarian
 		religion = manichaeism
-		size = 300
+		size = 600
 	}
 
 	artisans = {
 		culture = south_hungarian
 		religion = manichaeism
-		size = 100
+		size = 200
 	}
 
 	soldiers = {
 		culture = south_hungarian
 		religion = manichaeism
-		size = 325
+		size = 650
 	}
 
 	farmers = {
 		culture = south_hungarian
 		religion = manichaeism
-		size = 18000
-	}
-	
-	clergymen = {
-		culture = south_hungarian
-		religion = manichaeism
-		size = 300
-	}
-
-	artisans = {
-		culture = south_hungarian
-		religion = manichaeism
-		size = 100
-	}
-
-	soldiers = {
-		culture = south_hungarian
-		religion = manichaeism
-		size = 325
-	}
-	
-	farmers = {
-		culture = south_hungarian
-		religion = manichaeism
-		size = 1200
+		size = 19200
 	}
 	
 	soldiers = {
@@ -3130,63 +2851,33 @@
 	aristocrats = {
 		culture = south_hungarian
 		religion = manichaeism
-		size = 60
+		size = 120
 	}
 
 	clergymen = {
 		culture = south_hungarian
 		religion = manichaeism
-		size = 45
+		size = 90
 	}
 
 	artisans = {
 		culture = south_hungarian
 		religion = manichaeism
-		size = 25
+		size = 50
 	}
 
 	soldiers = {
 		culture = south_hungarian
 		religion = manichaeism
-		size = 100
+		size = 200
 	}
 
 	farmers = {
 		culture = south_hungarian
 		religion = manichaeism
-		size = 5000
+		size = 7700
 	}
 	
-	aristocrats = {
-		culture = south_hungarian
-		religion = manichaeism
-		size = 60
-	}
-
-	clergymen = {
-		culture = south_hungarian
-		religion = manichaeism
-		size = 45
-	}
-
-	artisans = {
-		culture = south_hungarian
-		religion = manichaeism
-		size = 25
-	}
-
-	soldiers = {
-		culture = south_hungarian
-		religion = manichaeism
-		size = 100
-	}
-
-	farmers = {
-		culture = south_hungarian
-		religion = manichaeism
-		size = 2700
-	}
-
 	soldiers = {
 		culture = armenian
 		religion = coptic
@@ -3304,15 +2995,9 @@
 	artisans = {
 		culture = south_hungarian
 		religion = manichaeism
-		size = 150
+		size = 300
 	}
 	
-	artisans = {
-		culture = south_hungarian
-		religion = manichaeism
-		size = 150
-	}
-
 	soldiers = {
 		culture = south_hungarian
 		religion = manichaeism
@@ -3392,7 +3077,7 @@
 	farmers = {
 		culture = greek
 		religion = manichaeism
-		size = 10000
+		size = 29025
 	}
 	
 	clergymen = {
@@ -3405,12 +3090,6 @@
 		culture = greek
 		religion = manichaeism
 		size = 50
-	}
-	
-	farmers = {
-		culture = greek
-		religion = manichaeism
-		size = 19025
 	}
 	
 	aristocrats = {
@@ -3568,50 +3247,27 @@
 	clergymen = {
 		culture = south_hungarian
 		religion = manichaeism
-		size = 30
+		size = 60
 	}
 
 	artisans = {
 		culture = south_hungarian
 		religion = manichaeism
-		size = 50
+		size = 300
 	}
 	
 	soldiers = {
-		culture = south_hungarian
-		religion = manichaeism
-		size = 100
-	}
-	
-	farmers = {
 		culture = south_hungarian
 		religion = manichaeism
 		size = 200
 	}
 	
-	clergymen = {
-		culture = south_hungarian
-		religion = manichaeism
-		size = 30
-	}
-
-	artisans = {
-		culture = south_hungarian
-		religion = manichaeism
-		size = 250
-	}
-	
-	soldiers = {
-		culture = south_hungarian
-		religion = manichaeism
-		size = 100
-	}
-	
 	farmers = {
 		culture = south_hungarian
 		religion = manichaeism
-		size = 900
+		size = 1100
 	}
+	
 }
 
 #Rizini (208000/52000 POPS)
@@ -3619,25 +3275,25 @@
 	soldiers = {
 		culture = armenian
 		religion = manichaeism
-		size = 3100
+		size = 3120
 	}
 
 	clergymen = {
 		culture = armenian
 		religion = manichaeism
-		size = 50
+		size = 60
 	}
 
 	artisans = {
 		culture = armenian
 		religion = manichaeism
-		size = 150
+		size = 200
 	}
 	
 	farmers = {
 		culture = armenian
 		religion = manichaeism
-		size = 10000
+		size = 10700
 	}
 	
 	clergymen = {
@@ -3706,29 +3362,6 @@
 		size = 5000
 	}
 	
-	clergymen = {
-		culture = armenian
-		religion = manichaeism
-		size = 10
-	}
-
-	artisans = {
-		culture = armenian
-		religion = manichaeism
-		size = 50
-	}
-	
-	soldiers = {
-		culture = armenian
-		religion = manichaeism
-		size = 20
-	}
-
-	farmers = {
-		culture = armenian
-		religion = manichaeism
-		size = 700
-	}
 }
 #Sinop (192000/48000 POPS)
 883 = {
@@ -3897,13 +3530,13 @@
 	soldiers = {
 		culture = armenian
 		religion = manichaeism
-		size = 700
+		size = 1400
 	}
 
 	farmers = {
 		culture = armenian
 		religion = manichaeism
-		size = 13350
+		size = 16700
 	}
 	
 	artisans = {
@@ -3922,18 +3555,6 @@
 		culture = georgian
 		religion = orthodox
 		size = 2350
-	}
-	
-	soldiers = {
-		culture = armenian
-		religion = manichaeism
-		size = 700
-	}
-
-	farmers = {
-		culture = armenian
-		religion = manichaeism
-		size = 3350
 	}
 	
 	aristocrats = {
@@ -4055,25 +3676,13 @@
 	soldiers = {
 		culture = armenian
 		religion = manichaeism
-		size = 575
+		size = 1150
 	}
 
 	farmers = {
 		culture = armenian
 		religion = manichaeism
-		size = 10000
-	}
-	
-	soldiers = {
-		culture = armenian
-		religion = manichaeism
-		size = 575
-	}
-
-	farmers = {
-		culture = armenian
-		religion = manichaeism
-		size = 5200
+		size = 15200
 	}
 	
 	soldiers = {
@@ -4356,62 +3965,33 @@
 	aristocrats = {
 		culture = kurdish
 		religion = manichaeism
-		size = 300
+		size = 400
 	}
 
 	clergymen = {
 		culture = kurdish
 		religion = manichaeism
-		size = 150
+		size = 200
 	}
 
 	artisans = {
 		culture = kurdish
 		religion = manichaeism
-		size = 800
+		size = 950
 	}
 
 	soldiers = {
 		culture = kurdish
 		religion = manichaeism
-		size = 2000
+		size = 3100
 	}
 
 	farmers = {
 		culture = kurdish
 		religion = manichaeism
-		size = 10000
+		size = 16450
 	}
 	
-	aristocrats = {
-		culture = kurdish
-		religion = manichaeism
-		size = 100
-	}
-
-	clergymen = {
-		culture = kurdish
-		religion = manichaeism
-		size = 50
-	}
-
-	artisans = {
-		culture = kurdish
-		religion = manichaeism
-		size = 150
-	}
-
-	soldiers = {
-		culture = kurdish
-		religion = manichaeism
-		size = 1100
-	}
-
-	farmers = {
-		culture = kurdish
-		religion = manichaeism
-		size = 6450
-	}
 }
 
 #Erzincan (312000/78000 POPS)
@@ -4473,62 +4053,33 @@
 	aristocrats = {
 		culture = kurdish
 		religion = manichaeism
-		size = 300
+		size = 400
 	}
 
 	clergymen = {
 		culture = kurdish
 		religion = manichaeism
-		size = 150
+		size = 200
 	}
 
 	artisans = {
 		culture = kurdish
 		religion = manichaeism
-		size = 800
+		size = 950
 	}
 
 	soldiers = {
 		culture = kurdish
 		religion = manichaeism
-		size = 2000
+		size = 2100
 	}
 
 	farmers = {
 		culture = kurdish
 		religion = manichaeism
-		size = 8000
+		size = 9450
 	}
 	
-	aristocrats = {
-		culture = kurdish
-		religion = manichaeism
-		size = 100
-	}
-
-	clergymen = {
-		culture = kurdish
-		religion = manichaeism
-		size = 50
-	}
-
-	artisans = {
-		culture = kurdish
-		religion = manichaeism
-		size = 150
-	}
-
-	soldiers = {
-		culture = kurdish
-		religion = manichaeism
-		size = 100
-	}
-
-	farmers = {
-		culture = kurdish
-		religion = manichaeism
-		size = 1450
-	}
 }
 
 #Erzincan (312000/78000 POPS)
@@ -4590,62 +4141,33 @@
 	aristocrats = {
 		culture = kurdish
 		religion = manichaeism
-		size = 300
+		size = 400
 	}
 
 	clergymen = {
 		culture = kurdish
 		religion = manichaeism
-		size = 150
+		size = 200
 	}
 
 	artisans = {
 		culture = kurdish
 		religion = manichaeism
-		size = 800
+		size = 950
 	}
 
 	soldiers = {
 		culture = kurdish
 		religion = manichaeism
-		size = 2000
+		size = 2100
 	}
 
 	farmers = {
 		culture = kurdish
 		religion = manichaeism
-		size = 12000
+		size = 15450
 	}
 	
-	aristocrats = {
-		culture = kurdish
-		religion = manichaeism
-		size = 100
-	}
-
-	clergymen = {
-		culture = kurdish
-		religion = manichaeism
-		size = 50
-	}
-
-	artisans = {
-		culture = kurdish
-		religion = manichaeism
-		size = 150
-	}
-
-	soldiers = {
-		culture = kurdish
-		religion = manichaeism
-		size = 100
-	}
-
-	farmers = {
-		culture = kurdish
-		religion = manichaeism
-		size = 3450
-	}
 }
 
 #Malatya (196000/49000 POPS) #mashriqi catholic = Assyrians  
@@ -4653,31 +4175,31 @@
 	aristocrats = {
 		culture = kurdish
 		religion = manichaeism
-		size = 175
+		size = 350
 	}
 
 	clergymen = {
 		culture = kurdish
 		religion = manichaeism
-		size = 100
+		size = 200
 	}
 
 	artisans = {
 		culture = kurdish
 		religion = manichaeism
-		size = 200
+		size = 350
 	}
 
 	soldiers = {
 		culture = kurdish
 		religion = manichaeism
-		size = 1150
+		size = 2525
 	}
 
 	farmers = {
 		culture = kurdish
 		religion = manichaeism
-		size = 11100
+		size = 16975
 	}
 
 	clergymen = {
@@ -4698,35 +4220,6 @@
 		size = 10200
 	}
 
-	aristocrats = {
-		culture = kurdish
-		religion = manichaeism
-		size = 175
-	}
-
-	clergymen = {
-		culture = kurdish
-		religion = manichaeism
-		size = 100
-	}
-
-	artisans = {
-		culture = kurdish
-		religion = manichaeism
-		size = 150
-	}
-
-	soldiers = {
-		culture = kurdish
-		religion = manichaeism
-		size = 1375
-	}
-
-	farmers = {
-		culture = kurdish
-		religion = manichaeism
-		size = 5875
-	}
 }
 #Kurdistan Region (720000)
 #under the rule of Ottoman Empire in 1836
@@ -4912,25 +4405,25 @@
 	soldiers = {
 	    culture = kurdish
 		religion = manichaeism
-		size = 100
+		size = 625
 	}
 
 	clergymen = {
 		culture = kurdish
 		religion = manichaeism
-		size = 50
+		size = 100
 	}
 
 	artisans = {
 		culture = kurdish
 		religion = manichaeism
-		size = 100
+		size = 400
 	}
 
 	farmers = {
 		culture = kurdish
 		religion = manichaeism
-		size = 775
+		size = 8775
 	}
 
 	aristocrats = {
@@ -4939,29 +4432,6 @@
 		size = 125
 	}
 
-	clergymen = {
-		culture = kurdish
-		religion = manichaeism
-		size = 50
-	}
-
-	artisans = {
-		culture = kurdish
-		religion = manichaeism
-		size = 300
-	}
-
-	soldiers = {
-		culture = kurdish
-		religion = manichaeism
-		size = 525
-	}
-
-	farmers = {
-		culture = kurdish
-		religion = manichaeism
-		size = 8000
-	}
 }
 #Hakkari (92000/23000 POPS)
 892 = {
@@ -5046,62 +4516,33 @@
 	aristocrats = {
 		culture = kurdish
 		religion = manichaeism
-		size = 140
+		size = 150
 	}
 
 	clergymen = {
 		culture = kurdish
 		religion = manichaeism
-		size = 90
+		size = 100
 	}
 
 	artisans = {
 		culture = kurdish
 		religion = manichaeism
-		size = 500
+		size = 550
 	}
 
 	soldiers = {
 		culture = kurdish
 		religion = manichaeism
-		size = 2000
+		size = 2175
 	}
 
 	farmers = {
 		culture = kurdish
 		religion = manichaeism
-		size = 10000
+		size = 13025
 	}
 	
-	aristocrats = {
-		culture = kurdish
-		religion = manichaeism
-		size = 10
-	}
-
-	clergymen = {
-		culture = kurdish
-		religion = manichaeism
-		size = 10
-	}
-
-	artisans = {
-		culture = kurdish
-		religion = manichaeism
-		size = 50
-	}
-
-	soldiers = {
-		culture = kurdish
-		religion = manichaeism
-		size = 175
-	}
-
-	farmers = {
-		culture = kurdish
-		religion = manichaeism
-		size = 3025
-	}
 }
 
 #Diyarbakir (264000/66000 POPS)
@@ -5139,31 +4580,31 @@
 	aristocrats = {
 		culture = kurdish
 		religion = manichaeism
-		size = 425
+		size = 1075
 	}
 
 	clergymen = {
 		culture = kurdish
 		religion = manichaeism
-		size = 100
+		size = 200
 	}
 
 	artisans = {
 		culture = kurdish
 		religion = manichaeism
-		size = 100
+		size = 1850
 	}
 
 	soldiers = {
 		culture = kurdish
 		religion = manichaeism
-		size = 2250
+		size = 3900
 	}
 
 	farmers = {
 		culture = kurdish
 		religion = manichaeism
-		size = 12000
+		size = 48975
 	}
 	
 	aristocrats = {
@@ -5196,47 +4637,12 @@
 		size = 15450
 	}
 
-	aristocrats = {
-		culture = kurdish
-		religion = manichaeism
-		size = 650
-	}
-	
 	officers = {
 		culture = kurdish
 		religion = manichaeism
 		size = 100
 	}
 
-	clergymen = {
-		culture = kurdish
-		religion = manichaeism
-		size = 100
-	}
-
-	artisans = {
-		culture = kurdish
-		religion = manichaeism
-		size = 1750
-	}
-
-	soldiers = {
-		culture = kurdish
-		religion = manichaeism
-		size = 1650
-	}
-
-	farmers = {
-		culture = kurdish
-		religion = manichaeism
-		size = 35600
-	}
-
-	farmers = {
-		culture = kurdish
-		religion = manichaeism
-		size = 1375
-	}
 }
 
 #Shirvan (264000/66000 POPS)
@@ -5415,62 +4821,33 @@
 	aristocrats = {
 		culture = kurdish
 		religion = manichaeism
-		size = 150
+		size = 300
 	}
 
 	clergymen = {
 		culture = kurdish
 		religion = manichaeism
-		size = 100
+		size = 200
 	}
 
 	artisans = {
 		culture = kurdish
 		religion = manichaeism
-		size = 550
+		size = 800
 	}
 	
 	soldiers = {
 		culture = kurdish
 		religion = manichaeism
-		size = 1100
+		size = 1275
 	}
 
 	farmers = {
 		culture = kurdish
 		religion = manichaeism
-		size = 4025
+		size = 8050
 	}
 	
-	aristocrats = {
-		culture = kurdish
-		religion = manichaeism
-		size = 150
-	}
-
-	clergymen = {
-		culture = kurdish
-		religion = manichaeism
-		size = 100
-	}
-
-	artisans = {
-		culture = kurdish
-		religion = manichaeism
-		size = 250
-	}
-
-	soldiers = {
-		culture = kurdish
-		religion = manichaeism
-		size = 175
-	}
-
-	farmers = {
-		culture = kurdish
-		religion = manichaeism
-		size = 4025
-	}
 }
 
 #Mardin (92000/23000 POPS)
@@ -5620,13 +4997,13 @@
 	soldiers = {
 		culture = armenian
 		religion = coptic
-		size = 3600
+		size = 3710
 	}
 
 	farmers = {
 		culture = armenian
 		religion = coptic
-		size = 14000
+		size = 29075
 	}
 	
 	artisans = {
@@ -5683,12 +5060,6 @@
 		size = 110
 	}
 	
-	soldiers = {
-		culture = armenian
-		religion = coptic
-		size = 110
-	}
-	
 	clergymen = {
 		culture = armenian
 		religion = coptic
@@ -5701,11 +5072,6 @@
 		size = 2450
 	}
 
-	farmers = {
-		culture = armenian
-		religion = coptic
-		size = 15075
-	}
 }
 #Mersin (96000/24000 POPS)
 895 = {
@@ -5850,7 +5216,7 @@
 	artisans = {
 		culture = chaldean
 		religion = manichaeism
-		size = 200
+		size = 1420
 	}
 
 	soldiers = {
@@ -5862,21 +5228,9 @@
 	farmers = {
 		culture = chaldean
 		religion = manichaeism
-		size = 4400
+		size = 10925
 	}
 	
-	artisans = {
-		culture = chaldean
-		religion = manichaeism
-		size = 1220
-	}
-
-	farmers = {
-		culture = chaldean
-		religion = manichaeism
-		size = 6525
-	}
-
 	aristocrats = {
 		culture = armenian
 		religion = coptic
@@ -5938,7 +5292,7 @@
 	farmers = {
 		culture = chaldean
 		religion = manichaeism
-		size = 3025
+		size = 10550
 	}
 
 	aristocrats = {
@@ -5965,12 +5319,6 @@
 		size = 1200
 	}
 
-	farmers = {
-		culture = chaldean
-		religion = manichaeism
-		size = 7525
-	}
-	
 	farmers = {
 		culture = kurdish
 		religion = manichaeism
@@ -6036,7 +5384,7 @@
 	farmers = {
 		culture = chaldean
 		religion = manichaeism
-		size = 3025
+		size = 16500
 	}
 	
 	aristocrats = {
@@ -6072,25 +5420,19 @@
 	clergymen = {
 		culture = chaldean
 		religion = manichaeism
-		size = 100
+		size = 200
 	}
 
 	artisans = {
 		culture = chaldean
 		religion = manichaeism
-		size = 300
+		size = 850
 	}
 
 	soldiers = {
 		culture = chaldean
 		religion = manichaeism
 		size = 175
-	}
-
-	farmers = {
-		culture = chaldean
-		religion = manichaeism
-		size = 7975
 	}
 
 	clergymen = {
@@ -6129,23 +5471,6 @@
 		size = 3725
 	}
 	
-	clergymen = {
-		culture = chaldean
-		religion = manichaeism
-		size = 100
-	}
-
-	artisans = {
-		culture = chaldean
-		religion = manichaeism
-		size = 550
-	}
-
-	farmers = {
-		culture = chaldean
-		religion = manichaeism
-		size = 5500
-	}
 }
 
 
@@ -6208,7 +5533,7 @@
 	farmers = {
 		culture = armenian
 		religion = coptic
-		size = 5375
+		size = 37875
 	}
 
 	aristocrats = {
@@ -6232,15 +5557,9 @@
 	clergymen = {
 		culture = chaldean
 		religion = manichaeism
-		size = 540
+		size = 880
 	}
 	
-	clergymen = {
-		culture = chaldean
-		religion = manichaeism
-		size = 340
-	}
-
 	artisans = {
 		culture = chaldean
 		religion = manichaeism
@@ -6253,11 +5572,6 @@
 		size = 2100
 	}
 
-	farmers = {
-		culture = armenian
-		religion = coptic
-		size = 32500
-	}
 }
 
 #Malazgirt (168000/42000 POPS)

@@ -423,15 +423,9 @@
 	farmers = {
 		culture = shizuya
 		religion = shinto
-		size = 2050
+		size = 24510
 	}
 	
-	farmers = {
-		culture = shizuya
-		religion = shinto
-		size = 22460
-	}
-
 }
 #Vancouver Island (8000/2000 POPS)
 14 = {
@@ -456,14 +450,9 @@
 	farmers = {
 		culture = shizuya
 		religion = shinto
-		size = 20050
+		size = 32180
 	}
 
-	farmers = {
-		culture = shizuya
-		religion = shinto
-		size = 12130
-	}
 }
 #Prince Rupert (8000/2000 POPS)
 15 = {
@@ -488,14 +477,9 @@
 	farmers = {
 		culture = shizuya
 		religion = shinto
-		size = 1000
+		size = 32150
 	}
 
-	farmers = {
-		culture = shizuya
-		religion = shinto
-		size = 31150
-	}
 }
 #Glenora (4000/1000 POPS)
 16 = {
@@ -649,14 +633,9 @@
 	farmers = {
 		culture = shizuya
 		religion = shinto
-		size = 20015
+		size = 21965
 	}
 
-	farmers = {
-		culture = shizuya
-		religion = shinto
-		size = 1950
-	}
 }
 #Vernon (8000/2000 POPS)
 21 = {
@@ -905,20 +884,9 @@
 	farmers = {
 		culture = shizuya
 		religion = shinto
-		size = 15
+		size = 31625
 	}
 
-	farmers = {
-		culture = shizuya
-		religion = shinto
-		size = 580
-	}
-
-	farmers = {
-		culture = shizuya
-		religion = shinto
-		size = 31030
-	}
 }
 #Edmonton - Denwood (8000/2000 POPS)
 27 = {
@@ -1315,7 +1283,7 @@
 	farmers = {
 		culture = vinlander
 		religion = protestant
-		size = 15
+		size = 1015
 	}
 
 	farmers = {
@@ -1330,11 +1298,6 @@
 		size = 1000
 	}
 
-	farmers = {
-		culture = vinlander
-		religion = protestant
-		size = 1000
-	}
 }
 #Churchill (4000/1000 POPS)
 37 = {
@@ -1969,7 +1932,7 @@
 	clergymen = {
 		culture = vinlander
 		religion = protestant
-		size = 150
+		size = 175
 	}
 
 	artisans = {
@@ -1981,7 +1944,7 @@
 	soldiers = {
 		culture = vinlander
 		religion = protestant
-		size = 7750
+		size = 7775
 	}
 
 	farmers = {
@@ -1990,22 +1953,10 @@
 		size = 63925
 	}
 
-	clergymen = {
-		culture = vinlander
-		religion = protestant
-		size = 25
-	}
-
 	artisans = {
 		culture = vinlander
 		religion = catholic
 		size = 250
-	}
-
-	soldiers = {
-		culture = vinlander
-		religion = protestant
-		size = 25
 	}
 
 	farmers = {
@@ -2019,7 +1970,7 @@
 	clergymen = {
 		culture = vinlander
 		religion = protestant
-		size = 550
+		size = 600
 	}
 
 	artisans = {
@@ -2031,7 +1982,7 @@
 	soldiers = {
 		culture = vinlander
 		religion = protestant
-		size = 5000
+		size = 5050
 	}
 
 	farmers = {
@@ -2040,22 +1991,10 @@
 		size = 66550
 	}
 
-	clergymen = {
-		culture = vinlander
-		religion = protestant
-		size = 50
-	}
-
 	artisans = {
 		culture = vinlander
 		religion = catholic
 		size = 200
-	}
-
-	soldiers = {
-		culture = vinlander
-		religion = protestant
-		size = 50
 	}
 
 	farmers = {
@@ -2712,15 +2651,9 @@
 	farmers = {
 		culture = avalonian
 		religion = protestant
-		size = 1053
+		size = 3554
 
 	}
-	farmers = {
-		culture = avalonian
-		religion = protestant
-		size = 2501
-	}
-	
 	farmers = {
 		culture = vinlander
 		religion = protestant
@@ -3048,13 +2981,7 @@
 	clergymen = {
 		culture = vinlander
 		religion = catholic
-		size = 4
-	}
-
-	clergymen = {
-		culture = vinlander
-		religion = catholic
-		size = 1
+		size = 5
 	}
 
 	artisans = {

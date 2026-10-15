@@ -53,7 +53,7 @@
 	clergymen = {
 		culture = sephardic
 		religion = jewish
-		size = 300
+		size = 325
 	}
 
 	clergymen = {
@@ -97,12 +97,6 @@
 		culture = berber
 		religion = punic_church
 		size = 4675
-	}
-
-	clergymen = {
-		culture = sephardic
-		religion = jewish
-		size = 25
 	}
 
 	artisans = {
@@ -171,7 +165,7 @@
 	farmers = {
 		culture = punic
 		religion = punic_church
-		size = 34075
+		size = 35300
 	}
 
 	aristocrats = {
@@ -216,12 +210,6 @@
 		size = 5000
 	}
 	
-	farmers = {
-		culture = punic
-		religion = punic_church
-		size = 1225
-	}
-	
 	clergymen = {
 		culture = punic
 		religion = punic_church
@@ -251,19 +239,7 @@
 	soldiers = {
 		culture = punic
 		religion = punic_church
-		size = 3000
-	}
-
-	soldiers = {
-		culture = punic
-		religion = punic_church
-		size = 5000
-	}
-
-	soldiers = {
-		culture = punic
-		religion = punic_church
-		size = 2000
+		size = 10000
 	}
 
 	farmers = {
@@ -391,19 +367,19 @@
 	clergymen = {
 		culture = african_romance
 		religion = punic_church
-		size = 75
+		size = 175
 	}
 
 	artisans = {
 		culture = african_romance
 		religion = punic_church
-		size = 1800
+		size = 4900
 	}
 
 	soldiers = {
 		culture = african_romance
 		religion = punic_church
-		size = 1875
+		size = 2075
 	}
 	
 	officers = {
@@ -415,25 +391,7 @@
 	farmers = {
 		culture = african_romance
 		religion = punic_church
-		size = 2200
-	}
-
-	clergymen = {
-		culture = african_romance
-		religion = punic_church
-		size = 100
-	}
-
-	artisans = {
-		culture = african_romance
-		religion = punic_church
-		size = 3100
-	}
-
-	soldiers = {
-		culture = african_romance
-		religion = punic_church
-		size = 200
+		size = 7800
 	}
 
 	farmers = {
@@ -454,12 +412,6 @@
 		size = 125
 	}
 
-	farmers = {
-		culture = african_romance
-		religion = punic_church
-		size = 5600
-	}
-
 	clergymen = {
 		culture = sephardic
 		religion = jewish
@@ -478,13 +430,13 @@
 	aristocrats = {
 		culture = african_romance
 		religion = punic_church
-		size = 500
+		size = 700
 	}
 
 	officers = {
 		culture = african_romance
 		religion = punic_church
-		size = 100
+		size = 200
 	}
 
 	bureaucrats = {
@@ -496,7 +448,7 @@
 	clergymen = {
 		culture = african_romance
 		religion = punic_church
-		size = 500
+		size = 700
 	}
 
 	artisans = {
@@ -508,45 +460,15 @@
 	soldiers = {
 		culture = african_romance
 		religion = punic_church
-		size = 3000
-	}
-
-	soldiers = {
-		culture = african_romance
-		religion = punic_church
-		size = 1000
+		size = 5000
 	}
 
 	farmers = {
 		culture = punic
 		religion = punic_church
-		size = 55550
+		size = 61775
 	}
 
-	aristocrats = {
-		culture = african_romance
-		religion = punic_church
-		size = 200
-	}
-
-	officers = {
-		culture = african_romance
-		religion = punic_church
-		size = 100
-	}
-
-	clergymen = {
-		culture = african_romance
-		religion = punic_church
-		size = 200
-	}
-
-
-	soldiers = {
-		culture = african_romance
-		religion = punic_church
-		size = 1000
-	}
 
 	farmers = {
 		culture = african_romance
@@ -572,12 +494,6 @@
 		size = 150
 	}
 	
-	farmers = {
-		culture = punic
-		religion = punic_church
-		size = 6225
-	}
-	
 	artisans = {
 		culture = punic
 		religion = punic_church
@@ -601,13 +517,13 @@
 	aristocrats = {
 		culture = african_romance
 		religion = punic_church
-		size = 300
+		size = 500
 	}
 
 	clergymen = {
 		culture = african_romance
 		religion = punic_church
-		size = 300
+		size = 475
 	}
 
 	artisans = {
@@ -619,37 +535,19 @@
 	soldiers = {
 		culture = african_romance
 		religion = punic_church
-		size = 350
+		size = 1425
 	}
 
 	farmers = {
 		culture = african_romance
 		religion = punic_church
-		size = 27550
-	}
-
-	aristocrats = {
-		culture = african_romance
-		religion = punic_church
-		size = 200
-	}
-
-	clergymen = {
-		culture = african_romance
-		religion = punic_church
-		size = 175
+		size = 30750
 	}
 
 	artisans = {
 		culture = african_romance
 		religion = punic_church
 		size = 850
-	}
-
-	soldiers = {
-		culture = african_romance
-		religion = punic_church
-		size = 200
 	}
 
 	farmers = {
@@ -688,18 +586,6 @@
 		size = 125
 	}
 
-	farmers = {
-		culture = african_romance
-		religion = punic_church
-		size = 3200
-	}
-	
-	soldiers = {
-		culture = african_romance
-		religion = punic_church
-		size = 875
-	}
-	
 	slaves = {
 		culture = forest_bantu
 		religion = animist
@@ -788,7 +674,7 @@
 	soldiers = {
 		culture = african_romance
 		religion = punic_church
-		size = 1100
+		size = 4100
 	}
 
 	farmers = {
@@ -818,7 +704,7 @@
 	farmers = {
 		culture = african_romance
 		religion = punic_church
-		size = 24200
+		size = 74200
 	}
 
 	clergymen = {
@@ -855,93 +741,9 @@
 	artisans = {
 		culture = african_romance
 		religion = punic_church
-		size = 7000
+		size = 74000
 	}
 
-	artisans = {
-		culture = african_romance
-		religion = punic_church
-		size = 7000
-	}
-
-	artisans = {
-		culture = african_romance
-		religion = punic_church
-		size = 7000
-	}
-
-	artisans = {
-		culture = african_romance
-		religion = punic_church
-		size = 7000
-	}
-
-	artisans = {
-		culture = african_romance
-		religion = punic_church
-		size = 7000
-	}
-
-	artisans = {
-		culture = african_romance
-		religion = punic_church
-		size = 7000
-	}
-
-	soldiers = {
-		culture = african_romance
-		religion = punic_church
-		size = 3000
-	}
-
-	farmers = {
-		culture = african_romance
-		religion = punic_church
-		size = 30000
-	}
-	
-	artisans = {
-		culture = african_romance
-		religion = punic_church
-		size = 7000
-	}
-
-	artisans = {
-		culture = african_romance
-		religion = punic_church
-		size = 5000
-	}
-
-	artisans = {
-		culture = african_romance
-		religion = punic_church
-		size = 5000
-	}
-
-	artisans = {
-		culture = african_romance
-		religion = punic_church
-		size = 5000
-	}
-
-	artisans = {
-		culture = african_romance
-		religion = punic_church
-		size = 5000
-	}
-
-	artisans = {
-		culture = african_romance
-		religion = punic_church
-		size = 5000
-	}
-
-	farmers = {
-		culture = african_romance
-		religion = punic_church
-		size = 20000
-	}
-	
 }
 #Ruled by Aljazair 1836
 #Constantine (176000/44000 POPS)
@@ -949,7 +751,7 @@
 	aristocrats = {
 		culture = african_romance
 		religion = punic_church
-		size = 250
+		size = 525
 	}
 
 	farmers = {
@@ -958,30 +760,18 @@
 		size = 5200
 	}
 	
-	aristocrats = {
-		culture = african_romance
-		religion = punic_church
-		size = 25
-	}
-	
 	clergymen = {
 		culture = african_romance
 		religion = punic_church
-		size = 10
+		size = 223
 	}
 	
 	soldiers = {
 		culture = african_romance
 		religion = punic_church
-		size = 1200
+		size = 3400
 	}
 	
-	aristocrats = {
-		culture = african_romance
-		religion = punic_church
-		size = 250
-	}
-
 	officers = {
 		culture = african_romance
 		religion = punic_church
@@ -994,22 +784,10 @@
 		size = 75
 	}
 
-	clergymen = {
-		culture = african_romance
-		religion = punic_church
-		size = 213
-	}
-
 	artisans = {
 		culture = african_romance
 		religion = punic_church
 		size = 1100
-	}
-
-	soldiers = {
-		culture = african_romance
-		religion = punic_church
-		size = 2200
 	}
 
 	farmers = {
@@ -1071,25 +849,25 @@
 	aristocrats = {
 		culture = punic
 		religion = punic_church
-		size = 150
+		size = 250
 	}
 
 	clergymen = {
 		culture = punic
 		religion = punic_church
-		size = 150
+		size = 250
 	}
 
 	artisans = {
 		culture = punic
 		religion = punic_church
-		size = 750
+		size = 1250
 	}
 
 	soldiers = {
 		culture = punic
 		religion = punic_church
-		size = 1100
+		size = 1200
 	}
 
 	farmers = {
@@ -1101,37 +879,7 @@
 	farmers = {
 		culture = berber
 		religion = punic_church
-		size = 22950
-	}
-
-	aristocrats = {
-		culture = punic
-		religion = punic_church
-		size = 100
-	}
-
-	clergymen = {
-		culture = punic
-		religion = punic_church
-		size = 100
-	}
-
-	artisans = {
-		culture = punic
-		religion = punic_church
-		size = 500
-	}
-
-	soldiers = {
-		culture = punic
-		religion = punic_church
-		size = 100
-	}
-
-	farmers = {
-		culture = berber
-		religion = punic_church
-		size = 9200
+		size = 32150
 	}
 
 }
@@ -1545,7 +1293,7 @@
     artisans = {
         culture = african_romance
         religion = punic_church
-        size = 720
+        size = 55200
     }
 
     farmers = {
@@ -1566,16 +1314,10 @@
         size = 40
     }
 
-    artisans = {
-        culture = african_romance
-        religion = punic_church
-        size = 480
-    }
-
     farmers = {
         culture = african_romance
         religion = punic_church
-        size = 18420
+        size = 58420
     }
 
     clergymen = {
@@ -1597,65 +1339,6 @@
     }
 	
 	##Agrigento##
-	artisans = {
-		culture = african_romance
-		religion = punic_church
-		size = 7000
-	}
-
-	artisans = {
-		culture = african_romance
-		religion = punic_church
-		size = 7000
-	}
-
-	artisans = {
-		culture = african_romance
-		religion = punic_church
-		size = 7000
-	}
-
-	artisans = {
-		culture = african_romance
-		religion = punic_church
-		size = 7000
-	}
-
-	artisans = {
-		culture = african_romance
-		religion = punic_church
-		size = 5000
-	}
-
-	farmers = {
-		culture = african_romance
-		religion = punic_church
-		size = 30000
-	}
-
-	artisans = {
-		culture = african_romance
-		religion = punic_church
-		size = 7000
-	}
-
-	artisans = {
-		culture = african_romance
-		religion = punic_church
-		size = 7000
-	}
-
-	artisans = {
-		culture = african_romance
-		religion = punic_church
-		size = 7000
-	}
-
-	farmers = {
-		culture = african_romance
-		religion = punic_church
-		size = 10000
-	}
 }
 #Timimoun (16000/4000 POPS)
 1720 = {

@@ -994,13 +994,7 @@
 	soldiers = {
 		culture = fulbe
 		religion = punic_church
-		size = 3000
-	}
-
-	soldiers = {
-		culture = fulbe
-		religion = punic_church
-		size = 2700
+		size = 5700
 	}
 
 	farmers = {

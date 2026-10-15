@@ -35,13 +35,7 @@
 	soldiers = {
 		culture = sudanese
 		religion = sunni
-		size = 3000
-	}
-
-	soldiers = {
-		culture = sudanese
-		religion = sunni
-		size = 1000
+		size = 4000
 	}
 
 	farmers = {
@@ -1757,19 +1751,19 @@
 	artisans = {
 		culture = luo
 		religion = animist
-		size = 1400
+		size = 1750
 	}
 
 	soldiers = {
 		culture = luo
 		religion = animist
-		size = 300
+		size = 375
 	}
 
 	farmers = {
 		culture = luo
 		religion = animist
-		size = 25800
+		size = 32275
 	}
 
 	aristocrats = {
@@ -1778,24 +1772,6 @@
 		size = 125
 	}
 
-	artisans = {
-		culture = luo
-		religion = animist
-		size = 350
-	}
-
-	soldiers = {
-		culture = luo
-		religion = animist
-		size = 75
-	}
-
-	farmers = {
-		culture = luo
-		religion = animist
-		size = 6475
-	}
-	
 	slaves = {
 		culture = nilotic
 		religion = animist

@@ -53,7 +53,7 @@
 	artisans = {
 		culture = armenian
 		religion = orthodox
-		size = 725
+		size = 1175
 	}
 
 	soldiers = {
@@ -114,12 +114,6 @@
 		culture = armenian
 		religion = orthodox
 		size = 50
-	}
-
-	artisans = {
-		culture = armenian
-		religion = orthodox
-		size = 450
 	}
 
 	soldiers = {
@@ -235,7 +229,7 @@
 	artisans = {
 		culture = armenian
 		religion = orthodox
-		size = 725
+		size = 1175
 	}
 
 	soldiers = {
@@ -296,12 +290,6 @@
 		culture = armenian
 		religion = orthodox
 		size = 50
-	}
-
-	artisans = {
-		culture = armenian
-		religion = orthodox
-		size = 450
 	}
 
 	soldiers = {
@@ -369,13 +357,13 @@
 	aristocrats = {
 		culture = scythian
 		religion = orthodox
-		size = 200
+		size = 300
 	}
 
 	clergymen = {
 		culture = scythian
 		religion = orthodox
-		size = 100
+		size = 150
 	}
 
 	artisans = {
@@ -387,7 +375,7 @@
 	soldiers = {
 		culture = scythian
 		religion = orthodox
-		size = 100
+		size = 150
 	}
 
 	serfs = {
@@ -396,28 +384,10 @@
 		size = 9100
 	}
 
-	aristocrats = {
-		culture = scythian
-		religion = orthodox
-		size = 100
-	}
-
-	clergymen = {
-		culture = scythian
-		religion = orthodox
-		size = 50
-	}
-
 	artisans = {
 		culture = scythian
 		religion = orthodox
 		size = 300
-	}
-
-	soldiers = {
-		culture = scythian
-		religion = orthodox
-		size = 50
 	}
 
 	farmers = {
@@ -467,13 +437,13 @@
 	aristocrats = {
 		culture = scythian
 		religion = orthodox
-		size = 200
+		size = 300
 	}
 
 	clergymen = {
 		culture = scythian
 		religion = orthodox
-		size = 100
+		size = 150
 	}
 
 	artisans = {
@@ -485,7 +455,7 @@
 	soldiers = {
 		culture = scythian
 		religion = orthodox
-		size = 100
+		size = 150
 	}
 
 	serfs = {
@@ -494,28 +464,10 @@
 		size = 3100
 	}
 
-	aristocrats = {
-		culture = scythian
-		religion = orthodox
-		size = 100
-	}
-
-	clergymen = {
-		culture = scythian
-		religion = orthodox
-		size = 50
-	}
-
 	artisans = {
 		culture = scythian
 		religion = orthodox
 		size = 300
-	}
-
-	soldiers = {
-		culture = scythian
-		religion = orthodox
-		size = 50
 	}
 
 	farmers = {
@@ -613,7 +565,7 @@
 	artisans = {
 		culture = armenian
 		religion = orthodox
-		size = 725
+		size = 1175
 	}
 
 	soldiers = {
@@ -674,12 +626,6 @@
 		culture = armenian
 		religion = orthodox
 		size = 50
-	}
-
-	artisans = {
-		culture = armenian
-		religion = orthodox
-		size = 450
 	}
 
 	soldiers = {
@@ -958,19 +904,19 @@
 	aristocrats = {
 		culture = abkhaz
 		religion = orthodox
-		size = 150
+		size = 250
 	}
 
 	clergymen = {
 		culture = abkhaz
 		religion = orthodox
-		size = 75
+		size = 125
 	}
 
 	artisans = {
 		culture = abkhaz
 		religion = orthodox
-		size = 450
+		size = 700
 	}
 	
 	soldiers = {
@@ -982,25 +928,7 @@
 	farmers = {
 		culture = abkhaz
 		religion = orthodox
-		size = 28225
-	}
-
-	aristocrats = {
-		culture = abkhaz
-		religion = orthodox
-		size = 100
-	}
-
-	clergymen = {
-		culture = abkhaz
-		religion = orthodox
-		size = 50
-	}
-
-	artisans = {
-		culture = abkhaz
-		religion = orthodox
-		size = 250
+		size = 48775
 	}
 
 	soldiers = {
@@ -1009,11 +937,6 @@
 		size = 50
 	}
 
-	farmers = {
-		culture = abkhaz
-		religion = orthodox
-		size = 20550
-	}
 }
 #Kars Region (76000) #see Turkey.txt for balance of region  
 #under the rule of Ottoman Empire in 1836  
@@ -1052,25 +975,25 @@
 	soldiers = {
 		culture = georgian
 		religion = orthodox
-		size = 110
+		size = 235
 	}
 	
 	clergymen = {
 		culture = georgian
 		religion = orthodox
-		size = 110
+		size = 235
 	}
 
 	artisans = {
 		culture = georgian
 		religion = orthodox
-		size = 200
+		size = 800
 	}
 
 	farmers = {
 		culture = georgian
 		religion = orthodox
-		size = 3725
+		size = 14975
 	}
 	
 	soldiers = {
@@ -1101,30 +1024,6 @@
 		culture = georgian
 		religion = orthodox
 		size = 200
-	}
-
-	clergymen = {
-		culture = georgian
-		religion = orthodox
-		size = 125
-	}
-
-	artisans = {
-		culture = georgian
-		religion = orthodox
-		size = 600
-	}
-
-	soldiers = {
-		culture = georgian
-		religion = orthodox
-		size = 125
-	}
-
-	farmers = {
-		culture = georgian
-		religion = orthodox
-		size = 11250
 	}
 
 }

@@ -23,55 +23,25 @@
 	clergymen = {
 		culture = bedouin
 		religion = manichaeism
-		size = 50
+		size = 100
 	}
 
 	artisans = {
 		culture = bedouin
 		religion = manichaeism
-		size = 400
+		size = 500
 	}
 
 	soldiers = {
 		culture = bedouin
 		religion = manichaeism
-		size = 3000
-	}
-
-	soldiers = {
-		culture = bedouin
-		religion = manichaeism
-		size = 1000
+		size = 4100
 	}
 
 	farmers = {
 		culture = bedouin
 		religion = manichaeism
-		size = 2625
-	}
-
-	clergymen = {
-		culture = bedouin
-		religion = manichaeism
-		size = 50
-	}
-
-	artisans = {
-		culture = bedouin
-		religion = manichaeism
-		size = 100
-	}
-
-	soldiers = {
-		culture = bedouin
-		religion = manichaeism
-		size = 100
-	}
-
-	farmers = {
-		culture = bedouin
-		religion = manichaeism
-		size = 3950
+		size = 6575
 	}
 
 	artisans = {
@@ -145,14 +115,9 @@
 	farmers = {
 		culture = bedouin
 		religion = manichaeism
-		size = 2000
+		size = 3625
 	}
 	
-	farmers = {
-		culture = bedouin
-		religion = manichaeism
-		size = 1625
-	}
 }
 #Nizwa (24000/6000 POPS)   
 1170 = {
@@ -165,50 +130,27 @@
 	clergymen = {
 		culture = bedouin
 		religion = manichaeism
-		size = 50
-	}
-
-	artisans = {
-		culture = bedouin
-		religion = manichaeism
-		size = 300
-	}
-
-	soldiers = {
-		culture = bedouin
-		religion = manichaeism
-		size = 1000
-	}
-
-	farmers = {
-		culture = bedouin
-		religion = manichaeism
-		size = 1575
-	}
-
-	clergymen = {
-		culture = bedouin
-		religion = manichaeism
-		size = 50
-	}
-
-	artisans = {
-		culture = bedouin
-		religion = manichaeism
-		size = 50
-	}
-
-	soldiers = {
-		culture = bedouin
-		religion = manichaeism
 		size = 100
 	}
 
+	artisans = {
+		culture = bedouin
+		religion = manichaeism
+		size = 350
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = manichaeism
+		size = 1100
+	}
+
 	farmers = {
 		culture = bedouin
 		religion = manichaeism
-		size = 3525
+		size = 5100
 	}
+
 }
 #Sur (24000/6000 POPS)   
 1171 = {
@@ -221,49 +163,25 @@
 	clergymen = {
 		culture = bedouin
 		religion = manichaeism
+		size = 75
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = manichaeism
+		size = 200
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = manichaeism
 		size = 50
 	}
 
-	artisans = {
-		culture = bedouin
-		religion = manichaeism
-		size = 100
-	}
-
-	soldiers = {
-		culture = bedouin
-		religion = manichaeism
-		size = 25
-	}
-
 	farmers = {
 		culture = bedouin
 		religion = manichaeism
-		size = 1800
-	}
-
-	clergymen = {
-		culture = bedouin
-		religion = manichaeism
-		size = 25
-	}
-
-	artisans = {
-		culture = bedouin
-		religion = manichaeism
-		size = 100
-	}
-
-	soldiers = {
-		culture = bedouin
-		religion = manichaeism
-		size = 25
-	}
-
-	farmers = {
-		culture = bedouin
-		religion = manichaeism
-		size = 1850
+		size = 3650
 	}
 
 	artisans = {
@@ -301,13 +219,13 @@
 	clergymen = {
 		culture = bedouin
 		religion = manichaeism
-		size = 75
+		size = 100
 	}
 
 	artisans = {
 		culture = bedouin
 		religion = manichaeism
-		size = 200
+		size = 250
 	}
 
 	soldiers = {
@@ -319,26 +237,9 @@
 	farmers = {
 		culture = bedouin
 		religion = manichaeism
-		size = 2000
+		size = 4825
 	}
 
-	clergymen = {
-		culture = bedouin
-		religion = manichaeism
-		size = 25
-	}
-
-	artisans = {
-		culture = bedouin
-		religion = manichaeism
-		size = 50
-	}
-
-	farmers = {
-		culture = bedouin
-		religion = manichaeism
-		size = 2825
-	}
 }
 #Hadramaut Region (36000) #see Yemen.txt for balance of region  
 #under the rule of Oman in 1836  
@@ -365,13 +266,13 @@
 	clergymen = {
 		culture = bedouin
 		religion = manichaeism
-		size = 75
+		size = 100
 	}
 
 	artisans = {
 		culture = bedouin
 		religion = manichaeism
-		size = 250
+		size = 300
 	}
 
 	soldiers = {
@@ -383,25 +284,7 @@
 	farmers = {
 		culture = bedouin
 		religion = manichaeism
-		size = 3000
-	}
-
-	clergymen = {
-		culture = bedouin
-		religion = manichaeism
-		size = 25
-	}
-
-	artisans = {
-		culture = bedouin
-		religion = manichaeism
-		size = 50
-	}
-
-	farmers = {
-		culture = bedouin
-		religion = manichaeism
-		size = 2025
+		size = 5025
 	}
 
 }
@@ -435,15 +318,9 @@
 	farmers = {
 		culture = bedouin
 		religion = manichaeism
-		size = 230
+		size = 960
 	}
 
-	farmers = {
-		culture = bedouin
-		religion = manichaeism
-		size = 730
-	}
-	
 	farmers = {
 		culture = turkish
 		religion = manichaeism
@@ -480,13 +357,7 @@
 	farmers = {
 		culture = turkish
 		religion = manichaeism
-		size = 3000
-	}
-	
-	farmers = {
-		culture = turkish
-		religion = manichaeism
-		size = 6000
+		size = 9000
 	}
 	
 	slaves = {

@@ -187,13 +187,7 @@
 	clergymen = {
 		culture = fulbe
 		religion = sunni
-		size = 100
-	}
-
-	clergymen = {
-		culture = fulbe
-		religion = sunni
-		size = 100
+		size = 200
 	}
 
 	soldiers = {
@@ -273,19 +267,13 @@
 	farmers = {
 		culture = wolof
 		religion = sunni
-		size = 150
+		size = 41450
 	}
 
 	soldiers = {
 		culture = wolof
 		religion = sunni
 		size = 1400
-	}
-
-	farmers = {
-		culture = wolof
-		religion = sunni
-		size = 41300
 	}
 
 	slaves = {
@@ -336,7 +324,7 @@
 	clergymen = {
 		culture = fulbe
 		religion = sunni
-		size = 100
+		size = 200
 	}
 
 	artisans = {
@@ -351,12 +339,6 @@
 		size = 100
 	}
 	
-	clergymen = {
-		culture = fulbe
-		religion = sunni
-		size = 100
-	}
-
 	farmers = {
 		culture = fulbe
 		religion = sunni

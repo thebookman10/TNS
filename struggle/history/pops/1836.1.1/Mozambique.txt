@@ -468,13 +468,13 @@
 	aristocrats = {
 		culture = Pauperes
 		religion = animist
-		size = 150
+		size = 250
 	}
 
 	clergymen = {
 		culture = Pauperes
 		religion = animist
-		size = 125
+		size = 225
 	}
 
 	artisans = {
@@ -511,18 +511,6 @@
 		culture = swahili
 		religion = sunni
 		size = 975
-	}
-
-	aristocrats = {
-		culture = Pauperes
-		religion = animist
-		size = 100
-	}
-
-	clergymen = {
-		culture = Pauperes
-		religion = animist
-		size = 100
 	}
 
 	artisans = {
@@ -892,13 +880,13 @@ farmers = {
 	aristocrats = {
 		culture = Pauperes
 		religion = animist
-		size = 125
+		size = 275
 	}
 
 	clergymen = {
 		culture = Pauperes
 		religion = animist
-		size = 100
+		size = 250
 	}
 
 	artisans = {
@@ -917,18 +905,6 @@ farmers = {
 		culture = sena
 		religion = animist
 		size = 27100
-	}
-
-	aristocrats = {
-		culture = Pauperes
-		religion = animist
-		size = 150
-	}
-
-	clergymen = {
-		culture = Pauperes
-		religion = animist
-		size = 150
 	}
 
 	artisans = {
@@ -1296,7 +1272,7 @@ farmers = {
 	slaves = {
 		culture = yao
 		religion = animist
-		size = 1100
+		size = 4100
 	}
 
 	aristocrats = {
@@ -1335,11 +1311,6 @@ farmers = {
 		size = 1000
 	}
 
-	slaves = {
-		culture = yao
-		religion = animist
-		size = 3000
-	}
 }
 #Milange (108000/27000 POPS)
 2065 = {
@@ -1456,12 +1427,7 @@ farmers = {
 	slaves = {
 		culture = yao
 		religion = animist
-		size = 2000
+		size = 17000
 	}
 
-	slaves = {
-		culture = yao
-		religion = animist
-		size = 15000
-	}
 }

@@ -753,13 +753,7 @@
 	farmers = {
 		culture = amazonian
 		religion = punic_church
-		size = 20
-	}
-
-	farmers = {
-		culture = amazonian
-		religion = punic_church
-		size = 975
+		size = 995
 	}
 
 	aristocrats = {
@@ -868,7 +862,7 @@
 	artisans = {
 		culture = amazonian
 		religion = animist
-		size = 250
+		size = 500
 		rebel_type = nationalist_rebels
 		militancy = 3
 	}
@@ -876,7 +870,7 @@
 	soldiers = {
 		culture = amazonian
 		religion = animist
-		size = 25
+		size = 525
 		rebel_type = nationalist_rebels
 		militancy = 3
 	}
@@ -901,22 +895,6 @@
 		culture = amazonian
 		religion = animist
 		size = 50
-		rebel_type = nationalist_rebels
-		militancy = 3
-	}
-
-	artisans = {
-		culture = amazonian
-		religion = animist
-		size = 250
-		rebel_type = nationalist_rebels
-		militancy = 3
-	}
-
-	soldiers = {
-		culture = amazonian
-		religion = animist
-		size = 500
 		rebel_type = nationalist_rebels
 		militancy = 3
 	}
@@ -2104,19 +2082,7 @@
 	artisans = {
 		culture = new_roman
 		religion = punic_church
-		size = 10000
-	}
-
-	artisans = {
-		culture = new_roman
-		religion = punic_church
-		size = 10000
-	}
-
-	artisans = {
-		culture = new_roman
-		religion = punic_church
-		size = 7000
+		size = 27000
 	}
 
 	soldiers = {
@@ -2158,14 +2124,9 @@
 	slaves = {
 		culture = afro_brazilian
 		religion = punic_church
-		size = 18000
+		size = 25000
 	}
 	
-	slaves = {
-		culture = afro_brazilian
-		religion = punic_church
-		size = 7000
-	}
 }
 #Juazeiro (180000/45000 POPS)
 2437 = {
@@ -2862,25 +2823,7 @@
 	soldiers = {
 		culture = new_roman
 		religion = punic_church
-		size = 3000
-	}
-
-	soldiers = {
-		culture = new_roman
-		religion = punic_church
-		size = 3000
-	}
-
-	soldiers = {
-		culture = new_roman
-		religion = punic_church
-		size = 3000
-	}
-
-	soldiers = {
-		culture = new_roman
-		religion = punic_church
-		size = 2000
+		size = 11000
 	}
 
 	farmers = {
@@ -2928,19 +2871,7 @@
 	soldiers = {
 		culture = new_punic
 		religion = punic_church
-		size = 2000
-	}
-
-	soldiers = {
-		culture = new_punic
-		religion = punic_church
-		size = 2000
-	}
-
-	soldiers = {
-		culture = new_punic
-		religion = punic_church
-		size = 2000
+		size = 6000
 	}
 
 	farmers = {
@@ -4214,13 +4145,7 @@
 	soldiers = {
 		culture = new_roman
 		religion = punic_church
-		size = 3000
-	}
-
-	soldiers = {
-		culture = new_roman
-		religion = punic_church
-		size = 2000
+		size = 5000
 	}
 
 	farmers = {

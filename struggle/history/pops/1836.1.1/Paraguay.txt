@@ -123,7 +123,7 @@
 	farmers = {
 		culture = new_roman
 		religion = punic_church
-		size = 66825
+		size = 117650
 	}
 	
 	aristocrats = {
@@ -160,12 +160,6 @@
 		culture = new_punic
 		religion = punic_church
 		size = 15100
-	}
-
-	farmers = {
-		culture = new_roman
-		religion = punic_church
-		size = 50825
 	}
 
 	clergymen = {

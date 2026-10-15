@@ -23,13 +23,7 @@
 	soldiers = {
 		culture = akan
 		religion = punic_church
-		size = 3000
-	}
-
-	soldiers = {
-		culture = akan
-		religion = punic_church
-		size = 1350
+		size = 4350
 	}
 
 	farmers = {
@@ -169,25 +163,13 @@
 	artisans = {
 		culture = akan
 		religion = punic_church
-		size = 10000
+		size = 10940
 	}
 	
-	artisans = {
-		culture = akan
-		religion = punic_church
-		size = 940
-	}
-
 	soldiers = {
 		culture = akan
 		religion = punic_church
-		size = 3000
-	}
-
-	soldiers = {
-		culture = akan
-		religion = punic_church
-		size = 1000
+		size = 4000
 	}
 
 	farmers = {

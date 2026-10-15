@@ -23,25 +23,13 @@
 	artisans = {
 		culture = bakongo
 		religion = animist
-		size = 10000
+		size = 14025
 	}
 	
-	artisans = {
-		culture = bakongo
-		religion = animist
-		size = 4025
-	}
-
 	soldiers = {
 		culture = bakongo
 		religion = animist
-		size = 3000
-	}
-
-	soldiers = {
-		culture = bakongo
-		religion = animist
-		size = 575
+		size = 3575
 	}
 
 	farmers = {
@@ -149,13 +137,7 @@
 	soldiers = {
 		culture = kuba
 		religion = animist
-		size = 3000
-	}
-
-	soldiers = {
-		culture = kuba
-		religion = animist
-		size = 1675
+		size = 4675
 	}
 
 	farmers = {
@@ -338,25 +320,13 @@
 	artisans = {
 		culture = lunda
 		religion = animist
-		size = 10000
+		size = 14390
 	}
 	
-	artisans = {
-		culture = lunda
-		religion = animist
-		size = 4390
-	}
-
 	soldiers = {
 		culture = lunda
 		religion = animist
-		size = 3000
-	}
-
-	soldiers = {
-		culture = lunda
-		religion = animist
-		size = 1030
+		size = 4030
 	}
 
 	farmers = {
@@ -957,13 +927,7 @@
 	soldiers = {
 		culture = azande
 		religion = animist
-		size = 3000
-	}
-
-	soldiers = {
-		culture = azande
-		religion = animist
-		size = 100
+		size = 3100
 	}
 
 	farmers = {

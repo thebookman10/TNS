@@ -117,13 +117,7 @@
 	soldiers = {
 		culture = bedouin
 		religion = manichaeism
-		size = 3000
-	}
-
-	soldiers = {
-		culture = bedouin
-		religion = manichaeism
-		size = 1175
+		size = 4175
 	}
 
 	farmers = {

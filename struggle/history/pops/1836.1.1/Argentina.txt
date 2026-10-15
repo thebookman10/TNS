@@ -902,14 +902,9 @@
 	farmers = {
 		culture = platinier
 		religion = catholic
-		size = 2900
+		size = 5800
 	}
 	
-	farmers = {
-		culture = platinier
-		religion = catholic
-		size = 2900
-	}
 }
 #Cochinoca (4000/1000 POPS)
 2370 = {
@@ -1184,19 +1179,13 @@
 	farmers = {
 		culture = platinier
 		religion = catholic
-		size = 3005
+		size = 10830
 	}
 
 	slaves = {
 		culture = afro_caribeno
 		religion = catholic
 		size = 500
-	}
-	
-	farmers = {
-		culture = platinier
-		religion = catholic
-		size = 7825
 	}
 	
 	farmers = {

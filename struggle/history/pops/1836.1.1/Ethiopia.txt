@@ -395,13 +395,7 @@
 	soldiers = {
 		culture = oromo
 		religion = coptic
-		size = 3000
-	}
-
-	soldiers = {
-		culture = oromo
-		religion = coptic
-		size = 1300
+		size = 4300
 	}
 
 	farmers = {
@@ -647,43 +641,13 @@
 	artisans = {
 		culture = amhara
 		religion = coptic
-		size = 10000
+		size = 22800
 	}
 	
-	artisans = {
-		culture = amhara
-		religion = coptic
-		size = 10000
-	}
-	
-	artisans = {
-		culture = amhara
-		religion = coptic
-		size = 2800
-	}
-
 	soldiers = {
 		culture = amhara
 		religion = coptic
-		size = 3000
-	}
-
-	soldiers = {
-		culture = amhara
-		religion = coptic
-		size = 3000
-	}
-
-	soldiers = {
-		culture = amhara
-		religion = coptic
-		size = 3000
-	}
-
-	soldiers = {
-		culture = amhara
-		religion = coptic
-		size = 3000
+		size = 12000
 	}
 
 	farmers = {
@@ -773,7 +737,7 @@
 	farmers = {
 		culture = harari
 		religion = coptic
-		size = 20000
+		size = 40000
 	}
 	
 	aristocrats = {
@@ -800,12 +764,6 @@
 		size = 1250
 	}
 	
-	farmers = {
-		culture = harari
-		religion = coptic
-		size = 20000
-	}
-	
 }
 #Awasa (448000/115000 POPS)
 1860 = {
@@ -813,25 +771,25 @@
 	aristocrats = {
 		culture = oromo
 		religion = sunni
-		size = 1325
+		size = 2250
 	}
 
 	clergymen = {
 		culture = oromo
 		religion = sunni
-		size = 675
+		size = 1150
 	}
 
 	artisans = {
 		culture = oromo
 		religion = sunni
-		size = 2725
+		size = 4625
 	}
 
 	farmers = {
 		culture = oromo
 		religion = sunni
-		size = 53300
+		size = 96525
 	}
 	
 	slaves = {
@@ -840,34 +798,10 @@
 		size = 10000
 	}
 	
-	aristocrats = {
-		culture = oromo #From here on they were amhara and coptic
-		religion = sunni
-		size = 925
-	}
-
-	clergymen = {
-		culture = oromo
-		religion = sunni
-		size = 475
-	}
-
-	artisans = {
-		culture = oromo
-		religion = sunni
-		size = 1900
-	}
-
 	soldiers = {
 		culture = oromo
 		religion = sunni
 		size = 475
-	}
-
-	farmers = {
-		culture = oromo
-		religion = sunni
-		size = 43225
 	}
 
 }
@@ -877,75 +811,40 @@
 	aristocrats = {
 		culture = oromo
 		religion = sunni
-		size = 1250
+		size = 1850
 	}
 
 	clergymen = {
-		culture = oromo
-		religion = sunni
-		size = 150
-	}
-
-	artisans = {
-		culture = oromo
-		religion = sunni
-		size = 2650
-	}
-
-	soldiers = {
 		culture = oromo
 		religion = sunni
 		size = 450
 	}
 
-	farmers = {
-		culture = oromo
-		religion = sunni
-		size = 50500
-	}
-
-	slaves = {
-		culture = oromo
-		religion = sunni
-		size = 10000
-	}
-	
-	#From here on they were amhara and coptic
-	aristocrats = {
-		culture = oromo
-		religion = sunni
-		size = 600
-	}
-
-	clergymen = {
-		culture = oromo
-		religion = sunni
-		size = 300
-	}
-
 	artisans = {
 		culture = oromo
 		religion = sunni
-		size = 1250
+		size = 3900
 	}
 
 	soldiers = {
 		culture = oromo
 		religion = sunni
-		size = 325
+		size = 775
 	}
 
 	farmers = {
 		culture = oromo
 		religion = sunni
-		size = 26525
+		size = 77025
 	}
 
 	slaves = {
 		culture = oromo
 		religion = sunni
-		size = 2000
+		size = 12000
 	}
+	
+	#From here on they were amhara and coptic
 }
 #Sidamo-Welega Region (1628000)
 #under the "rule" of Ethiopia in 1836

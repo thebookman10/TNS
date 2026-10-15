@@ -5,79 +5,31 @@
 	aristocrats = {
 		culture = filipino
 		religion = catholic
-		size = 200
+		size = 1450
 	}
 
 	bureaucrats = {
 		culture = filipino
 		religion = catholic
-		size = 400
+		size = 850
 	}
 
 	clergymen = {
-		culture = filipino
-		religion = catholic
-		size = 250
-	}
-
-	artisans = {
-		culture = filipino
-		religion = catholic
-		size = 1050
-	}
-
-	soldiers = {
-		culture = filipino
-		religion = catholic
-		size = 100
-	}
-
-	aristocrats = {
-		culture = filipino
-		religion = catholic
-		size = 1250
-	}
-
-	bureaucrats = {
-		culture = filipino
-		religion = catholic
-		size = 450
-	}
-
-	clergymen = {
-		culture = filipino
-		religion = catholic
-		size = 750
-	}
-
-	artisans = {
-		culture = filipino
-		religion = catholic
-		size = 10000
-	}
-	
-	artisans = {
-		culture = filipino
-		religion = catholic
-		size = 10000
-	}
-	
-	artisans = {
-		culture = filipino
-		religion = catholic
-		size = 9000
-	}
-
-	soldiers = {
-		culture = filipino
-		religion = catholic
-		size = 3000
-	}
-
-	soldiers = {
 		culture = filipino
 		religion = catholic
 		size = 1000
+	}
+
+	artisans = {
+		culture = filipino
+		religion = catholic
+		size = 30050
+	}
+
+	soldiers = {
+		culture = filipino
+		religion = catholic
+		size = 4100
 	}
 
 	farmers = {
@@ -491,19 +443,19 @@
 	bureaucrats = {
 		culture = filipino
 		religion = catholic
-		size = 125
+		size = 500
 	}
 
 	clergymen = {
 		culture = filipino
 		religion = catholic
-		size = 50
+		size = 500
 	}
 
 	soldiers = {
 		culture = filipino
 		religion = catholic
-		size = 25
+		size = 775
 	}
 
 	aristocrats = {
@@ -512,28 +464,10 @@
 		size = 675
 	}
 
-	bureaucrats = {
-		culture = filipino
-		religion = catholic
-		size = 375
-	}
-
-	clergymen = {
-		culture = filipino
-		religion = catholic
-		size = 450
-	}
-
 	artisans = {
 		culture = filipino
 		religion = catholic
 		size = 3500
-	}
-
-	soldiers = {
-		culture = filipino
-		religion = catholic
-		size = 750
 	}
 
 	farmers = {
@@ -574,22 +508,16 @@
 	clergymen = {
 		culture = filipino
 		religion = catholic
-		size = 50
+		size = 150
 	}
 
 	soldiers = {
 		culture = filipino
 		religion = catholic
-		size = 25
+		size = 1125
 	}
 
 	aristocrats = {
-		culture = filipino
-		religion = catholic
-		size = 100
-	}
-
-	clergymen = {
 		culture = filipino
 		religion = catholic
 		size = 100
@@ -599,12 +527,6 @@
 		culture = filipino
 		religion = catholic
 		size = 850
-	}
-
-	soldiers = {
-		culture = filipino
-		religion = catholic
-		size = 1100
 	}
 
 	farmers = {

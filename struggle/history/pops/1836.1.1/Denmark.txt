@@ -338,31 +338,13 @@
 	artisans = {
 		culture = norse
 		religion = protestant
-		size = 10000
+		size = 26000
 	}
 	
-	artisans = {
-		culture = norse
-		religion = protestant
-		size = 10000
-	}
-	
-	artisans = {
-		culture = norse
-		religion = protestant
-		size = 6000
-	}
-
 	soldiers = {
 		culture = norse
 		religion = protestant
-		size = 3000
-	}
-
-	soldiers = {
-		culture = norse
-		religion = protestant
-		size = 1000
+		size = 4000
 	}
 
 	farmers = {

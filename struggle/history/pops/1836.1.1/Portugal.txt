@@ -181,13 +181,7 @@
 	artisans = {
 		culture = visigothic
 		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = visigothic
-		religion = catholic
-		size = 800
+		size = 10800
 	}
 
 	soldiers = {
@@ -373,13 +367,7 @@
 	farmers = {
 		culture = visigothic
 		religion = catholic
-		size = 36025
-	}
-
-	farmers = {
-		culture = visigothic
-		religion = catholic
-		size = 5025
+		size = 41050
 	}
 
 }
@@ -516,73 +504,31 @@
 	clergymen = {
 		culture = suebi
 		religion = protestant
-		size = 50
+		size = 250
 	}
 
 	artisans = {
 		culture = suebi
 		religion = protestant
-		size = 400
+		size = 1550
 	}
 
 	soldiers = {
 		culture = suebi
 		religion = protestant
-		size = 75
+		size = 375
 	}
 
 	farmers = {
 		culture = suebi
 		religion = protestant
-		size = 1475
+		size = 21875
 	}
 
 	aristocrats = {
 		culture = suebi
 		religion = protestant
 		size = 450
-	}
-
-	clergymen = {
-		culture = suebi
-		religion = protestant
-		size = 150
-	}
-
-	artisans = {
-		culture = suebi
-		religion = protestant
-		size = 800
-	}
-
-	soldiers = {
-		culture = suebi
-		religion = protestant
-		size = 300
-	}
-
-	farmers = {
-		culture = suebi
-		religion = protestant
-		size = 20300
-	}
-
-	clergymen = {
-		culture = suebi
-		religion = protestant
-		size = 50
-	}
-
-	artisans = {
-		culture = suebi
-		religion = protestant
-		size = 350
-	}
-
-	farmers = {
-		culture = suebi
-		religion = protestant
-		size = 100
 	}
 
 	slaves = {

@@ -5,31 +5,31 @@
 	aristocrats = {
 		culture = uzbek
 		religion = manichaeism
-		size = 175
+		size = 200
 	}
 
 	clergymen = {
 		culture = uzbek
 		religion = manichaeism
-		size = 75
+		size = 100
 	}
 
 	artisans = {
 		culture = uzbek
 		religion = manichaeism
-		size = 3500
+		size = 3600
 	}
 	
 	soldiers = {
 		culture = uzbek
 		religion = manichaeism
-		size = 100
+		size = 1850
 	}
 
 	farmers = {
 		culture = uzbek
 		religion = manichaeism
-		size = 200
+		size = 7025
 	}
 	
 
@@ -45,36 +45,6 @@
 		size = 6000
 	}
 	
-	
-	aristocrats = {
-		culture = uzbek
-		religion = manichaeism
-		size = 25
-	}
-
-	clergymen = {
-		culture = uzbek
-		religion = manichaeism
-		size = 25
-	}
-
-	artisans = {
-		culture = uzbek
-		religion = manichaeism
-		size = 100
-	}
-
-	soldiers = {
-		culture = uzbek
-		religion = manichaeism
-		size = 1750
-	}
-
-	farmers = {
-		culture = uzbek
-		religion = manichaeism
-		size = 6825
-	}
 	
 }
 #uzbekia Region (368000) 
@@ -308,87 +278,33 @@
 	aristocrats = {
 		culture = uzbek
 		religion = manichaeism
-		size = 10
+		size = 460
 	}
 
 	clergymen = {
 		culture = uzbek
 		religion = manichaeism
-		size = 20
+		size = 1050
 	}
 
 	artisans = {
 		culture = uzbek
 		religion = manichaeism
-		size = 20
+		size = 5420
 	}
 
 	soldiers = {
 		culture = uzbek
 		religion = manichaeism
-		size = 1550
+		size = 1625
 	}
 
 	farmers = {
 		culture = uzbek
 		religion = manichaeism
-		size = 3000
+		size = 11425
 	}
 	
-	clergymen = {
-		culture = uzbek
-		religion = manichaeism
-		size = 180
-	}
-	
-	aristocrats = {
-		culture = uzbek
-		religion = manichaeism
-		size = 150
-	}
-
-	clergymen = {
-		culture = uzbek
-		religion = manichaeism
-		size = 250
-	}
-
-	artisans = {
-		culture = uzbek
-		religion = manichaeism
-		size = 1400
-	}
-
-	soldiers = {
-		culture = uzbek
-		religion = manichaeism
-		size = 75
-	}
-
-	farmers = {
-		culture = uzbek
-		religion = manichaeism
-		size = 8425
-	}
-	
-	aristocrats = {
-		culture = uzbek
-		religion = manichaeism
-		size = 300
-	}
-
-	clergymen = {
-		culture = uzbek
-		religion = manichaeism
-		size = 600
-	}
-
-	artisans = {
-		culture = uzbek
-		religion = manichaeism
-		size = 4000
-	}
-
 	farmers = {
 		culture = uzbek
 		religion = zoroastrian
@@ -398,7 +314,7 @@
 	farmers = {
 		culture = parthian
 		religion = manichaeism
-		size = 4700
+		size = 21700
 	}
 
 	soldiers = {
@@ -407,12 +323,6 @@
 		size = 200
 	}
 
-	farmers = {
-		culture = parthian
-		religion = manichaeism
-		size = 17000
-	}
-	
 	aristocrats = {
 		culture = parthian
 		religion = zoroastrian
@@ -473,62 +383,33 @@
 	aristocrats = {
 		culture = parthian
 		religion = manichaeism
-		size = 200
+		size = 250
 	}
 	
 	clergymen = {
-		culture = parthian
-		religion = manichaeism
-		size = 200
-	}
-	
-	artisans = {
-		culture = parthian
-		religion = manichaeism
-		size = 2000
-	}
-	
-	soldiers = {
 		culture = parthian
 		religion = manichaeism
 		size = 250
 	}
 	
-	farmers = {
-		culture = parthian
-		religion = manichaeism
-		size = 10000
-	}
-	
-	aristocrats = {
-		culture = parthian
-		religion = manichaeism
-		size = 50
-	}
-	
-	clergymen = {
-		culture = parthian
-		religion = manichaeism
-		size = 50
-	}
-	
 	artisans = {
 		culture = parthian
 		religion = manichaeism
-		size = 200
+		size = 2200
 	}
 	
 	soldiers = {
 		culture = parthian
 		religion = manichaeism
-		size = 300
+		size = 550
 	}
 	
 	farmers = {
 		culture = parthian
 		religion = manichaeism
-		size = 8000
+		size = 18000
 	}
+	
 }
 
 #Mashrian
@@ -536,55 +417,31 @@
 	aristocrats = {
 		culture = parthian
 		religion = manichaeism
-		size = 3
+		size = 13
 	}
 
 	clergymen = {
 		culture = parthian
 		religion = manichaeism
-		size = 3
+		size = 23
 	}
 
 	artisans = {
 		culture = parthian
 		religion = manichaeism
-		size = 30
+		size = 230
 	}
 
 	soldiers = {
 		culture = parthian
 		religion = manichaeism
-		size = 4100
+		size = 4150
 	}
 
 	farmers = {
 		culture = uzbek
 		religion = manichaeism
 		size = 12500
-	}
-	
-	aristocrats = {
-		culture = parthian
-		religion = manichaeism
-		size = 10
-	}
-	
-	clergymen = {
-		culture = parthian
-		religion = manichaeism
-		size = 20
-	}
-	
-	artisans = {
-		culture = parthian
-		religion = manichaeism
-		size = 200
-	}
-	
-	soldiers = {
-		culture = parthian
-		religion = manichaeism
-		size = 50
 	}
 	
 	farmers = {
@@ -728,50 +585,27 @@
 	aristocrats = {
 		culture = sogdian
 		religion = manichaeism
-		size = 20
+		size = 40
 	}
 	
 	clergymen = {
 		culture = sogdian
 		religion = manichaeism
-		size = 15
+		size = 30
 	}
 	
 	artisans = {
 		culture = sogdian
 		religion = manichaeism
-		size = 300
+		size = 600
 	}
 	
 	farmers = {
 		culture = sogdian
 		religion = manichaeism
-		size = 1100
+		size = 4600
 	}
 	
-	aristocrats = {
-		culture = sogdian
-		religion = manichaeism
-		size = 20
-	}
-	
-	clergymen = {
-		culture = sogdian
-		religion = manichaeism
-		size = 15
-	}
-	
-	artisans = {
-		culture = sogdian
-		religion = manichaeism
-		size = 300
-	}
-	
-	farmers = {
-		culture = sogdian
-		religion = manichaeism
-		size = 3500
-	}
 }
 
 #Karakum
@@ -809,25 +643,14 @@
 	artisans = {
 		culture = parthian
 		religion = manichaeism
-		size = 20
+		size = 50
 	}
 
 	farmers = {
 		culture = parthian
 		religion = manichaeism
-		size = 300
+		size = 800
 	}
 
-	artisans = {
-		culture = parthian
-		religion = manichaeism
-		size = 30
-	}
-
-	farmers = {
-		culture = parthian
-		religion = manichaeism
-		size = 500
-	}
 }
 

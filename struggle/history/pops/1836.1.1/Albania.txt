@@ -607,13 +607,13 @@
 	aristocrats = {
 		culture = tosk
 		religion = orthodox
-		size = 573
+		size = 646
 	}
 	
 	clergymen = {
 		culture = tosk
 		religion = orthodox
-		size = 256
+		size = 346
 	}
 	
 	artisans = {
@@ -632,18 +632,6 @@
 		culture = tosk
 		religion = orthodox
 		size = 3000
-	}
-	
-	aristocrats = {
-		culture = tosk
-		religion = orthodox
-		size = 73
-	}
-	
-	clergymen = {
-		culture = tosk
-		religion = orthodox
-		size = 90
 	}
 	
 	artisans = {

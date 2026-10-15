@@ -145,13 +145,7 @@
 	soldiers = {
 		culture = fon
 		religion = punic_church
-		size = 3000
-	}
-
-	soldiers = {
-		culture = fon
-		religion = punic_church
-		size = 100
+		size = 3100
 	}
 
 	farmers = {

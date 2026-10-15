@@ -5,63 +5,39 @@
 	aristocrats = {
 		culture = bavarian
 		religion = catholic
-		size = 750 
+		size = 2300 
 	}
 	
 	bureaucrats = {
 		culture = bavarian
 		religion = catholic
-		size = 250
+		size = 1275
 	}
 
 	clergymen = {
 		culture = bavarian
 		religion = catholic
-		size = 50 
+		size = 1075 
 	}
 
 	artisans = {
 		culture = bavarian
 		religion = catholic
-		size = 3100
+		size = 17600
 	}
 
 	soldiers = {
 		culture = bavarian
 		religion = catholic
-		size = 50 
+		size = 1075 
 	}
 
 	farmers = {
 		culture = bavarian
 		religion = catholic
-		size = 10150
+		size = 87775
 	}
 
-	clergymen = {
-		culture = bavarian
-		religion = catholic
-		size = 450
-	}
-
-	artisans = {
-		culture = bavarian
-		religion = catholic
-		size = 1600
-	}
-
-	soldiers = {
-		culture = bavarian
-		religion = catholic
-		size = 450 
-	}
-
-	farmers = {
-		culture = bavarian
-		religion = catholic
-		size = 12500
-	}
-	
 	serfs = {
 		culture = gypsy
 		religion = catholic
@@ -74,192 +50,12 @@
 		size = 20000
 	}
 
-	bureaucrats = {
-		culture = bavarian
-		religion = catholic
-		size = 450
-	}
-
-	aristocrats = {
-		culture = bavarian
-		religion = catholic
-		size = 1250  
-	}
-
-	bureaucrats = {
-		culture = bavarian
-		religion = catholic
-		size = 275 
-	}
-
 	officers = {
 		culture = bavarian
 		religion = catholic
-		size = 150 
+		size = 370 
 	}
 
-	clergymen = {
-		culture = bavarian
-		religion = catholic
-		size = 150 
-	}
-
-	artisans = {
-		culture = bavarian
-		religion = catholic
-		size = 11100
-	}
-
-	soldiers = {
-		culture = bavarian
-		religion = catholic
-		size = 175  
-	}
-
-	farmers = {
-		culture = bavarian
-		religion = catholic
-		size = 33000  
-	}
-
-	aristocrats = {
-		culture = bavarian
-		religion = catholic
-		size = 300  
-	}
-
-	clergymen = {
-		culture = bavarian
-		religion = catholic
-		size = 100  
-	}
-
-	artisans = {
-		culture = bavarian
-		religion = catholic
-		size = 400
-	}
-
-	soldiers = {
-		culture = bavarian
-		religion = catholic
-		size = 100  
-	}
-
-	farmers = {
-		culture = bavarian
-		religion = catholic
-		size = 6450 
-	}
-	
-	bureaucrats = {
-		culture = bavarian
-		religion = catholic
-		size = 50 
-	}
-	
-	officers = {
-		culture = bavarian
-		religion = catholic
-		size = 35 
-	}
-
-	clergymen = {
-		culture = bavarian
-		religion = catholic
-		size = 50  
-	}
-
-	artisans = {
-		culture = bavarian
-		religion = catholic
-		size = 150
-	}
-
-	soldiers = {
-		culture = bavarian
-		religion = catholic
-		size = 50  
-	}
-
-	farmers = {
-		culture = bavarian
-		religion = catholic
-		size = 2750  
-	}
-	
-	bureaucrats = {
-		culture = bavarian
-		religion = catholic
-		size = 50 
-	}
-
-	clergymen = {
-		culture = bavarian
-		religion = catholic
-		size = 50
-	}
-
-	officers = {
-		culture = bavarian
-		religion = catholic
-		size = 35 
-	}
-
-	artisans = {
-		culture = bavarian
-		religion = catholic
-		size = 250
-	}
-
-	soldiers = {
-		culture = bavarian
-		religion = catholic
-		size = 50  
-	}
-
-	farmers = {
-		culture = bavarian
-		religion = catholic
-		size = 4000  
-	}
-
-	bureaucrats = {
-		culture = bavarian
-		religion = catholic
-		size = 200 
-	}
-
-	clergymen = {
-		culture = bavarian
-		religion = catholic
-		size = 225
-	}
-
-	officers = {
-		culture = bavarian
-		religion = catholic
-		size = 150 
-	}
-
-	artisans = {
-		culture = bavarian
-		religion = catholic
-		size = 1000
-	}
-
-	soldiers = {
-		culture = bavarian
-		religion = catholic
-		size = 200  
-	}
-
-	farmers = {
-		culture = bavarian
-		religion = catholic
-		size = 18925  
-	}
-	
 }  
 #Maribor (204000/51000 POPS) #Part of Slovenia Today
 3638 = {
@@ -278,51 +74,27 @@
 	clergymen = {
 		culture = venetian
 		religion = catholic
-		size = 50 
+		size = 500 
 	}
 
 	artisans = {
 		culture = venetian
 		religion = catholic
-		size = 400
+		size = 2000
 	}
 
 	soldiers = {
 		culture = venetian
 		religion = catholic
-		size = 25 
+		size = 475 
 	}
 
 	farmers = {
 		culture = venetian
 		religion = catholic
-		size = 3150
+		size = 5650
 	}
 
-	clergymen = {
-		culture = venetian
-		religion = catholic
-		size = 450
-	}
-
-	artisans = {
-		culture = venetian
-		religion = catholic
-		size = 1600
-	}
-
-	soldiers = {
-		culture = venetian
-		religion = catholic
-		size = 450 
-	}
-
-	farmers = {
-		culture = venetian
-		religion = catholic
-		size = 2500
-	}
-	
 	serfs = {
 		culture = gypsy
 		religion = catholic
@@ -379,13 +151,7 @@
 	farmers = {
 		culture = dalmatian
 		religion = catholic
-		size = 23150
-	}
-	
-	farmers = {
-		culture = dalmatian
-		religion = catholic
-		size = 17613
+		size = 40763
 	}
 	
 }

@@ -29,15 +29,9 @@
 	artisans = {
 		culture = korean
 		religion = mahayana
-		size = 9500
+		size = 15000
 	}
 	
-	artisans = {
-		culture = korean
-		religion = mahayana
-		size = 5500
-	}
-
 	soldiers = {
 		culture = korean
 		religion = mahayana
@@ -73,21 +67,9 @@
 	artisans = {
 		culture = korean
 		religion = mahayana
-		size = 9000
+		size = 22000
 	}
 	
-	artisans = {
-		culture = korean
-		religion = mahayana
-		size = 5000
-	}
-	
-	artisans = {
-		culture = korean
-		religion = mahayana
-		size = 8000
-	}
-
 	soldiers = {
 		culture = korean
 		religion = mahayana
@@ -265,33 +247,9 @@
 	artisans = {
 		culture = korean
 		religion = mahayana
-		size = 10000
+		size = 43750
 	}
 	
-	artisans = {
-		culture = korean
-		religion = mahayana
-		size = 10000
-	}
-	
-	artisans = {
-		culture = korean
-		religion = mahayana
-		size = 10000
-	}
-	
-	artisans = {
-		culture = korean
-		religion = mahayana
-		size = 10000
-	}
-	
-	artisans = {
-		culture = korean
-		religion = mahayana
-		size = 3750
-	}
-
 	soldiers = {
 		culture = korean
 		religion = mahayana
@@ -327,15 +285,9 @@
 	artisans = {
 		culture = korean
 		religion = mahayana
-		size = 6250
+		size = 16250
 	}
 	
-	artisans = {
-		culture = korean
-		religion = mahayana
-		size = 10000
-	}
-
 	soldiers = {
 		culture = korean
 		religion = mahayana
@@ -371,15 +323,9 @@
 	artisans = {
 		culture = korean
 		religion = mahayana
-		size = 3000
+		size = 13000
 	}
 	
-	artisans = {
-		culture = korean
-		religion = mahayana
-		size = 10000
-	}
-
 	soldiers = {
 		culture = korean
 		religion = mahayana
@@ -427,15 +373,9 @@
 	artisans = {
 		culture = korean
 		religion = mahayana
-		size = 10000
+		size = 13000
 	}
 	
-	artisans = {
-		culture = korean
-		religion = mahayana
-		size = 3000
-	}
-
 	soldiers = {
 		culture = korean
 		religion = mahayana
@@ -471,21 +411,9 @@
 	artisans = {
 		culture = korean
 		religion = mahayana
-		size = 6500
+		size = 26500
 	}
 	
-	artisans = {
-		culture = korean
-		religion = mahayana
-		size = 10000
-	}
-	
-	artisans = {
-		culture = korean
-		religion = mahayana
-		size = 10000
-	}
-
 	soldiers = {
 		culture = korean
 		religion = mahayana
@@ -529,15 +457,9 @@
 	artisans = {
 		culture = korean
 		religion = mahayana
-		size = 9250
+		size = 19250
 	}
 	
-	artisans = {
-		culture = korean
-		religion = mahayana
-		size = 10000
-	}
-
 	soldiers = {
 		culture = korean
 		religion = mahayana
@@ -573,21 +495,9 @@
 	artisans = {
 		culture = korean
 		religion = mahayana
-		size = 3000
+		size = 23000
 	}
 	
-	artisans = {
-		culture = korean
-		religion = mahayana
-		size = 10000
-	}
-	
-	artisans = {
-		culture = korean
-		religion = mahayana
-		size = 10000
-	}
-
 	soldiers = {
 		culture = korean
 		religion = mahayana
@@ -623,15 +533,9 @@
 	artisans = {
 		culture = korean
 		religion = mahayana
-		size = 3250
+		size = 13250
 	}
 	
-	artisans = {
-		culture = korean
-		religion = mahayana
-		size = 10000
-	}
-
 	soldiers = {
 		culture = korean
 		religion = mahayana
@@ -681,21 +585,9 @@
 	artisans = {
 		culture = korean
 		religion = mahayana
-		size = 8750
+		size = 28750
 	}
 	
-	artisans = {
-		culture = korean
-		religion = mahayana
-		size = 10000
-	}
-	
-	artisans = {
-		culture = korean
-		religion = mahayana
-		size = 10000
-	}
-
 	soldiers = {
 		culture = korean
 		religion = mahayana
@@ -731,15 +623,9 @@
 	artisans = {
 		culture = korean
 		religion = mahayana
-		size = 5000
+		size = 15000
 	}
 	
-	artisans = {
-		culture = korean
-		religion = mahayana
-		size = 10000
-	}
-
 	soldiers = {
 		culture = korean
 		religion = mahayana
@@ -827,21 +713,9 @@
 	artisans = {
 		culture = korean
 		religion = mahayana
-		size = 7550
+		size = 27550
 	}
 	
-	artisans = {
-		culture = korean
-		religion = mahayana
-		size = 10000
-	}
-	
-	artisans = {
-		culture = korean
-		religion = mahayana
-		size = 10000
-	}
-
 	soldiers = {
 		culture = korean
 		religion = mahayana
@@ -877,20 +751,9 @@
 	artisans = {
 		culture = korean
 		religion = mahayana
-		size = 8500
+		size = 28500
 	}
 	
-	artisans = {
-		culture = korean
-		religion = mahayana
-		size = 10000
-	}
-	artisans = {
-		culture = korean
-		religion = mahayana
-		size = 10000
-	}
-
 	soldiers = {
 		culture = korean
 		religion = mahayana

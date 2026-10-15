@@ -768,25 +768,13 @@
 	artisans = {
 		culture = south_andean
 		religion = catholic
-		size = 10000
+		size = 12400
 	}
 	
-	artisans = {
-		culture = south_andean
-		religion = catholic
-		size = 2400
-	}
-
 	soldiers = {
 		culture = south_andean
 		religion = catholic
-		size = 3000
-	}
-
-	soldiers = {
-		culture = south_andean
-		religion = catholic
-		size = 2000
+		size = 5000
 	}
 
 	farmers = {

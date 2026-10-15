@@ -53,13 +53,7 @@
 	artisans = {
 		culture = taiwanese
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = taiwanese
-		religion = mahayana
-		size = 2500
+		size = 12500
 	}
 
 	soldiers = {
@@ -235,13 +229,7 @@
 	artisans = {
 		culture = taiwanese
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = taiwanese
-		religion = mahayana
-		size = 2000
+		size = 12000
 	}
 
 	soldiers = {

@@ -159,62 +159,33 @@
 	aristocrats = {
 		culture = berber
 		religion = punic_church
-		size = 225
+		size = 250
 	}
 
 	clergymen = {
 		culture = berber
 		religion = punic_church
-		size = 125
+		size = 175
 	}
 
 	artisans = {
 		culture = berber
 		religion = punic_church
-		size = 2300
+		size = 2500
 	}
 
 	soldiers = {
 		culture = berber
 		religion = punic_church
-		size = 1100
+		size = 1125
 	}
 
 	farmers = {
 		culture = berber
 		religion = punic_church
-		size = 13350
+		size = 15050
 	}
 
-	aristocrats = {
-		culture = berber
-		religion = punic_church
-		size = 25
-	}
-
-	clergymen = {
-		culture = berber
-		religion = punic_church
-		size = 50
-	}
-
-	artisans = {
-		culture = berber
-		religion = punic_church
-		size = 200
-	}
-
-	soldiers = {
-		culture = berber
-		religion = punic_church
-		size = 25
-	}
-
-	farmers = {
-		culture = berber
-		religion = punic_church
-		size = 1700
-	}
 }
 #Taza (80000/20000 POPS)
 1683 = {
@@ -351,61 +322,31 @@
 	aristocrats = {
 		culture = berber
 		religion = punic_church
-		size = 325
+		size = 350
 	}
 
 	clergymen = {
-		culture = berber
-		religion = punic_church
-		size = 200
-	}
-
-	artisans = {
-		culture = berber
-		religion = punic_church
-		size = 2150
-	}
-
-	soldiers = {
-		culture = berber
-		religion = punic_church
-		size = 1100
-	}
-
-	farmers = {
-		culture = berber
-		religion = punic_church
-		size = 20200
-	}
-
-	aristocrats = {
-		culture = berber
-		religion = punic_church
-		size = 25
-	}
-
-	clergymen = {
-		culture = berber
-		religion = punic_church
-		size = 25
-	}
-
-	artisans = {
 		culture = berber
 		religion = punic_church
 		size = 225
 	}
 
+	artisans = {
+		culture = berber
+		religion = punic_church
+		size = 2375
+	}
+
 	soldiers = {
 		culture = berber
 		religion = punic_church
-		size = 25
+		size = 1125
 	}
 
 	farmers = {
 		culture = berber
 		religion = punic_church
-		size = 1700
+		size = 21900
 	}
 
 	clergymen = {
@@ -432,61 +373,31 @@
 	aristocrats = {
 		culture = berber
 		religion = punic_church
-		size = 325
+		size = 350
 	}
 
 	clergymen = {
-		culture = berber
-		religion = punic_church
-		size = 200
-	}
-
-	artisans = {
-		culture = berber
-		religion = punic_church
-		size = 2150
-	}
-
-	soldiers = {
-		culture = berber
-		religion = punic_church
-		size = 1100
-	}
-
-	farmers = {
-		culture = berber
-		religion = punic_church
-		size = 20200
-	}
-
-	aristocrats = {
-		culture = berber
-		religion = punic_church
-		size = 25
-	}
-
-	clergymen = {
-		culture = berber
-		religion = punic_church
-		size = 25
-	}
-
-	artisans = {
 		culture = berber
 		religion = punic_church
 		size = 225
 	}
 
+	artisans = {
+		culture = berber
+		religion = punic_church
+		size = 2375
+	}
+
 	soldiers = {
 		culture = berber
 		religion = punic_church
-		size = 25
+		size = 1125
 	}
 
 	farmers = {
 		culture = berber
 		religion = punic_church
-		size = 1700
+		size = 21900
 	}
 
 	clergymen = {
@@ -513,62 +424,33 @@
 	aristocrats = {
 		culture = berber
 		religion = punic_church
-		size = 250
+		size = 275
 	}
 
 	clergymen = {
 		culture = berber
 		religion = punic_church
-		size = 125
+		size = 150
 	}
 
 	artisans = {
 		culture = berber
 		religion = punic_church
-		size = 650
+		size = 875
 	}
 
 	soldiers = {
 		culture = berber
 		religion = punic_church
-		size = 1100
+		size = 1125
 	}
 
 	farmers = {
 		culture = berber
 		religion = punic_church
-		size = 14975
+		size = 16675
 	}
 
-	aristocrats = {
-		culture = berber
-		religion = punic_church
-		size = 25
-	}
-
-	clergymen = {
-		culture = berber
-		religion = punic_church
-		size = 25
-	}
-
-	artisans = {
-		culture = berber
-		religion = punic_church
-		size = 225
-	}
-
-	soldiers = {
-		culture = berber
-		religion = punic_church
-		size = 25
-	}
-
-	farmers = {
-		culture = berber
-		religion = punic_church
-		size = 1700
-	}
 }
 #Rif Region (272000)
 #under the rule of Morocco in 1836
@@ -943,7 +825,7 @@
 	aristocrats = {
 		culture = berber
 		religion = punic_church
-		size = 625
+		size = 975
 	}
 
 	bureaucrats = {
@@ -961,55 +843,25 @@
 	clergymen = {
 		culture = berber
 		religion = punic_church
-		size = 325
+		size = 500
 	}
 
 	artisans = {
 		culture = berber
 		religion = punic_church
-		size = 1625
+		size = 2525
 	}
 
 	soldiers = {
 		culture = berber
 		religion = punic_church
-		size = 1100
+		size = 1275
 	}
 
 	farmers = {
 		culture = berber
 		religion = punic_church
-		size = 23750
-	}
-
-	aristocrats = {
-		culture = berber
-		religion = punic_church
-		size = 350
-	}
-
-	clergymen = {
-		culture = berber
-		religion = punic_church
-		size = 175
-	}
-
-	artisans = {
-		culture = berber
-		religion = punic_church
-		size = 900
-	}
-
-	soldiers = {
-		culture = berber
-		religion = punic_church
-		size = 175
-	}
-
-	farmers = {
-		culture = berber
-		religion = punic_church
-		size = 14400
+		size = 38150
 	}
 
 	clergymen = {
@@ -1035,61 +887,31 @@
 	aristocrats = {
 		culture = berber
 		religion = punic_church
-		size = 225
+		size = 250
 	}
 
 	clergymen = {
 		culture = berber
 		religion = punic_church
-		size = 125
+		size = 175
 	}
 
 	artisans = {
 		culture = berber
 		religion = punic_church
-		size = 650
+		size = 750
 	}
 
 	soldiers = {
 		culture = berber
 		religion = punic_church
-		size = 1100
+		size = 1125
 	}
 
 	farmers = {
 		culture = berber
 		religion = punic_church
-		size = 10875
-	}
-
-	aristocrats = {
-		culture = berber
-		religion = punic_church
-		size = 25
-	}
-
-	clergymen = {
-		culture = berber
-		religion = punic_church
-		size = 50
-	}
-
-	artisans = {
-		culture = berber
-		religion = punic_church
-		size = 100
-	}
-
-	soldiers = {
-		culture = berber
-		religion = punic_church
-		size = 25
-	}
-
-	farmers = {
-		culture = berber
-		religion = punic_church
-		size = 1800
+		size = 12675
 	}
 
 	clergymen = {
@@ -1109,131 +931,40 @@
 	aristocrats = {
 		culture = berber
 		religion = punic_church
-		size = 50
-	}
-
-	clergymen = {
-		culture = berber
-		religion = punic_church
-		size = 75
-	}
-
-	artisans = {
-		culture = berber
-		religion = punic_church
-		size = 150
-	}
-
-	soldiers = {
-		culture = berber
-		religion = punic_church
-		size = 25
-	}
-
-	farmers = {
-		culture = berber
-		religion = punic_church
-		size = 2700
-	}
-
-	aristocrats = {
-		culture = berber
-		religion = punic_church
-		size = 50
-	}
-
-	clergymen = {
-		culture = berber
-		religion = punic_church
-		size = 75
-	}
-
-	artisans = {
-		culture = berber
-		religion = punic_church
-		size = 300
-	}
-
-	soldiers = {
-		culture = berber
-		religion = punic_church
-		size = 75
-	}
-
-	farmers = {
-		culture = berber
-		religion = punic_church
-		size = 5500
-	}
-}
-#Sawira (36000/9000 POPS)
-1693 = {
-	aristocrats = {
-		culture = berber
-		religion = punic_church
 		size = 100
 	}
 
 	clergymen = {
 		culture = berber
 		religion = punic_church
-		size = 50
-	}
-
-	artisans = {
-		culture = berber
-		religion = punic_church
-		size = 300
-	}
-
-	soldiers = {
-		culture = berber
-		religion = punic_church
-		size = 75
-	}
-
-	farmers = {
-		culture = berber
-		religion = punic_church
-		size = 5475
-	}
-
-	aristocrats = {
-		culture = berber
-		religion = punic_church
-		size = 50
-	}
-
-	clergymen = {
-		culture = berber
-		religion = punic_church
-		size = 75
-	}
-
-	artisans = {
-		culture = berber
-		religion = punic_church
 		size = 150
 	}
 
+	artisans = {
+		culture = berber
+		religion = punic_church
+		size = 450
+	}
+
 	soldiers = {
 		culture = berber
 		religion = punic_church
-		size = 25
+		size = 100
 	}
 
 	farmers = {
 		culture = berber
 		religion = punic_church
-		size = 2700
+		size = 8200
 	}
+
 }
-#Agadir (60000/15000 POPS)
-1694 = {
+#Sawira (36000/9000 POPS)
+1693 = {
 	aristocrats = {
 		culture = berber
 		religion = punic_church
-		size = 225
+		size = 150
 	}
 
 	clergymen = {
@@ -1245,49 +976,52 @@
 	artisans = {
 		culture = berber
 		religion = punic_church
-		size = 600
+		size = 450
 	}
 
 	soldiers = {
 		culture = berber
 		religion = punic_church
-		size = 1100
+		size = 100
 	}
 
 	farmers = {
 		culture = berber
 		religion = punic_church
-		size = 10100
+		size = 8175
 	}
 
+}
+#Agadir (60000/15000 POPS)
+1694 = {
 	aristocrats = {
 		culture = berber
 		religion = punic_church
-		size = 50
+		size = 275
 	}
 
 	clergymen = {
 		culture = berber
 		religion = punic_church
-		size = 75
+		size = 200
 	}
 
 	artisans = {
 		culture = berber
 		religion = punic_church
-		size = 150
+		size = 750
 	}
 
 	soldiers = {
 		culture = berber
 		religion = punic_church
-		size = 25
+		size = 1125
 	}
 
 	farmers = {
 		culture = berber
 		religion = punic_church
-		size = 2700
+		size = 12800
 	}
 
 	slaves = {
@@ -1656,61 +1390,31 @@
 	aristocrats = {
 		culture = berber
 		religion = punic_church
-		size = 225
+		size = 275
 	}
 
 	clergymen = {
 		culture = berber
 		religion = punic_church
-		size = 125
+		size = 200
 	}
 
 	artisans = {
 		culture = berber
 		religion = punic_church
-		size = 600
+		size = 750
 	}
 
 	soldiers = {
 		culture = berber
 		religion = punic_church
-		size = 1100
+		size = 1125
 	}
 
 	farmers = {
 		culture = berber
 		religion = punic_church
-		size = 10100
-	}
-
-	aristocrats = {
-		culture = berber
-		religion = punic_church
-		size = 50
-	}
-
-	clergymen = {
-		culture = berber
-		religion = punic_church
-		size = 75
-	}
-
-	artisans = {
-		culture = berber
-		religion = punic_church
-		size = 150
-	}
-
-	soldiers = {
-		culture = berber
-		religion = punic_church
-		size = 25
-	}
-
-	farmers = {
-		culture = berber
-		religion = punic_church
-		size = 2700
+		size = 12800
 	}
 
 	slaves = {

@@ -91,49 +91,25 @@
 	clergymen = {
 		culture = greek
 		religion = orthodox
-		size = 250
+		size = 360
 	}
 
 	artisans = {
 		culture = greek
 		religion = orthodox
-		size = 1250
+		size = 1650
 	}
 
 	soldiers = {
 		culture = greek
 		religion = orthodox
-		size = 1100
+		size = 1210
 	}
 
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 37000
-	}
-	
-	soldiers = {
-		culture = greek
-		religion = orthodox
-		size = 110
-	}
-
-	clergymen = {
-		culture = greek
-		religion = orthodox
-		size = 110
-	}
-
-	artisans = {
-		culture = greek
-		religion = orthodox
-		size = 400
-	}
-
-	farmers = {
-		culture = greek
-		religion = orthodox
-		size = 7525
+		size = 44525
 	}
 	
 	soldiers = {
@@ -172,49 +148,25 @@
 	clergymen = {
 		culture = greek
 		religion = orthodox
-		size = 550
+		size = 860
 	}
 
 	artisans = {
 		culture = greek
 		religion = orthodox
-		size = 1250
+		size = 1650
 	}
 
 	soldiers = {
 		culture = greek
 		religion = orthodox
-		size = 1100
+		size = 1410
 	}
 
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 21307
-	}
-	
-	soldiers = {
-		culture = greek
-		religion = orthodox
-		size = 310
-	}
-
-	clergymen = {
-		culture = greek
-		religion = orthodox
-		size = 310
-	}
-
-	artisans = {
-		culture = greek
-		religion = orthodox
-		size = 400
-	}
-
-	farmers = {
-		culture = greek
-		religion = orthodox
-		size = 7525
+		size = 28832
 	}
 	
 	soldiers = {

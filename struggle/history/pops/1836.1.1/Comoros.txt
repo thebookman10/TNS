@@ -5,61 +5,31 @@
 	aristocrats = {
 		culture = kilombero
 		religion = sunni
-		size = 150
+		size = 250
 	}
 
 	clergymen = {
-		culture = kilombero
-		religion = sunni
-		size = 50
-	}
-
-	artisans = {
-		culture = kilombero
-		religion = sunni
-		size = 325
-	}
-
-	soldiers = {
-		culture = kilombero
-		religion = sunni
-		size = 1100
-	}
-
-	farmers = {
-		culture = kilombero
-		religion = sunni
-		size = 3425
-	}
-
-	aristocrats = {
 		culture = kilombero
 		religion = sunni
 		size = 100
 	}
 
-	clergymen = {
-		culture = kilombero
-		religion = sunni
-		size = 50
-	}
-
 	artisans = {
 		culture = kilombero
 		religion = sunni
-		size = 300
+		size = 625
 	}
 
 	soldiers = {
 		culture = kilombero
 		religion = sunni
-		size = 50
+		size = 1150
 	}
 
 	farmers = {
 		culture = kilombero
 		religion = sunni
-		size = 8219
+		size = 11644
 	}
 
 	slaves = {
@@ -73,61 +43,31 @@
 	aristocrats = {
 		culture = kilombero
 		religion = sunni
-		size = 15
+		size = 30
 	}
 
 	clergymen = {
 		culture = kilombero
 		religion = sunni
-		size = 25
+		size = 50
 	}
 
 	artisans = {
 		culture = kilombero
 		religion = sunni
-		size = 50
+		size = 100
 	}
 
 	soldiers = {
 		culture = kilombero
 		religion = sunni
-		size = 10
+		size = 20
 	}
 
 	farmers = {
 		culture = kilombero
 		religion = sunni
-		size = 400
-	}
-
-	aristocrats = {
-		culture = kilombero
-		religion = sunni
-		size = 15
-	}
-
-	clergymen = {
-		culture = kilombero
-		religion = sunni
-		size = 25
-	}
-
-	artisans = {
-		culture = kilombero
-		religion = sunni
-		size = 50
-	}
-
-	soldiers = {
-		culture = kilombero
-		religion = sunni
-		size = 10
-	}
-
-	farmers = {
-		culture = kilombero
-		religion = sunni
-		size = 1340
+		size = 1740
 	}
 
 	slaves = {

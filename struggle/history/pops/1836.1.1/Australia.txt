@@ -1396,7 +1396,7 @@ aristocrats = {
 	artisans = {
 		culture = aomannese
 		religion = mahayana
-		size = 3900
+		size = 4050
 	}
 
 	soldiers = {
@@ -1408,25 +1408,13 @@ aristocrats = {
 	farmers = {
 		culture = aomannese
 		religion = mahayana
-		size = 21075
-	}
-
-	artisans = {
-		culture = aomannese
-		religion = mahayana
-		size = 150
-	}
-
-	farmers = {
-		culture = aomannese
-		religion = mahayana
-		size = 1050
+		size = 22125
 	}
 
 	farmers = {
 		culture = aborigine
 		religion = animist
-		size = 130
+		size = 1930
 	}
 
 	
@@ -1472,11 +1460,6 @@ aristocrats = {
 		size = 125
 	}
 
-	farmers = {
-		culture = aborigine
-		religion = animist
-		size = 1800
-	}
 }
 #Dubbo
 3352 = {
@@ -1802,13 +1785,7 @@ aristocrats = {
 	farmers = {
 		culture = aomannese
 		religion = animist
-		size = 190
-	}
-	
-	farmers = {
-		culture = aomannese
-		religion = animist
-		size = 51090
+		size = 51280
 	}
 	
 	artisans = {
@@ -1953,7 +1930,7 @@ aristocrats = {
 	soldiers = {
 		culture = aborigine
 		religion = animist
-		size = 15
+		size = 730
 	}
 
 	farmers = {
@@ -1968,12 +1945,6 @@ aristocrats = {
 		size = 3015
 	}
 	
-	soldiers = {
-		culture = aborigine
-		religion = animist
-		size = 715
-	}
-
 	farmers = {
 		culture = aomannese
 		religion = animist

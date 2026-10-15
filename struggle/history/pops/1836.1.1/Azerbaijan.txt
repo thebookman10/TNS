@@ -5,99 +5,39 @@
 	bureaucrats = {
 		culture = old_persian
 		religion = zoroastrian
-		size = 120
+		size = 380
 	}
 
 	clergymen = {
 		culture = old_persian
 		religion = zoroastrian
-		size = 15
+		size = 795
 	}
 
 	artisans = {
 		culture = old_persian
 		religion = zoroastrian
-		size = 45
+		size = 5145
 	}
 
 	soldiers = {
 		culture = old_persian
 		religion = zoroastrian
-		size = 120
+		size = 1555
 	}
 
 	aristocrats = {
 		culture = old_persian
 		religion = zoroastrian
-		size = 125
-	}
-
-	bureaucrats = {
-		culture = old_persian
-		religion = zoroastrian
-		size = 45
-	}
-
-	clergymen = {
-		culture = old_persian
-		religion = zoroastrian
-		size = 50
-	}
-
-	artisans = {
-		culture = old_persian
-		religion = zoroastrian
-		size = 300
-	}
-
-	soldiers = {
-		culture = old_persian
-		religion = zoroastrian
-		size = 60
+		size = 600
 	}
 
 	farmers = {
 		culture = old_persian
 		religion = zoroastrian
-		size = 350
+		size = 23305
 	}
 
-	aristocrats = {
-		culture = old_persian
-		religion = zoroastrian
-		size = 475
-	}
-
-	bureaucrats = {
-		culture = old_persian
-		religion = zoroastrian
-		size = 215
-	}
-
-	clergymen = {
-		culture = old_persian
-		religion = zoroastrian
-		size = 730
-	}
-
-	artisans = {
-		culture = old_persian
-		religion = zoroastrian
-		size = 4800
-	}
-
-	soldiers = {
-		culture = old_persian
-		religion = zoroastrian
-		size = 1375
-	}
-
-	farmers = {
-		culture = old_persian
-		religion = zoroastrian
-		size = 22955
-	}
-	
 	clergymen = {
 		culture = alvuanian
 		religion = zoroastrian
@@ -151,111 +91,51 @@
 	clergymen = {
 		culture = old_persian
 		religion = zoroastrian
-		size = 15
+		size = 395
 	}
 
 	artisans = {
 		culture = old_persian
 		religion = zoroastrian
-		size = 30
+		size = 1130
 	}
 
 	soldiers = {
 		culture = old_persian
 		religion = zoroastrian
-		size = 120
+		size = 530
 	}
 	
 	farmers = {
 		culture = old_persian
 		religion = zoroastrian
-		size = 855
+		size = 1355
 	}
 
 	aristocrats = {
 		culture = old_persian
 		religion = zoroastrian
-		size = 175
-	}
-
-	clergymen = {
-		culture = old_persian
-		religion = zoroastrian
-		size = 50
-	}
-
-	artisans = {
-		culture = old_persian
-		religion = zoroastrian
-		size = 300
-	}
-
-	soldiers = {
-		culture = old_persian
-		religion = zoroastrian
-		size = 60
-	}
-
-	farmers = {
-		culture = old_persian
-		religion = zoroastrian
-		size = 350
-	}
-	
-	farmers = {
-		culture = old_persian
-		religion = zoroastrian
-		size = 150
-	}
-
-	aristocrats = {
-		culture = old_persian
-		religion = zoroastrian
-		size = 525
-	}
-	
-	clergymen = {
-		culture = old_persian
-		religion = zoroastrian
-		size = 330
-	}
-
-	artisans = {
-		culture = old_persian
-		religion = zoroastrian
-		size = 800
-	}
-
-	soldiers = {
-		culture = old_persian
-		religion = zoroastrian
-		size = 350
+		size = 700
 	}
 
 	farmers = {
 		culture = alvuanian
 		religion = zoroastrian
-		size = 17000
+		size = 21480
 	}
 	
 	clergymen = {
 		culture = alvuanian
 		religion = zoroastrian
-		size = 3
+		size = 21
 	}
 
 	artisans = {
 		culture = alvuanian
 		religion = zoroastrian
-		size = 18
+		size = 84
 	}
 
-	farmers = {
-		culture = alvuanian
-		religion = zoroastrian
-		size = 80
-	}
-	
 	clergymen = {
 		culture = alvuanian
 		religion = coptic
@@ -274,30 +154,12 @@
 		size = 2000
 	}
 	
-	clergymen = {
-		culture = alvuanian
-		religion = zoroastrian
-		size = 18
-	}
-
-	artisans = {
-		culture = alvuanian
-		religion = zoroastrian
-		size = 66
-	}
-
 	soldiers = {
 		culture = alvuanian
 		religion = zoroastrian
 		size = 600
 	}
 
-	farmers = {
-		culture = alvuanian
-		religion = zoroastrian
-		size = 4400
-	}
-	
 	clergymen = {
 		culture = alvuanian
 		religion = animist
@@ -357,43 +219,25 @@
 	clergymen = {
 		culture = caspian
 		religion = zoroastrian
-		size = 15
+		size = 575
 	}
 
 	artisans = {
 		culture = caspian
 		religion = zoroastrian
-		size = 45
+		size = 2345
 	}
 
 	soldiers = {
 		culture = caspian
 		religion = zoroastrian
-		size = 120
+		size = 1225
 	}
 	
 	farmers = {
 		culture = caspian
 		religion = zoroastrian
-		size = 1855
-	}
-
-	clergymen = {
-		culture = caspian
-		religion = zoroastrian
-		size = 150
-	}
-
-	artisans = {
-		culture = caspian
-		religion = zoroastrian
-		size = 900
-	}
-
-	soldiers = {
-		culture = caspian
-		religion = zoroastrian
-		size = 680
+		size = 18840
 	}
 
 	farmers = {
@@ -408,24 +252,6 @@
 		size = 575
 	}
 
-	clergymen = {
-		culture = caspian
-		religion = zoroastrian
-		size = 410
-	}
-
-	artisans = {
-		culture = caspian
-		religion = zoroastrian
-		size = 800
-	}
-
-	soldiers = {
-		culture = caspian
-		religion = zoroastrian
-		size = 425
-	}
-	
 	artisans = {
 		culture = georgian
 		religion = orthodox
@@ -444,18 +270,6 @@
 		size = 10500
 	}
 	
-	artisans = {
-		culture = caspian
-		religion = zoroastrian
-		size = 600
-	}
-	
-	farmers = {
-		culture = caspian
-		religion = zoroastrian
-		size = 16985
-	}
-
 	farmers = {
 		culture = baluchi
 		religion = zoroastrian
@@ -467,79 +281,31 @@
 	artisans = {
 		culture = old_persian
 		religion = zoroastrian
-		size = 30
+		size = 1130
 	}
 
 	soldiers = {
 		culture = old_persian
 		religion = zoroastrian
-		size = 125
+		size = 1275
 	}
 
 	farmers = {
 		culture = old_persian
 		religion = zoroastrian
-		size = 1175
+		size = 21575
 	}
 	
 	aristocrats = {
 		culture = old_persian
 		religion = zoroastrian
-		size = 25
+		size = 300
 	}
 
 	clergymen = {
 		culture = old_persian
 		religion = zoroastrian
-		size = 25
-	}
-
-	artisans = {
-		culture = old_persian
-		religion = zoroastrian
-		size = 50
-	}
-
-	soldiers = {
-		culture = old_persian
-		religion = zoroastrian
-		size = 75
-	}
-
-	farmers = {
-		culture = old_persian
-		religion = zoroastrian
-		size = 200
-	}
-
-	aristocrats = {
-		culture = old_persian
-		religion = zoroastrian
-		size = 275
-	}
-
-	clergymen = {
-		culture = old_persian
-		religion = zoroastrian
-		size = 325
-	}
-
-	artisans = {
-		culture = old_persian
-		religion = zoroastrian
-		size = 1050
-	}
-
-	soldiers = {
-		culture = old_persian
-		religion = zoroastrian
-		size = 1075
-	}
-
-	farmers = {
-		culture = old_persian
-		religion = zoroastrian
-		size = 20200
+		size = 350
 	}
 
 	aristocrats = {
@@ -583,63 +349,27 @@
 	clergymen = {
 		culture = alvuanian
 		religion = zoroastrian
-		size = 45
+		size = 345
 	}
 	
 	artisans = {
 		culture = alvuanian
 		religion = zoroastrian
-		size = 200
+		size = 850
 	}
 
 	farmers = {
 		culture = alvuanian
 		religion = zoroastrian
-		size = 100
-	}
-
-	artisans = {
-		culture = alvuanian
-		religion = zoroastrian
-		size = 300
+		size = 25200
 	}
 
 	soldiers = {
 		culture = alvuanian
 		religion = zoroastrian
-		size = 1025
+		size = 2325
 	}
 
-	farmers = {
-		culture = alvuanian
-		religion = zoroastrian
-		size = 13100
-	}
-
-	clergymen = {
-		culture = alvuanian
-		religion = zoroastrian
-		size = 150
-	}
-
-	artisans = {
-		culture = alvuanian
-		religion = zoroastrian
-		size = 150
-	}
-
-	soldiers = {
-		culture = alvuanian
-		religion = zoroastrian
-		size = 300
-	}
-
-	farmers = {
-		culture = alvuanian
-		religion = zoroastrian
-		size = 2000
-	}
-	
 	clergymen = {
 		culture = georgian
 		religion = orthodox
@@ -664,54 +394,31 @@
 		size = 4000
 	}
 	
-	clergymen = {
-		culture = alvuanian
-		religion = zoroastrian
-		size = 150
-	}
-
-	artisans = {
-		culture = alvuanian
-		religion = zoroastrian
-		size = 200
-	}
-
-	soldiers = {
-		culture = alvuanian
-		religion = zoroastrian
-		size = 1000
-	}
-
-	farmers = {
-		culture = alvuanian
-		religion = zoroastrian
-		size = 10000
-	}
 }
 #Ilisu (24000/6000 POPS)
 3290 = {
 	clergymen = {
 		culture = georgian
 		religion = orthodox
-		size = 10
+		size = 15
 	}
 
 	artisans = {
 		culture = georgian
 		religion = orthodox
-		size = 10
+		size = 30
 	}
 
 	soldiers = {
 		culture = georgian
 		religion = orthodox
-		size = 10
+		size = 30
 	}
 
 	serfs = {
 		culture = georgian
 		religion = orthodox
-		size = 1000
+		size = 1300
 	}
 	
 	aristocrats = {
@@ -729,19 +436,19 @@
 	clergymen = {
 		culture = alvuanian
 		religion = zoroastrian
-		size = 400
+		size = 775
 	}
 	
 	artisans = {
 		culture = alvuanian
 		religion = zoroastrian
-		size = 350
+		size = 850
 	}
 
 	soldiers = {
 		culture = alvuanian
 		religion = zoroastrian
-		size = 1010
+		size = 2610
 	}
 
 	farmers = {
@@ -750,70 +457,10 @@
 		size = 9700
 	}
 
-	clergymen = {
-		culture = alvuanian
-		religion = zoroastrian
-		size = 300
-	}
-
-	artisans = {
-		culture = alvuanian
-		religion = zoroastrian
-		size = 450
-	}
-
-	soldiers = {
-		culture = alvuanian
-		religion = zoroastrian
-		size = 1200
-	}
-
 	farmers = {
 		culture = alvuanian
 		religion = orthodox
 		size = 4200
-	}
-
-	clergymen = {
-		culture = georgian
-		religion = orthodox
-		size = 5
-	}
-
-	artisans = {
-		culture = georgian
-		religion = orthodox
-		size = 20
-	}
-
-	soldiers = {
-		culture = georgian
-		religion = orthodox
-		size = 20
-	}
-
-	serfs = {
-		culture = georgian
-		religion = orthodox
-		size = 300
-	}
-	
-	clergymen = {
-		culture = alvuanian
-		religion = zoroastrian
-		size = 75
-	}
-
-	artisans = {
-		culture = alvuanian
-		religion = zoroastrian
-		size = 50
-	}
-
-	soldiers = {
-		culture = alvuanian
-		religion = zoroastrian
-		size = 400
 	}
 
 	farmers = {
@@ -827,31 +474,31 @@
 	aristocrats = {
 		culture = alvuanian
 		religion = zoroastrian
-		size = 225
+		size = 350
 	}
 
 	clergymen = {
 		culture = alvuanian
 		religion = zoroastrian
-		size = 275
+		size = 360
 	}
 
 	artisans = {
 		culture = alvuanian
 		religion = zoroastrian
-		size = 4500
+		size = 4950
 	}
 
 	soldiers = {
 		culture = alvuanian
 		religion = zoroastrian
-		size = 100
+		size = 275
 	}
 
 	farmers = {
 		culture = alvuanian
 		religion = zoroastrian
-		size = 13000
+		size = 20000
 	}
 	
 	aristocrats = {
@@ -920,54 +567,25 @@
 		size = 1000
 	}
 	
-	aristocrats = {
-		culture = alvuanian
-		religion = zoroastrian
-		size = 125
-	}
-
-	clergymen = {
-		culture = alvuanian
-		religion = zoroastrian
-		size = 85
-	}
-
-	artisans = {
-		culture = alvuanian
-		religion = zoroastrian
-		size = 450
-	}
-
-	soldiers = {
-		culture = alvuanian
-		religion = zoroastrian
-		size = 175
-	}
-	
-	farmers = {
-		culture = alvuanian
-		religion = zoroastrian
-		size = 7000
-	}
 }
 #Qazakh (68000/17000 POPS)
 3289 = {
 	clergymen = {
 		culture = old_persian
 		religion = zoroastrian
-		size = 75
+		size = 100
 	}
 
 	artisans = {
 		culture = old_persian
 		religion = zoroastrian
-		size = 500
+		size = 550
 	}
 
 	soldiers = {
 		culture = old_persian
 		religion = zoroastrian
-		size = 100
+		size = 625
 	}
 
 	farmers = {
@@ -1012,24 +630,6 @@
 		size = 25
 	}
 
-	clergymen = {
-		culture = old_persian
-		religion = zoroastrian
-		size = 25
-	}
-
-	artisans = {
-		culture = old_persian
-		religion = zoroastrian
-		size = 50
-	}
-
-	soldiers = {
-		culture = old_persian
-		religion = zoroastrian
-		size = 525
-	}
-
 	farmers = {
 		culture = georgian
 		religion = orthodox
@@ -1071,31 +671,31 @@
 	aristocrats = {
 		culture = alvuanian
 		religion = zoroastrian
-		size = 200
+		size = 380
 	}
 
 	clergymen = {
 		culture = alvuanian
 		religion = zoroastrian
-		size = 200
+		size = 305
 	}
 	
 	artisans = {
 		culture = alvuanian
 		religion = zoroastrian
-		size = 900
+		size = 1380
 	}
 
 	soldiers = {
 		culture = alvuanian
 		religion = zoroastrian
-		size = 1000
+		size = 1125
 	}
 
 	farmers = {
 		culture = alvuanian
 		religion = zoroastrian
-		size = 10000
+		size = 10725
 	}
 	
 	artisans = {
@@ -1116,66 +716,6 @@
 		size = 3000
 	}
 	
-	aristocrats = {
-		culture = alvuanian
-		religion = zoroastrian
-		size = 150
-	}
-
-	clergymen = {
-		culture = alvuanian
-		religion = zoroastrian
-		size = 75
-	}
-
-	artisans = {
-		culture = alvuanian
-		religion = zoroastrian
-		size = 450
-	}
-
-	soldiers = {
-		culture = alvuanian
-		religion = zoroastrian
-		size = 100
-	}
-	
-	farmers = {
-		culture = alvuanian
-		religion = zoroastrian
-		size = 500
-	}
-	
-	aristocrats = {
-		culture = alvuanian
-		religion = zoroastrian
-		size = 30
-	}
-
-	clergymen = {
-		culture = alvuanian
-		religion = zoroastrian
-		size = 30
-	}
-
-	artisans = {
-		culture = alvuanian
-		religion = zoroastrian
-		size = 30
-	}
-
-	soldiers = {
-		culture = alvuanian
-		religion = zoroastrian
-		size = 25
-	}
-
-	farmers = {
-		culture = alvuanian
-		religion = zoroastrian
-		size = 225
-	}
-
 	aristocrats = {
 		culture = armenian
 		religion = coptic
@@ -1248,7 +788,7 @@
 	clergymen = {
 		culture = alvuanian
 		religion = zoroastrian
-		size = 75
+		size = 175
 	}
 
 	artisans = {
@@ -1260,44 +800,15 @@
 	farmers = {
 		culture = alvuanian
 		religion = zoroastrian
-		size = 50
+		size = 5100
 	}
 	
-	clergymen = {
-		culture = alvuanian
-		religion = zoroastrian
-		size = 50
-	}
-
 	soldiers = {
 		culture = alvuanian
 		religion = zoroastrian
-		size = 125
+		size = 250
 	}
 
-	farmers = {
-		culture = alvuanian
-		religion = zoroastrian
-		size = 4025
-	}
-
-	clergymen = {
-		culture = alvuanian
-		religion = zoroastrian
-		size = 50
-	}
-
-	soldiers = {
-		culture = alvuanian
-		religion = zoroastrian
-		size = 125
-	}
-
-	farmers = {
-		culture = alvuanian
-		religion = zoroastrian
-		size = 1025
-	}
 }
 
 #Lankaran (56000/14000 POPS)
@@ -1329,24 +840,13 @@
 	farmers = {
 		culture = baluchi
 		religion = zoroastrian
-		size = 12000
+		size = 14000
 	}
 
 	farmers = {
 		culture = caspian
 		religion = zoroastrian
-		size = 23000
+		size = 26400
 	}
 	
-	farmers = {
-		culture = baluchi
-		religion = zoroastrian
-		size = 2000
-	}
-	
-	farmers = {
-		culture = caspian
-		religion = zoroastrian
-		size = 3400
-	}
 }

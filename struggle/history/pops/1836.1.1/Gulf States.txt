@@ -37,53 +37,27 @@
 	aristocrats = {
 		culture = bedouin
 		religion = manichaeism
-		size = 150
+		size = 200
 	}
 	clergymen = {
-		culture = bedouin
-		religion = manichaeism
-		size = 150
-	}
-	artisans = {
-		culture = bedouin
-		religion = manichaeism
-		size = 1250
-	}
-	soldiers = {
-		culture = bedouin
-		religion = manichaeism
-		size = 1100
-	}
-	farmers = {
-		culture = bedouin
-		religion = manichaeism
-		size = 9450
-	}
-	
-	aristocrats = {
-		culture = bedouin
-		religion = manichaeism
-		size = 50
-	}
-	clergymen = {
-		culture = bedouin
-		religion = manichaeism
-		size = 50
-	}
-	artisans = {
 		culture = bedouin
 		religion = manichaeism
 		size = 200
 	}
+	artisans = {
+		culture = bedouin
+		religion = manichaeism
+		size = 1450
+	}
 	soldiers = {
 		culture = bedouin
 		religion = manichaeism
-		size = 150
+		size = 1250
 	}
 	farmers = {
 		culture = bedouin
 		religion = manichaeism
-		size = 3450
+		size = 12900
 	}
 	
 	slaves = {
@@ -117,13 +91,13 @@
 	clergymen = {
 		culture = bedouin
 		religion = manichaeism
-		size = 50
+		size = 100
 	}
 
 	artisans = {
 		culture = bedouin
 		religion = manichaeism
-		size = 100
+		size = 250
 	}
 
 	soldiers = {
@@ -135,27 +109,9 @@
 	farmers = {
 		culture = bedouin
 		religion = manichaeism
-		size = 500
+		size = 4100
 	}
 
-	clergymen = {
-		culture = bedouin
-		religion = manichaeism
-		size = 50
-	}
-
-	artisans = {
-		culture = bedouin
-		religion = manichaeism
-		size = 150
-	}
-
-	farmers = {
-		culture = bedouin
-		religion = manichaeism
-		size = 3600
-	}
-	
 	farmers = {
 		culture = mashriqi
 		religion = jewish

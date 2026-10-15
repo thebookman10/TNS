@@ -41,7 +41,7 @@
 	farmers = {
 		culture = punic
 		religion = punic_church
-		size = 1069
+		size = 1374
 	}
 	
 	artisans = {
@@ -68,9 +68,4 @@
 		size = 1307
 	}
 	
-	farmers = {
-		culture = punic
-		religion = punic_church
-		size = 305
-	}
 }

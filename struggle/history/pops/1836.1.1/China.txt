@@ -151,19 +151,7 @@
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 900
+		size = 6900
 	}
 
 	farmers = {
@@ -219,31 +207,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
+		size = 22200
 	}
 	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 200
-	}
-
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 450
+		size = 3450
 	}
 
 	farmers = {
@@ -299,37 +269,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 50
+		size = 33050
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 2800
+		size = 5800
 	}
 
 	farmers = {
@@ -385,55 +331,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
+		size = 49400
 	}
 	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 5400
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 2100
+		size = 11100
 	}
 
 	farmers = {
@@ -495,37 +399,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 4000
+		size = 37000
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 12800
+		size = 15800
 	}
 
 	farmers = {
@@ -557,31 +437,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 3600
+		size = 25600
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 725
+		size = 3725
 	}
 
 	farmers = {
@@ -657,31 +519,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
+		size = 27000
 	}
 	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 5000
-	}
-
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 800
+		size = 3800
 	}
 
 	farmers = {
@@ -727,7 +571,7 @@
 	soldiers = {
 		culture = korean
 		religion = mahayana
-		size = 13000
+		size = 14525
 	}
 
 	farmers = {
@@ -754,16 +598,10 @@
 		size = 200
 	}
 
-	soldiers = {
-		culture = korean
-		religion = mahayana
-		size = 200
-	}
-
 	farmers = {
 		culture = korean
 		religion = mahayana
-		size = 10700
+		size = 75800
 	}
 
 	slaves = {
@@ -794,18 +632,6 @@
 		culture = beifaren
 		religion = mahayana
 		size = 8600
-	}
-
-	soldiers = {
-		culture = korean
-		religion = mahayana
-		size = 1325
-	}
-	
-	farmers = {
-		culture = korean
-		religion = mahayana
-		size = 65100
 	}
 
 	slaves = {
@@ -981,13 +807,7 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 6850
+		size = 17850
 	}
 
 	soldiers = {
@@ -1047,37 +867,13 @@
 	artisans = {
 		culture = min
 		religion = mahayana
-		size = 11000
+		size = 36950
 	}
 	
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 3950
-	}
-
 	soldiers = {
 		culture = min
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = min
-		religion = mahayana
-		size = 500
+		size = 3500
 	}
 
 	farmers = {
@@ -1089,15 +885,9 @@
 	serfs = {
 		culture = min
 		religion = mahayana
-		size = 200000
+		size = 280000
 	}
 	
-	serfs = {
-		culture = min
-		religion = mahayana
-		size = 80000
-	}
-
 	aristocrats = {
 		culture = hakka
 		religion = mahayana
@@ -1223,21 +1013,9 @@
 	artisans = {
 		culture = min
 		religion = mahayana
-		size = 11000
+		size = 22550
 	}
 	
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 550
-	}
-
 	soldiers = {
 		culture = min
 		religion = mahayana
@@ -1267,15 +1045,9 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 12900
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1900
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
@@ -1303,21 +1075,9 @@
 	artisans = {
 		culture = min
 		religion = mahayana
-		size = 11000
+		size = 23800
 	}
 	
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 1800
-	}
-
 	soldiers = {
 		culture = min
 		religion = mahayana
@@ -1377,37 +1137,13 @@
 	artisans = {
 		culture = min
 		religion = mahayana
-		size = 11000
+		size = 33600
 	}
 	
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = min
-		religion = mahayana
-		size = 600
-	}
-
 	soldiers = {
 		culture = min
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = min
-		religion = mahayana
-		size = 1100
+		size = 4100
 	}
 
 	farmers = {
@@ -1431,31 +1167,13 @@
 	artisans = {
 		culture = hakka
 		religion = mahayana
-		size = 11000
+		size = 27400
 	}
 	
-	artisans = {
-		culture = hakka
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = hakka
-		religion = mahayana
-		size = 5400
-	}
-
 	soldiers = {
 		culture = hakka
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = hakka
-		religion = mahayana
-		size = 100
+		size = 3100
 	}
 
 	farmers = {
@@ -1481,15 +1199,9 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 13000
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2000
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
@@ -1563,43 +1275,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
+		size = 51950
 	}
 	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 7950
-	}
-
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 2100
+		size = 5100
 	}
 
 	farmers = {
@@ -1683,31 +1365,13 @@
 	artisans = {
 		culture = mongol
 		religion = gelugpa
-		size = 11000
+		size = 26000
 	}
 	
-	artisans = {
-		culture = mongol
-		religion = gelugpa
-		size = 11000
-	}
-	
-	artisans = {
-		culture = mongol
-		religion = gelugpa
-		size = 4000
-	}
-
 	soldiers = {
 		culture = mongol
 		religion = gelugpa
-		size = 3000
-	}
-
-	soldiers = {
-		culture = mongol
-		religion = gelugpa
-		size = 1800
+		size = 4800
 	}
 
 	farmers = {
@@ -1757,31 +1421,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
+		size = 29500
 	}
 	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 7500
-	}
-
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 500
+		size = 3500
 	}
 
 	farmers = {
@@ -1837,37 +1483,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
+		size = 37900
 	}
 	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 4900
-	}
-
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 1000
+		size = 4000
 	}
 
 	farmers = {
@@ -2081,37 +1703,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
+		size = 41300
 	}
 	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 8300
-	}
-
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 1675
+		size = 4675
 	}
 
 	farmers = {
@@ -2187,27 +1785,9 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 40250
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 7250
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
@@ -2374,79 +1954,13 @@
 	artisans = {
 		culture = yue
 		religion = mahayana
-		size = 11000
+		size = 149950
 	}
 	
-	artisans = {
-		culture = yue
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = yue
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = yue
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = yue
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = yue
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = yue
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = yue
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = yue
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = yue
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = yue
-		religion = mahayana
-		size = 39950
-	}
-
 	soldiers = {
 		culture = yue
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = yue
-		religion = mahayana
-		size = 400
+		size = 3400
 	}
 
 	farmers = {
@@ -2508,25 +2022,13 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 19650
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 8650
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 750
+		size = 3750
 	}
 
 	farmers = {
@@ -2580,21 +2082,9 @@
 	artisans = {
 		culture = yue
 		religion = mahayana
-		size = 11000
+		size = 27000
 	}
 	
-	artisans = {
-		culture = yue
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = yue
-		religion = mahayana
-		size = 5000
-	}
-
 	soldiers = {
 		culture = yue
 		religion = mahayana
@@ -2654,33 +2144,9 @@
 	artisans = {
 		culture = yue
 		religion = mahayana
-		size = 11000
+		size = 48000
 	}
 	
-	artisans = {
-		culture = yue
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = yue
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = yue
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = yue
-		religion = mahayana
-		size = 4000
-	}
-
 	soldiers = {
 		culture = yue
 		religion = mahayana
@@ -2849,15 +2315,9 @@
 	artisans = {
 		culture = yue
 		religion = mahayana
-		size = 11000
+		size = 15600
 	}
 	
-	artisans = {
-		culture = yue
-		religion = mahayana
-		size = 4600
-	}
-
 	soldiers = {
 		culture = yue
 		religion = mahayana
@@ -2917,37 +2377,13 @@
 	artisans = {
 		culture = yue
 		religion = mahayana
-		size = 11000
+		size = 33950
 	}
 	
-	artisans = {
-		culture = yue
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = yue
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = yue
-		religion = mahayana
-		size = 950
-	}
-
 	soldiers = {
 		culture = yue
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = yue
-		religion = mahayana
-		size = 200
+		size = 3200
 	}
 
 	farmers = {
@@ -3039,15 +2475,9 @@
 	artisans = {
 		culture = hakka
 		religion = mahayana
-		size = 11000
+		size = 14800
 	}
 	
-	artisans = {
-		culture = hakka
-		religion = mahayana
-		size = 3800
-	}
-
 	soldiers = {
 		culture = hakka
 		religion = mahayana
@@ -3075,13 +2505,7 @@
 	artisans = {
 		culture = yue
 		religion = mahayana
-		size = 11000
-	}
-
-	artisans = {
-		culture = yue
-		religion = mahayana
-		size = 100
+		size = 11100
 	}
 
 	soldiers = {
@@ -3113,21 +2537,9 @@
 	artisans = {
 		culture = yue
 		religion = mahayana
-		size = 11000
+		size = 24150
 	}
 	
-	artisans = {
-		culture = yue
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = yue
-		religion = mahayana
-		size = 2150
-	}
-
 	soldiers = {
 		culture = yue
 		religion = mahayana
@@ -3143,14 +2555,9 @@
 	serfs = {
 		culture = yue
 		religion = mahayana
-		size = 185000
+		size = 200000
 	}
 	
-	serfs = {
-		culture = yue
-		religion = mahayana
-		size = 15000
-	}
 }
 #Ruled by Portugal in 1836
 #Macao (22000/5500 POPS) 
@@ -3308,19 +2715,19 @@
 	artisans = {
 		culture = vietnamese
 		religion = mahayana
-		size = 4600
+		size = 7850
 	}
 
 	soldiers = {
 		culture = vietnamese
 		religion = mahayana
-		size = 925
+		size = 2175
 	}
 
 	farmers = {
 		culture = vietnamese
 		religion = mahayana
-		size = 79850
+		size = 192650
 	}
 
 	aristocrats = {
@@ -3338,15 +2745,9 @@
 	artisans = {
 		culture = zhuang
 		religion = animist
-		size = 11000
+		size = 20700
 	}
 	
-	artisans = {
-		culture = zhuang
-		religion = animist
-		size = 9700
-	}
-
 	soldiers = {
 		culture = zhuang
 		religion = animist
@@ -3375,24 +2776,6 @@
 		culture = yue
 		religion = mahayana
 		size = 1250
-	}
-
-	artisans = {
-		culture = vietnamese
-		religion = mahayana
-		size = 3250
-	}
-
-	soldiers = {
-		culture = vietnamese
-		religion = mahayana
-		size = 1250
-	}
-
-	farmers = {
-		culture = vietnamese
-		religion = mahayana
-		size = 112800
 	}
 
 	aristocrats = {
@@ -3460,15 +2843,9 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 14050
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 3050
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
@@ -3496,21 +2873,9 @@
 	artisans = {
 		culture = zhuang
 		religion = animist
-		size = 11000
+		size = 28550
 	}
 	
-	artisans = {
-		culture = zhuang
-		religion = animist
-		size = 11000
-	}
-	
-	artisans = {
-		culture = zhuang
-		religion = animist
-		size = 6550
-	}
-
 	soldiers = {
 		culture = zhuang
 		religion = animist
@@ -3550,25 +2915,13 @@
 	artisans = {
 		culture = yue
 		religion = mahayana
-		size = 11000
+		size = 16600
 	}
 	
-	artisans = {
-		culture = yue
-		religion = mahayana
-		size = 5600
-	}
-
 	soldiers = {
 		culture = yue
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = yue
-		religion = mahayana
-		size = 125
+		size = 3125
 	}
 
 	farmers = {
@@ -3772,15 +3125,9 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 14350
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 3350
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
@@ -3918,15 +3265,9 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 16000
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 5000
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
@@ -4052,21 +3393,9 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 24750
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2750
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
@@ -4281,37 +3610,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
+		size = 41750
 	}
 	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 8750
-	}
-
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 1750
+		size = 4750
 	}
 
 	farmers = {
@@ -4367,37 +3672,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
+		size = 42325
 	}
 	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 9325
-	}
-
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 1875
+		size = 4875
 	}
 
 	farmers = {
@@ -4459,49 +3740,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
+		size = 58825
 	}
 	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 3825
-	}
-
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 2775
+		size = 5775
 	}
 
 	farmers = {
@@ -4557,37 +3802,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
+		size = 42000
 	}
 	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 9000
-	}
-
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 1800
+		size = 4800
 	}
 
 	farmers = {
@@ -4643,37 +3864,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
+		size = 41750
 	}
 	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 8750
-	}
-
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 1750
+		size = 4750
 	}
 
 	farmers = {
@@ -4705,37 +3902,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
+		size = 39700
 	}
 	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 6700
-	}
-
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 1350
+		size = 4350
 	}
 
 	farmers = {
@@ -4767,49 +3940,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
+		size = 56500
 	}
 	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 1500
-	}
-
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 2300
+		size = 5300
 	}
 
 	farmers = {
@@ -4855,37 +3992,13 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 44000
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1000
+		size = 4000
 	}
 
 	farmers = {
@@ -4989,49 +4102,13 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 56575
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1575
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2325
+		size = 5325
 	}
 
 	farmers = {
@@ -5063,37 +4140,13 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 42500
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 9500
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1950
+		size = 4950
 	}
 
 	farmers = {
@@ -5185,37 +4238,13 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 41750
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 8750
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1750
+		size = 4750
 	}
 
 	farmers = {
@@ -5301,37 +4330,13 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 44000
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1000
+		size = 4000
 	}
 
 	farmers = {
@@ -5387,37 +4392,13 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 41750
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 8750
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1750
+		size = 4750
 	}
 
 	farmers = {
@@ -5503,43 +4484,13 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 45500
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1500
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1300
+		size = 4300
 	}
 
 	farmers = {
@@ -5601,37 +4552,13 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 44000
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1025
+		size = 4025
 	}
 
 	farmers = {
@@ -5743,55 +4670,19 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 56350
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1350
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2275
+		size = 5275
 	}
 
 	serfs = {
 		culture = nanfaren
 		religion = mahayana
-		size = 344225
+		size = 424225
 	}
 	
 	farmers = {
@@ -5800,12 +4691,6 @@
 		size = 500000
 	}
 	
-	serfs = {
-		culture = nanfaren
-		religion = mahayana
-		size = 80000
-	}
-
 	aristocrats = {
 		culture = miao
 		religion = animist
@@ -5871,25 +4756,13 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 19250
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 8250
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 650
+		size = 3650
 	}
 
 	farmers = {
@@ -5951,43 +4824,13 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 46000
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2000
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1400
+		size = 4400
 	}
 
 	farmers = {
@@ -5999,15 +4842,9 @@
 	serfs = {
 		culture = nanfaren
 		religion = mahayana
-		size = 300000
+		size = 360000
 	}
 
-	serfs = {
-		culture = nanfaren
-		religion = mahayana
-		size = 60000
-	}
-	
 	aristocrats = {
 		culture = yue
 		religion = mahayana
@@ -6055,43 +4892,13 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 46300
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2300
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1475
+		size = 4475
 	}
 
 	farmers = {
@@ -6147,15 +4954,9 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 13200
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2200
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
@@ -6215,37 +5016,13 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 40850
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 7850
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1600
+		size = 4600
 	}
 
 	farmers = {
@@ -6271,37 +5048,13 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 34400
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1400
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 300
+		size = 3300
 	}
 
 	farmers = {
@@ -6787,33 +5540,15 @@
 	artisans = {
 		culture = nanfaren
 		religion = protestant
-		size = 11000
+		size = 22000
 	}
 	
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 28000
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = protestant
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 6000
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = protestant
@@ -6871,31 +5606,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
+		size = 31000
 	}
 	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 9000
-	}
-
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 12000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 3350
+		size = 15350
 	}
 
 	farmers = {
@@ -6987,37 +5704,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
+		size = 39600
 	}
 	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 6600
-	}
-
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 1325
+		size = 4325
 	}
 
 	farmers = {
@@ -7043,61 +5736,13 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 72850
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 6850
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 23000
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 31375
+		size = 57375
 	}
 
 	farmers = {
@@ -7209,49 +5854,13 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 58100
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 3100
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 12625
+		size = 15625
 	}
 
 	farmers = {
@@ -7351,15 +5960,9 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
+		size = 14700
 	}
 	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 3700
-	}
-
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
@@ -7389,61 +5992,13 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 70500
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 4500
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 23000
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 20900
+		size = 46900
 	}
 
 	farmers = {
@@ -7536,21 +6091,9 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
+		size = 23100
 	}
 	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 1100
-	}
-
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
@@ -7610,37 +6153,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
+		size = 39250
 	}
 	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 6250
-	}
-
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 1250
+		size = 4250
 	}
 
 	farmers = {
@@ -7672,31 +6191,13 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 31250
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 9250
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 12850
+		size = 15850
 	}
 
 	farmers = {
@@ -7732,15 +6233,9 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
+		size = 11250
 	}
 	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 250
-	}
-
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
@@ -7790,31 +6285,13 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 27050
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 5050
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2025
+		size = 5025
 	}
 
 	farmers = {
@@ -7960,31 +6437,13 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 28300
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 6300
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 275
+		size = 3275
 	}
 
 	farmers = {
@@ -8076,19 +6535,7 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 8900
+		size = 30900
 	}
 	
 	officers = {
@@ -8100,13 +6547,7 @@
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 30000
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 30800
+		size = 60800
 	}
 
 	farmers = {
@@ -8130,49 +6571,13 @@
 	artisans = {
 		culture = hakka
 		religion = mahayana
-		size = 11000
+		size = 59750
 	}
 	
-	artisans = {
-		culture = hakka
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = hakka
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = hakka
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = hakka
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = hakka
-		religion = mahayana
-		size = 4750
-	}
-
 	soldiers = {
 		culture = hakka
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = hakka
-		religion = mahayana
-		size = 2950
+		size = 5950
 	}
 
 	farmers = {
@@ -8204,15 +6609,9 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 15400
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 4400
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
@@ -8382,55 +6781,13 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 63800
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 8800
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 775
+		size = 6775
 	}
 
 	farmers = {
@@ -8528,31 +6885,13 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 30900
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 8900
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 800
+		size = 3800
 	}
 
 	farmers = {
@@ -8770,14 +7109,9 @@
 	farmers = {
 		culture = siberian
 		religion = animist
-		size = 200
+		size = 2900
 	}
 
-	farmers = {
-		culture = siberian
-		religion = animist
-		size = 2700
-	}
 }
 #Ninguta (1068000/267000 POPS)
 1554 = {
@@ -8941,14 +7275,9 @@
 	farmers = {
 		culture = siberian
 		religion = animist
-		size = 120
+		size = 2620
 	}
 
-	farmers = {
-		culture = siberian
-		religion = animist
-		size = 2500
-	}
 }
 #Qinghai Region (1248000)
 #under the rule of China in 1836
@@ -8981,7 +7310,7 @@
 	serfs = {
 		culture = amdo
 		religion = gelugpa
-		size = 30000
+		size = 40000
 	}
 
 	aristocrats = {
@@ -9017,7 +7346,7 @@
 	clergymen = {
 		culture = hanhui
 		religion = sunni
-		size = 400
+		size = 1300
 	}
 
 	artisans = {
@@ -9055,12 +7384,6 @@
 		culture = hanhui
 		religion = sunni
 		size = 500
-	}
-
-	clergymen = {
-		culture = hanhui
-		religion = sunni
-		size = 900
 	}
 
 	clergymen = {
@@ -9106,12 +7429,6 @@
 	}
 	
 	serfs = {
-		culture = amdo
-		religion = gelugpa
-		size = 10000
-	}
-	
-	serfs = {
 		culture = mongol
 		religion = gelugpa
 		size = 20000
@@ -9146,7 +7463,7 @@
 	soldiers = {
 		culture = hanhui
 		religion = sunni
-		size = 3775
+		size = 4550
 	}
 	
 	farmers = {
@@ -9171,12 +7488,6 @@
 		culture = amdo
 		religion = gelugpa
 		size = 3800
-	}
-
-	soldiers = {
-		culture = hanhui
-		religion = sunni
-		size = 775
 	}
 
 	labourers = {
@@ -9446,31 +7757,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
+		size = 33000
 	}
 	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 1500
+		size = 4500
 	}
 
 	farmers = {
@@ -9550,15 +7843,9 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
+		size = 13700
 	}
 	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 2700
-	}
-
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
@@ -9618,25 +7905,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
+		size = 20400
 	}
 	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 9400
-	}
-
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 900
+		size = 3900
 	}
 
 	farmers = {
@@ -9690,21 +7965,9 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 24100
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2100
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
@@ -9740,25 +8003,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
+		size = 16900
 	}
 	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 5900
-	}
-
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 200
+		size = 3200
 	}
 
 	farmers = {
@@ -9828,67 +8079,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
+		size = 77400
 	}
 	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 400
-	}
-
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 1100
+		size = 7100
 	}
 
 	farmers = {
@@ -9968,43 +8165,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
+		size = 50300
 	}
 	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 6300
-	}
-
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 2275
+		size = 5275
 	}
 
 	farmers = {
@@ -10112,43 +8279,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
+		size = 53200
 	}
 	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 9200
-	}
-
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 2850
+		size = 5850
 	}
 
 	farmers = {
@@ -10174,43 +8311,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
+		size = 50100
 	}
 	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 6100
-	}
-
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 2225
+		size = 5225
 	}
 
 	farmers = {
@@ -10274,43 +8381,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
+		size = 50200
 	}
 	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 6200
-	}
-
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 2250
+		size = 5250
 	}
 
 	farmers = {
@@ -10342,43 +8419,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
+		size = 53300
 	}
 	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 9300
-	}
-
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 2875
+		size = 5875
 	}
 
 	farmers = {
@@ -10443,15 +8490,9 @@
 	serfs = {
 		culture = beifaren
 		religion = mahayana
-		size = 500000
+		size = 580000
 	}
 	
-	serfs = {
-		culture = beifaren
-		religion = mahayana
-		size = 80000
-	}
-
 	aristocrats = {
 		culture = hanhui
 		religion = sunni
@@ -10517,49 +8558,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
+		size = 46200
 	}
 	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 2200
-	}
-
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 2450
+		size = 8450
 	}
 
 	farmers = {
@@ -10615,43 +8620,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
+		size = 50450
 	}
 	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 6450
-	}
-
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 2300
+		size = 5300
 	}
 
 	farmers = {
@@ -10707,43 +8682,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
+		size = 46050
 	}
 	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 2050
-	}
-
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 1425
+		size = 4425
 	}
 
 	farmers = {
@@ -10863,43 +8808,13 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 51950
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 7950
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2600
+		size = 5600
 	}
 
 	farmers = {
@@ -10937,55 +8852,13 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 71000
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 5000
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2800
+		size = 5800
 	}
 
 	farmers = {
@@ -11035,49 +8908,13 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 58350
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 3350
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 30000
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 32675
+		size = 62675
 	}
 
 	farmers = {
@@ -11109,21 +8946,9 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 27000
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 5000
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
@@ -11157,15 +8982,9 @@
 	artisans = {
 		culture = yi
 		religion = animist
-		size = 11000
+		size = 19500
 	}
 	
-	artisans = {
-		culture = yi
-		religion = animist
-		size = 8500
-	}
-
 	soldiers = {
 		culture = yi
 		religion = animist
@@ -11267,49 +9086,13 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 58650
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 3650
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2750
+		size = 5750
 	}
 
 	farmers = {
@@ -11335,31 +9118,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
+		size = 29650
 	}
 	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 7650
-	}
-
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 2550
+		size = 5550
 	}
 
 	farmers = {
@@ -11475,55 +9240,13 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 62250
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 7250
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 450
+		size = 6450
 	}
 
 	farmers = {
@@ -11555,37 +9278,13 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 40800
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 7800
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1600
+		size = 4600
 	}
 
 	farmers = {
@@ -11617,31 +9316,13 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 23450
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1450
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1300
+		size = 4300
 	}
 
 	farmers = {
@@ -11727,21 +9408,9 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 24600
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2600
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
@@ -11875,37 +9544,13 @@
 	artisans = {
 		culture = vietnamese
 		religion = mahayana
-		size = 11000
+		size = 25800
 	}
 	
-	artisans = {
-		culture = vietnamese
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = vietnamese
-		religion = mahayana
-		size = 3800
-	}
-
 	soldiers = {
 		culture = hanhui
 		religion = sunni
-		size = 3000
-	}
-
-	soldiers = {
-		culture = hanhui
-		religion = sunni
-		size = 12000
-	}
-
-	soldiers = {
-		culture = hanhui
-		religion = sunni
-		size = 775
+		size = 15775
 	}
 
 	farmers = {
@@ -11935,15 +9580,9 @@
 	artisans = {
 		culture = hanhui
 		religion = sunni
-		size = 11000
+		size = 11500
 	}
 	
-	artisans = {
-		culture = hanhui
-		religion = sunni
-		size = 500
-	}
-
 	farmers = {
 		culture = hanhui
 		religion = sunni
@@ -12111,15 +9750,9 @@
 	artisans = {
 		culture = asian_minor
 		religion = animist
-		size = 11000
+		size = 14500
 	}
 	
-	artisans = {
-		culture = asian_minor
-		religion = animist
-		size = 3500
-	}
-
 	soldiers = {
 		culture = asian_minor
 		religion = animist
@@ -12381,33 +10014,9 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
+		size = 52000
 	}
 	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 8000
-	}
-
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
@@ -12417,13 +10026,7 @@
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 199450
-	}
-	
-	farmers = {
-		culture = beifaren
-		religion = mahayana
-		size = 1000
+		size = 200450
 	}
 	
 	serfs = {
@@ -12447,21 +10050,9 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 29450
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 7450
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
@@ -12717,21 +10308,9 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 23050
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1050
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
@@ -12983,21 +10562,9 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 23050
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1050
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
@@ -13027,21 +10594,9 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 23100
 	}
 	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1100
-	}
-
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
@@ -13152,15 +10707,9 @@
 	artisans = {
 		culture = hanhui
 		religion = sunni
-		size = 11000
+		size = 12100
 	}
 	
-	artisans = {
-		culture = hanhui
-		religion = sunni
-		size = 1100
-	}
-
 	soldiers = {
 		culture = hanhui
 		religion = sunni
@@ -13195,39 +10744,9 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
+		size = 64550
 	}
 	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 9550
-	}
-
 	farmers = {
 		culture = beifaren
 		religion = mahayana
@@ -13285,49 +10804,13 @@
 	artisans = {
 		culture = manchu
 		religion = mahayana
-		size = 11000
+		size = 22000
 	}
 	
-	artisans = {
-		culture = manchu
-		religion = mahayana
-		size = 11000
-	}
-
 	soldiers = {
 		culture = manchu
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = manchu
-		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = manchu
-		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = manchu
-		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = manchu
-		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = manchu
-		religion = mahayana
-		size = 30000
+		size = 45000
 	}
 
 	farmers = {
@@ -13353,43 +10836,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
+		size = 46050
 	}
 	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 2050
-	}
-
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 1425
+		size = 4425
 	}
 
 	farmers = {
@@ -13427,55 +10880,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
+		size = 61200
 	}
 	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 6200
-	}
-
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 250
+		size = 6250
 	}
 
 	farmers = {
@@ -13501,55 +10912,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
+		size = 60350
 	}
 	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 5350
-	}
-
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 75
+		size = 6075
 	}
 
 	farmers = {
@@ -13597,31 +10966,7 @@
 	soldiers = {
 		culture = manchu
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = manchu
-		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = manchu
-		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = manchu
-		religion = mahayana
-		size = 3000
-	}
-	
-	soldiers = {
-		culture = manchu
-		religion = mahayana
-		size = 18000
+		size = 30000
 	}
 
 	farmers = {
@@ -13715,61 +11060,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
+		size = 71500
 	}
 	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 11000
-	}
-	
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 5500
-	}
-
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 3000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 600
+		size = 6600
 	}
 
 	farmers = {
@@ -13785,37 +11082,25 @@
 	aristocrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 2025
+		size = 2775
 	}
 
 	clergymen = {
 		culture = beifaren
 		religion = mahayana
-		size = 525
+		size = 925
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 2525
+		size = 2925
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 25000
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = mahayana
-		size = 750
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = mahayana
-		size = 400
+		size = 34500
 	}
 
 	artisans = {
@@ -13824,16 +11109,5 @@
 		size = 5950
 	}
 
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 400
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = mahayana
-		size = 9500
-	}
 }
 

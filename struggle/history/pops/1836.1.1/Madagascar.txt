@@ -23,31 +23,13 @@
 	artisans = {
 		culture = malagasy
 		religion = animist
-		size = 10000
+		size = 10300
 	}
 	
-	artisans = {
-		culture = malagasy
-		religion = animist
-		size = 300
-	}
-
 	soldiers = {
 		culture = malagasy
 		religion = animist
-		size = 3000
-	}
-
-	soldiers = {
-		culture = malagasy
-		religion = animist
-		size = 3000
-	}
-
-	soldiers = {
-		culture = malagasy
-		religion = animist
-		size = 1000
+		size = 7000
 	}
 
 	farmers = {
@@ -121,13 +103,7 @@
 	soldiers = {
 		culture = malagasy
 		religion = animist
-		size = 3000
-	}
-
-	soldiers = {
-		culture = malagasy
-		religion = animist
-		size = 1000
+		size = 4000
 	}
 
 	farmers = {
@@ -389,62 +365,33 @@
 	aristocrats = {
 		culture = malagasy #african_minor
 		religion = animist
-		size = 475
-	}
-
-	clergymen = {
-		culture = malagasy #african_minor
-		religion = animist
-		size = 250
-	}
-
-	artisans = {
-		culture = malagasy #african_minor
-		religion = animist
-		size = 1250
-	}
-
-	soldiers = {
-		culture = malagasy #african_minor
-		religion = animist
-		size = 250
-	}
-
-	farmers = {
-		culture = malagasy #african_minor
-		religion = animist
-		size = 22775
-	}
-
-	aristocrats = {
-		culture = malagasy
-		religion = animist
-		size = 625
-	}
-
-	clergymen = {
-		culture = malagasy
-		religion = animist
-		size = 325
-	}
-
-	artisans = {
-		culture = malagasy
-		religion = animist
-		size = 1600
-	}
-
-	soldiers = {
-		culture = malagasy
-		religion = animist
 		size = 1100
 	}
 
-	farmers = {
-		culture = malagasy
+	clergymen = {
+		culture = malagasy #african_minor
 		religion = animist
-		size = 28450
+		size = 575
 	}
+
+	artisans = {
+		culture = malagasy #african_minor
+		religion = animist
+		size = 2850
+	}
+
+	soldiers = {
+		culture = malagasy #african_minor
+		religion = animist
+		size = 1350
+	}
+
+	farmers = {
+		culture = malagasy #african_minor
+		religion = animist
+		size = 51225
+	}
+
 }
 #Mahajanga (188000/47000 POPS)
 2121 = {

@@ -5,15 +5,9 @@
 	aristocrats = {
 		culture = visigothic
 		religion = protestant
-		size = 100
+		size = 1990
 	}
 	
-	aristocrats = { #So the state has 2% aristocrats
-		culture = visigothic
-		religion = protestant
-		size = 1890
-	}
-
 	bureaucrats = {
 		culture = visigothic
 		religion = protestant

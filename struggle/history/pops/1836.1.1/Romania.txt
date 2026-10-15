@@ -287,19 +287,19 @@
 	clergymen = {
 		culture = pannonian
 		religion = orthodox
-		size = 275 
+		size = 825 
 	}
 
 	artisans = {
 		culture = pannonian
 		religion = orthodox
-		size = 1400
+		size = 4400
 	}
 
 	soldiers = {
 		culture = pannonian
 		religion = orthodox
-		size = 300
+		size = 1050
 	}
 
 	serfs = {
@@ -410,24 +410,6 @@
 		size = 18800 
 	}
 
-	clergymen = {
-		culture = pannonian
-		religion = orthodox
-		size = 550 
-	}
-
-	artisans = {
-		culture = pannonian
-		religion = orthodox
-		size = 3000
-	}
-
-	soldiers = {
-		culture = pannonian
-		religion = orthodox
-		size = 750
-	}
-
 	farmers = {
 		culture = pannonian
 		religion = orthodox
@@ -469,25 +451,25 @@
 	clergymen = {
 		culture = pannonian
 		religion = orthodox
-		size = 600 
+		size = 750 
 	}
 
 	artisans = {
 		culture = pannonian
 		religion = orthodox
-		size = 3000
+		size = 3750
 	}
 
 	soldiers = {
 		culture = pannonian
 		religion = orthodox
-		size = 2600
+		size = 2800
 	}
 
 	farmers = {
 		culture = pannonian
 		religion = orthodox
-		size = 52600 
+		size = 68750 
 	}
 	
 	serfs = {
@@ -502,29 +484,6 @@
 		size = 1000
 	}
 
-	clergymen = {
-		culture = pannonian
-		religion = orthodox
-		size = 150
-	}
-
-	artisans = {
-		culture = pannonian
-		religion = orthodox
-		size = 750
-	}
-
-	soldiers = {
-		culture = pannonian
-		religion = orthodox
-		size = 200
-	}
-
-	farmers = {
-		culture = pannonian
-		religion = orthodox
-		size = 16150 
-	}
 }
 #Transylvania Region (2060000) 
 #under the rule of Austria in 1836  
@@ -1667,7 +1626,7 @@
 	artisans = {
 		culture = pannonian
 		religion = orthodox
-		size = 1950
+		size = 12162
 	}
 
 	soldiers = {
@@ -1680,12 +1639,6 @@
 		culture = pannonian
 		religion = orthodox
 		size = 58500 
-	}
-	
-	artisans = {
-		culture = pannonian
-		religion = orthodox
-		size = 10212 
 	}
 	
 	slaves = {
@@ -1717,7 +1670,7 @@
 	farmers = {
 		culture = pannonian
 		religion = orthodox
-		size = 4050 
+		size = 69000 
 	}	
 	
 	soldiers = {
@@ -1731,18 +1684,6 @@
 		religion = orthodox
 		size = 1000 
 	}	
-	
-	farmers = {
-		culture = pannonian
-		religion = orthodox
-		size = 9000 
-	}	
-	
-	farmers = {
-		culture = pannonian
-		religion = orthodox
-		size = 55950 
-	}
 	
 	slaves = {
 		culture = gypsy
@@ -1779,15 +1720,9 @@
 	farmers = {
 		culture = pannonian
 		religion = orthodox
-		size = 52025
+		size = 53525
 	}
 
-	farmers = {
-		culture = pannonian
-		religion = orthodox
-		size = 1500 
-	}	
-	
 	slaves = {
 		culture = gypsy
 		religion = orthodox
@@ -1817,7 +1752,7 @@
 	farmers = {
 		culture = pannonian
 		religion = orthodox
-		size = 200 
+		size = 62275 
 	}
 	
 	clergymen = {
@@ -1832,12 +1767,6 @@
 		size = 1100
 	}
 
-	farmers = {
-		culture = pannonian
-		religion = orthodox
-		size = 62075
-	}
-	
 	clergymen = {
 		culture = armenian
 		religion = coptic
@@ -1925,15 +1854,9 @@
 	artisans = {
 		culture = croat
 		religion = orthodox
-		size = 10000
+		size = 15000
 	}
 	
-	artisans = {
-		culture = croat
-		religion = orthodox
-		size = 5000
-	}
-
 	soldiers = {
 		culture = croat
 		religion = orthodox
@@ -2110,7 +2033,7 @@
 	aristocrats = {
 		culture = aromanian
 		religion = orthodox
-		size = 100
+		size = 200
 		militancy = 9
 		rebel_type = nationalist_rebels
 	}
@@ -2172,42 +2095,34 @@
 		
 	}
 	
-	aristocrats = {
-		culture = aromanian
-		religion = orthodox
-		size = 100
-		militancy = 9
-		rebel_type = nationalist_rebels
-	}
-	
 	officers = {
 		culture = aromanian
 		religion = orthodox
-		size = 100
+		size = 200
 	}
 	
 	soldiers = {
 		culture = aromanian
 		religion = orthodox
-		size = 100
+		size = 1200
 	}
 	
 	clergymen = {
 		culture = aromanian
 		religion = orthodox
-		size = 100
+		size = 200
 	}
 
 	artisans = {
 		culture = aromanian
 		religion = orthodox
-		size = 550
+		size = 1650
 	}
 
 	farmers = {
 		culture = aromanian
 		religion = orthodox
-		size = 12050 
+		size = 27550 
 	}
 	
 	aristocrats = {
@@ -2260,54 +2175,19 @@
 		size = 75
 	}
 
-	officers = {
-		culture = aromanian
-		religion = orthodox
-		size = 100
-	}
-
-	clergymen = {
-		culture = aromanian
-		religion = orthodox
-		size = 100
-	}
-
-	artisans = {
-		culture = aromanian
-		religion = orthodox
-		size = 1100
-	}
-
-	soldiers = {
-		culture = aromanian
-		religion = orthodox
-		size = 1100
-	}
-
-	farmers = {
-		culture = aromanian
-		religion = orthodox
-		size = 13500
-	}
-	
-	farmers = {
-		culture = aromanian
-		religion = orthodox
-		size = 2000
-	}
 }
 #Mangalia (128000/32000 POPS)  
 3492 = {
 	aristocrats = {
 		culture = greek
 		religion = orthodox
-		size = 100
+		size = 200
 	}
 	
 	officers = {
 		culture = aromanian
 		religion = orthodox
-		size = 100
+		size = 200
 	}
 	
 	soldiers = {
@@ -2317,57 +2197,33 @@
 	}
 	
 	clergymen = {
-		culture = greek
-		religion = orthodox
-		size = 100
-	}
-
-	artisans = {
-		culture = greek
-		religion = orthodox
-		size = 550
-	}
-
-	farmers = {
-		culture = greek
-		religion = orthodox
-		size = 12050 
-	}
-	
-	aristocrats = {
-		culture = greek
-		religion = orthodox
-		size = 100 
-	}
-	
-	officers = {
-		culture = greek
-		religion = orthodox
-		size = 100 
-	}
-	
-	soldiers = {
-		culture = greek
-		religion = orthodox
-		size = 100 
-	}
-
-	clergymen = {
-		culture = greek
-		religion = orthodox
-		size = 100 
-	}
-
-	artisans = {
 		culture = greek
 		religion = orthodox
 		size = 200
 	}
 
+	artisans = {
+		culture = greek
+		religion = orthodox
+		size = 750
+	}
+
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 4000
+		size = 29550 
+	}
+	
+	officers = {
+		culture = greek
+		religion = orthodox
+		size = 100 
+	}
+	
+	soldiers = {
+		culture = greek
+		religion = orthodox
+		size = 1200 
 	}
 
 	aristocrats = {
@@ -2382,12 +2238,6 @@
 		size = 75
 	}
 
-	officers = {
-		culture = aromanian
-		religion = orthodox
-		size = 100
-	}
-
 	clergymen = {
 		culture = aromanian
 		religion = orthodox
@@ -2400,18 +2250,6 @@
 		size = 1100
 	}
 
-	soldiers = {
-		culture = greek
-		religion = orthodox
-		size = 1100
-	}
-
-	farmers = {
-		culture = greek
-		religion = orthodox
-		size = 13500
-	}
-	
 	farmers = {
 		culture = aromanian
 		religion = orthodox
@@ -2424,37 +2262,37 @@
 	aristocrats = {
 		culture = aromanian
 		religion = orthodox
-		size = 100
+		size = 750
 	}
 	
 	officers = {
 		culture = aromanian
 		religion = orthodox
-		size = 100
+		size = 200
 	}
 	
 	soldiers = {
 		culture = aromanian
 		religion = orthodox
-		size = 100
+		size = 1200
 	}
 	
 	clergymen = {
 		culture = aromanian
 		religion = orthodox
-		size = 100
+		size = 200
 	}
 
 	artisans = {
 		culture = aromanian
 		religion = orthodox
-		size = 550
+		size = 1650
 	}
 
 	farmers = {
 		culture = aromanian
 		religion = orthodox
-		size = 12050 
+		size = 27550 
 	}
 	
 	aristocrats = {
@@ -2493,53 +2331,12 @@
 		size = 400 
 	}
 
-	aristocrats = {
-		culture = aromanian
-		religion = orthodox
-		size = 650
-	}
-
 	bureaucrats = {
 		culture = aromanian
 		religion = orthodox
 		size = 75
 	}
 
-	officers = {
-		culture = aromanian
-		religion = orthodox
-		size = 100
-	}
-
-	clergymen = {
-		culture = aromanian
-		religion = orthodox
-		size = 100
-	}
-
-	artisans = {
-		culture = aromanian
-		religion = orthodox
-		size = 1100
-	}
-
-	soldiers = {
-		culture = aromanian
-		religion = orthodox
-		size = 1100
-	}
-
-	farmers = {
-		culture = aromanian
-		religion = orthodox
-		size = 13500
-	}
-	
-	farmers = {
-		culture = aromanian
-		religion = orthodox
-		size = 2000
-	}
 }
 #Tulcea (40000/10000 POPS)  
 675 = {
@@ -2547,25 +2344,25 @@
 	soldiers = {
 		culture = aromanian
 		religion = orthodox
-		size = 100
+		size = 1300
 	}
 
 	clergymen = {
 		culture = aromanian
 		religion = orthodox
-		size = 100
+		size = 300
 	}
 
 	artisans = {
 		culture = aromanian
 		religion = orthodox
-		size = 2500
+		size = 2850
 	}
 
 	farmers = {
 		culture = aromanian
 		religion = orthodox
-		size = 3600 
+		size = 16025 
 	}
 	
 	slaves = {
@@ -2580,53 +2377,6 @@
 		size = 150 
 	}
 
-	clergymen = {
-		culture = aromanian
-		religion = orthodox
-		size = 100
-	}
-
-	artisans = {
-		culture = aromanian
-		religion = orthodox
-		size = 200 
-	}
-
-	soldiers = {
-		culture = aromanian
-		religion = orthodox
-		size = 1100
-	}
-
-	farmers = {
-		culture = aromanian
-		religion = orthodox
-		size = 9600 
-	}
-	
-	soldiers = {
-		culture = aromanian
-		religion = orthodox
-		size = 100
-	}
-
-	clergymen = {
-		culture = aromanian
-		religion = orthodox
-		size = 100
-	}
-
-	artisans = {
-		culture = aromanian
-		religion = orthodox
-		size = 150
-	}
-
-	farmers = {
-		culture = aromanian
-		religion = orthodox
-		size = 2825
-	}
 }
 #Tulcea (40000/10000 POPS)  
 3494 = {
@@ -2634,7 +2384,7 @@
 	soldiers = {
 		culture = south_hungarian
 		religion = manichaeism
-		size = 100
+		size = 5200
 	}
 
 	clergymen = {
@@ -2646,33 +2396,15 @@
 	artisans = {
 		culture = south_hungarian
 		religion = manichaeism
-		size = 7500
+		size = 9900
 	}
 
 	farmers = {
 		culture = south_hungarian
 		religion = manichaeism
-		size = 35600 
+		size = 114200 
 	}
 
-	artisans = {
-		culture = south_hungarian
-		religion = manichaeism
-		size = 2400 
-	}
-
-	soldiers = {
-		culture = south_hungarian
-		religion = manichaeism
-		size = 5100
-	}
-
-	farmers = {
-		culture = south_hungarian
-		religion = manichaeism
-		size = 78600 
-	}
-	
 	soldiers = {
 		culture = greek
 		religion = orthodox
@@ -2703,67 +2435,37 @@
 	clergymen = {
 		culture = pannonian
 		religion = orthodox
-		size = 20 
+		size = 60 
 	}
 
 	artisans = {
 		culture = pannonian
 		religion = orthodox
-		size = 50
+		size = 100
 	}
 
 	soldiers = {
 		culture = pannonian
 		religion = orthodox
-		size = 200
+		size = 500
 	}
 
 	farmers = {
 		culture = pannonian
 		religion = orthodox
-		size = 500 
+		size = 1500 
 	}
 
 	serfs = {
 		culture = pannonian
 		religion = orthodox
-		size = 2000 
-	}
-	
-	clergymen = {
-		culture = pannonian
-		religion = orthodox
-		size = 40 
-	}
-
-	artisans = {
-		culture = pannonian
-		religion = orthodox
-		size = 50
-	}
-
-	soldiers = {
-		culture = pannonian
-		religion = orthodox
-		size = 300
-	}
-
-	farmers = {
-		culture = pannonian
-		religion = orthodox
-		size = 1000 
-	}
-
-	serfs = {
-		culture = pannonian
-		religion = orthodox
-		size = 3000 
+		size = 5000 
 	}
 	
 	aristocrats = {
 		culture = czech
 		religion = catholic
-		size = 350   
+		size = 750   
 	}
 
 	clergymen = {
@@ -2788,12 +2490,6 @@
 		culture = czech
 		religion = catholic
 		size = 32350   
-	}
-
-	aristocrats = {
-		culture = czech
-		religion = catholic
-		size = 400  
 	}
 
 	clergymen = {

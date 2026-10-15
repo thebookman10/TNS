@@ -5,7 +5,7 @@
 	aristocrats = {
 		culture = dzongkha
 		religion = gelugpa
-		size = 575
+		size = 1075
 	}
 
 	bureaucrats = {
@@ -23,55 +23,25 @@
 	clergymen = {
 		culture = dzongkha
 		religion = gelugpa
-		size = 300
+		size = 1050
 	}
 
 	artisans = {
 		culture = dzongkha
 		religion = gelugpa
-		size = 15000
+		size = 27500
 	}
 
 	soldiers = {
 		culture = dzongkha
 		religion = gelugpa
-		size = 4000
+		size = 13250
 	}
 
 	farmers = {
 		culture = dzongkha
 		religion = gelugpa
-		size = 65250
-	}
-
-	aristocrats = {
-		culture = dzongkha
-		religion = gelugpa
-		size = 500
-	}
-
-	clergymen = {
-		culture = dzongkha
-		religion = gelugpa
-		size = 750
-	}
-
-	artisans = {
-		culture = dzongkha
-		religion = gelugpa
-		size = 2000
-	}
-
-	soldiers = {
-		culture = dzongkha
-		religion = gelugpa
-		size = 250
-	}
-
-	farmers = {
-		culture = dzongkha
-		religion = gelugpa
-		size = 36500
+		size = 111750
 	}
 
 	slaves = {
@@ -80,78 +50,31 @@
 		size = 7000
 	}
 	
-	artisans = {
-		culture = dzongkha
-		religion = gelugpa
-		size = 2500
-	}
-
-	artisans = {
-		culture = dzongkha
-		religion = gelugpa
-		size = 8000
-	}
-	
-	farmers = {
-		culture = dzongkha
-		religion = gelugpa
-		size = 10000
-	}
-
-	soldiers = {
-		culture = dzongkha
-		religion = gelugpa
-		size = 3000
-	}
-
-	soldiers = {
-		culture = dzongkha
-		religion = gelugpa
-		size = 3000
-	}
-
-	soldiers = {
-		culture = dzongkha
-		religion = gelugpa
-		size = 3000
-	}
 }
 #Darjeeling (3248000/812000 POPS)
 1252 = {
 	aristocrats = {
 		culture = dzongkha
 		religion = gelugpa
-		size = 6000
+		size = 7100
 	}
 
 	clergymen = {
 		culture = dzongkha
 		religion = gelugpa
-		size = 6250
+		size = 8250
 	}
 
 	soldiers = {
 		culture = dzongkha
 		religion = gelugpa
-		size = 3000
+		size = 5000
 	}
 
 	farmers = {
 		culture = dzongkha
 		religion = gelugpa
-		size = 45250
-	}
-
-	aristocrats = {
-		culture = dzongkha
-		religion = gelugpa
-		size = 1100
-	}
-
-	clergymen = {
-		culture = dzongkha
-		religion = gelugpa
-		size = 2000
+		size = 57750
 	}
 
 	artisans = {
@@ -160,17 +83,6 @@
 		size = 9500
 	}
 
-	soldiers = {
-		culture = dzongkha
-		religion = gelugpa
-		size = 2000
-	}
-
-	farmers = {
-		culture = dzongkha
-		religion = gelugpa
-		size = 12500
-	}
 }
 #Tumlong (56000/14000 POPS)  #now part of India 
 #Animist - Lepcha Mun
@@ -226,19 +138,13 @@
 	farmers = {
 		culture = asian_minor
 		religion = gelugpa
-		size = 10000
+		size = 11000
 	}
 	
 	farmers = {
 		culture = asian_minor
 		religion = animist
 		size = 365
-	}
-	
-	farmers = {
-		culture = asian_minor
-		religion = gelugpa
-		size = 1000
 	}
 	
 	serfs = {

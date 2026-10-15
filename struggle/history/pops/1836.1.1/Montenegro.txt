@@ -5,31 +5,31 @@
 	aristocrats = {
 		culture = albanian
 		religion = catholic
-		size = 45
+		size = 190
 	}
 	
 	clergymen = {
 		culture = albanian
 		religion = catholic
-		size = 120
+		size = 280
 	}
 	
 	artisans = {
 		culture = albanian
 		religion = catholic
-		size = 1500
+		size = 4700
 	}
 	
 	soldiers = {
 		culture = albanian
 		religion = catholic
-		size = 50
+		size = 100
 	}
 	
 	farmers = {
 		culture = albanian
 		religion = catholic
-		size = 3000
+		size = 3355
 	}
 	
 	aristocrats = {
@@ -62,41 +62,12 @@
 		size = 1800
 	}
 	
-	aristocrats = {
-		culture = albanian
-		religion = catholic
-		size = 145
-	}
-	
 	bureaucrats	= {
 		culture = albanian
 		religion = catholic
 		size = 45
 	}
 	
-	clergymen = {
-		culture = albanian
-		religion = catholic
-		size = 160
-	}
-	
-	artisans = {
-		culture = albanian
-		religion = catholic
-		size = 3200
-	}
-	
-	soldiers = {
-		culture = albanian
-		religion = catholic
-		size = 50
-	}
-	
-	farmers = {
-		culture = albanian
-		religion = catholic
-		size = 355
-	}
 }
 #Niksic (52000/13000 POPS) 
 2569 = {
@@ -121,15 +92,9 @@
 	farmers = {
 		culture = dalmatian
 		religion = orthodox
-		size = 1000
+		size = 2000
 	}
 	
-	farmers = {
-		culture = dalmatian
-		religion = orthodox
-		size = 1000
-	}
-
 	serfs = {
 		culture = dalmatian
 		religion = orthodox
@@ -208,13 +173,7 @@
 	farmers = {
 		culture = dalmatian
 		religion = orthodox
-		size = 22375
-	}
-	
-	farmers = {
-		culture = dalmatian
-		religion = orthodox
-		size = 1000
+		size = 23375
 	}
 	
 	farmers = {
@@ -260,7 +219,7 @@
 	farmers = {
 		culture = dalmatian
 		religion = catholic
-		size = 4000
+		size = 4350
 	}
 	
 	farmers = {
@@ -303,12 +262,6 @@
 		culture = dalmatian
 		religion = orthodox
 		size = 10225
-	}
-	
-	farmers = {
-		culture = dalmatian
-		religion = catholic
-		size = 350
 	}
 	
 	aristocrats = {

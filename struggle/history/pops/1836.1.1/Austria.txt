@@ -35,13 +35,7 @@
 	soldiers = {
 		culture = venetian
 		religion = catholic
-		size = 3500
-	}
-
-	soldiers = {
-		culture = venetian
-		religion = catholic
-		size = 100
+		size = 3600
 	}
 
 	farmers = {
@@ -201,13 +195,13 @@
 	aristocrats = {
 		culture = bavarian
 		religion = catholic
-		size = 1550 
+		size = 1950 
 	}
 
 	bureaucrats = {
 		culture = bavarian
 		religion = catholic
-		size = 1425 
+		size = 1975 
 	}
 
 	officers = {
@@ -219,122 +213,27 @@
 	clergymen = {
 		culture = bavarian
 		religion = catholic
-		size = 1025 
+		size = 1190 
 	}
 
 	artisans = {
 		culture = bavarian
 		religion = catholic
-		size = 10000
+		size = 10750
 	}
 
 	soldiers = {
 		culture = bavarian
 		religion = catholic
-		size = 2050
+		size = 2200
 	}
 
 	farmers = {
 		culture = bavarian
 		religion = catholic
-		size = 70675 
+		size = 84260 
 	}
 	
-	bureaucrats = {
-		culture = bavarian
-		religion = catholic
-		size = 500
-	}
-
-	bureaucrats = {
-		culture = bavarian
-		religion = catholic
-		size = 50
-	}
-
-	clergymen = {
-		culture = bavarian
-		religion = catholic
-		size = 75
-	}
-
-	artisans = {
-		culture = bavarian
-		religion = catholic
-		size = 300
-	}
-
-	soldiers = {
-		culture = bavarian
-		religion = catholic
-		size = 75
-	}
-
-	farmers = {
-		culture = bavarian
-		religion = catholic
-		size = 6500
-	}
-
-	aristocrats = {
-		culture = bavarian
-		religion = catholic
-		size = 350  
-	}
-
-	clergymen = {
-		culture = bavarian
-		religion = catholic
-		size = 50 
-	}
-
-	artisans = {
-		culture = bavarian
-		religion = catholic
-		size = 350 
-	}
-
-	soldiers = {
-		culture = bavarian
-		religion = catholic
-		size = 50
-	}
-
-	farmers = {
-		culture = bavarian
-		religion = catholic
-		size = 5300 
-	}
-
-	aristocrats = {
-		culture = bavarian
-		religion = catholic
-		size = 50  
-	}
-
-	clergymen = {
-		culture = bavarian
-		religion = catholic
-		size = 40   
-	}
-
-	artisans = {
-		culture = bavarian
-		religion = catholic
-		size = 100   
-	}
-
-	soldiers = {
-		culture = bavarian
-		religion = catholic
-		size = 25
-	}
-
-	farmers = {
-		culture = bavarian
-		religion = catholic
-		size = 1785 
-	}
 }
 #Judenburg (168000/42000 POPS)
 617 = {
@@ -359,13 +258,7 @@
 	soldiers = {
 		culture = bavarian
 		religion = catholic
-		size = 3000
-	}
-
-	soldiers = {
-		culture = bavarian
-		religion = catholic
-		size = 1050
+		size = 4050
 	}
 
 	farmers = {
@@ -385,50 +278,27 @@
 	clergymen = {
 		culture = bavarian
 		religion = catholic
-		size = 325 
+		size = 500 
 	}
 
 	artisans = {
 		culture = bavarian
 		religion = catholic
-		size = 1550
+		size = 2500
 	}
 
 	soldiers = {
 		culture = bavarian
 		religion = catholic
-		size = 1100
+		size = 2300
 	}
 
 	farmers = {
 		culture = bavarian
 		religion = catholic
-		size = 25675
+		size = 42350
 	}
 
-	clergymen = {
-		culture = bavarian
-		religion = catholic
-		size = 175 
-	}
-
-	artisans = {
-		culture = bavarian
-		religion = catholic
-		size = 950
-	}
-
-	soldiers = {
-		culture = bavarian
-		religion = catholic
-		size = 1200
-	}
-
-	farmers = {
-		culture = bavarian
-		religion = catholic
-		size = 16675 
-	}
 }
 #Austria Region (2000000) 
 #under the rule of Austria in 1836  
@@ -438,223 +308,44 @@
 	aristocrats = {
 		culture = bavarian
 		religion = catholic
-		size = 350  
+		size = 5700  
 	}
 	
 	bureaucrats = {
 		culture = bavarian
 		religion = catholic
-		size = 750 
+		size = 4775 
 	}
 
 	clergymen = {
 		culture = bavarian
 		religion = catholic
-		size = 50  
+		size = 3800  
 	}
 
 	artisans = {
 		culture = bavarian
 		religion = catholic
-		size = 450  
+		size = 63700  
 	}
 
 	soldiers = {
 		culture = bavarian
 		religion = catholic
-		size = 75
+		size = 12900
 	}
 
 	farmers = {
 		culture = bavarian
 		religion = catholic
-		size = 5425  
-	}
-
-	clergymen = {
-		culture = bavarian
-		religion = catholic
-		size = 50  
-	}
-
-	artisans = {
-		culture = bavarian
-		religion = catholic
-		size = 450  
-	}
-
-	soldiers = {
-		culture = bavarian
-		religion = catholic
-		size = 75
-	}
-
-	farmers = {
-		culture = bavarian
-		religion = catholic
-		size = 6425
-	}
-
-	bureaucrats = {
-		culture = bavarian
-		religion = catholic
-		size = 475 
+		size = 286025  
 	}
 
 	officers = {
 		culture = bavarian
 		religion = catholic
-		size = 350 
+		size = 950 
 	}
-
-	clergymen = {
-		culture = bavarian
-		religion = catholic
-		size = 800   
-	}
-
-	artisans = {
-		culture = bavarian
-		religion = catholic
-		size = 4500   
-	}
-
-	soldiers = {
-		culture = bavarian
-		religion = catholic
-		size = 850
-	}
-
-	farmers = {
-		culture = bavarian
-		religion = catholic
-		size = 75025  
-	}
-	aristocrats = {
-		culture = bavarian
-		religion = catholic
-		size = 4250 
-	}
-
-	bureaucrats = {
-		culture = bavarian
-		religion = catholic
-		size = 3100
-	}
-
-	officers = {
-		culture = bavarian
-		religion = catholic
-		size = 600 
-	}
-
-	clergymen = {
-		culture = bavarian
-		religion = catholic
-		size = 2750
-	}
-
-	artisans = {
-		culture = bavarian
-		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = bavarian
-		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = bavarian
-		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = bavarian
-		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = bavarian
-		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = bavarian
-		religion = catholic
-		size = 7500
-	}
-
-	soldiers = {
-		culture = bavarian
-		religion = catholic
-		size = 2750 
-	}
-
-	soldiers = {
-		culture = bavarian
-		religion = catholic
-		size = 3000
-	}
-
-	soldiers = {
-		culture = bavarian
-		religion = catholic
-		size = 3000
-	}
-
-	soldiers = {
-		culture = bavarian
-		religion = catholic
-		size = 3000
-	}
-
-	farmers = {
-		culture = bavarian
-		religion = catholic
-		size = 186250
-	}
-
-	bureaucrats = {
-		culture = bavarian
-		religion = catholic
-		size = 450
-	}
-
-	aristocrats = {
-		culture = bavarian
-		religion = catholic
-		size = 1100  
-	}
-
-	clergymen = {
-		culture = bavarian
-		religion = catholic
-		size = 150   
-	}
-
-	artisans = {
-		culture = bavarian
-		religion = catholic
-		size = 800   
-	}
-
-	soldiers = {
-		culture = bavarian
-		religion = catholic
-		size = 150
-	}
-
-	farmers = {
-		culture = bavarian
-		religion = catholic
-		size = 12900 
-	}	
 
 	clergymen = {
 		culture = czech
@@ -727,7 +418,7 @@
 	farmers = {
 		culture = bavarian
 		religion = catholic
-		size = 19925 
+		size = 29003 
 	}
 
 	aristocrats = {
@@ -757,7 +448,7 @@
 	farmers = {
 		culture = bavarian
 		religion = protestant
-		size = 5350   
+		size = 26675   
 	}	
 
 	farmers = {
@@ -766,23 +457,6 @@
 		size = 1050 
 	}	
 
-	farmers = {
-		culture = bavarian
-		religion = catholic
-		size = 4500
-	}
-
-	farmers = {
-		culture = bavarian
-		religion = catholic
-		size = 4578
-	}
-
-	farmers = {
-		culture = bavarian
-		religion = protestant
-		size = 21325
-	}
 }
 
 
@@ -820,7 +494,7 @@
 	farmers = {
 		culture = bavarian
 		religion = catholic
-		size = 19925 
+		size = 29003 
 	}
 
 	aristocrats = {
@@ -850,7 +524,7 @@
 	farmers = {
 		culture = bavarian
 		religion = protestant
-		size = 5350   
+		size = 26675   
 	}	
 
 	farmers = {
@@ -859,23 +533,6 @@
 		size = 1050 
 	}	
 
-	farmers = {
-		culture = bavarian
-		religion = catholic
-		size = 4500
-	}
-
-	farmers = {
-		culture = bavarian
-		religion = catholic
-		size = 4578
-	}
-
-	farmers = {
-		culture = bavarian
-		religion = protestant
-		size = 21325
-	}
 }
 #Krems (240000/60000 POPS)
 621 = {
@@ -956,25 +613,7 @@
 	soldiers = {
 		culture = bavarian
 		religion = catholic
-		size = 1550 
-	}
-
-	soldiers = {
-		culture = bavarian
-		religion = catholic
-		size = 3000
-	}
-
-	soldiers = {
-		culture = bavarian
-		religion = catholic
-		size = 3000
-	}
-
-	soldiers = {
-		culture = bavarian
-		religion = catholic
-		size = 3000
+		size = 10550 
 	}
 
 	farmers = {
@@ -996,49 +635,25 @@
 	clergymen = {
 		culture = pannonian
 		religion = catholic
-		size = 475
+		size = 535
 	}
 
 	artisans = {
 		culture = pannonian
 		religion = catholic
-		size = 2450
+		size = 2600
 	}
 
 	soldiers = {
 		culture = pannonian
 		religion = catholic
-		size = 2100
+		size = 3125
 	}
 
 	farmers = {
 		culture = pannonian
 		religion = catholic
-		size = 40075
-	}
-
-	clergymen = {
-		culture = pannonian
-		religion = catholic
-		size = 60 
-	}
-
-	artisans = {
-		culture = pannonian
-		religion = catholic
-		size = 150
-	}
-
-	soldiers = {
-		culture = pannonian
-		religion = catholic
-		size = 1025
-	}
-
-	farmers = {
-		culture = pannonian
-		religion = catholic
-		size = 2765  
+		size = 42840
 	}
 
 	clergymen = {
@@ -1094,91 +709,37 @@
 	aristocrats = {
 		culture = bavarian
 		religion = catholic
-		size = 1100  
+		size = 2500  
 	}
 
 	clergymen = {
 		culture = bavarian
 		religion = catholic
-		size = 200   
+		size = 475   
 	}
 
 	artisans = {
 		culture = bavarian
 		religion = catholic
-		size = 1100
+		size = 2600
 	}
 
 	soldiers = {
 		culture = bavarian
 		religion = catholic
-		size = 200     
+		size = 525     
 	}
 
 	farmers = {
 		culture = bavarian
 		religion = catholic
-		size = 17600  
-	}
-
-	aristocrats = {
-		culture = bavarian
-		religion = catholic
-		size = 300  
-	}
-
-	clergymen = {
-		culture = bavarian
-		religion = catholic
-		size = 50   
-	}
-
-	artisans = {
-		culture = bavarian
-		religion = catholic
-		size = 350
-	}
-
-	soldiers = {
-		culture = bavarian
-		religion = catholic
-		size = 75     
-	}
-
-	farmers = {
-		culture = bavarian
-		religion = catholic
-		size = 5225  
-	}
-
-	aristocrats = {
-		culture = bavarian
-		religion = catholic
-		size = 1100  
-	}
-
-	clergymen = {
-		culture = bavarian
-		religion = catholic
-		size = 225
-	}
-
-	artisans = {
-		culture = bavarian
-		religion = catholic
-		size = 1150
-	}
-
-	soldiers = {
-		culture = bavarian
-		religion = catholic
-		size = 250     
+		size = 22825  
 	}
 
 	aristocrats = {
 		culture = czech
 		religion = protestant
-		size = 350   
+		size = 1050   
 	}
 
 	bureaucrats = {
@@ -1196,110 +757,27 @@
 	clergymen = {
 		culture = czech
 		religion = protestant
-		size = 80    
+		size = 230    
 	}
 
 	artisans = {
 		culture = czech
 		religion = protestant
-		size = 850  
+		size = 3700  
 	}
 
 	soldiers = {
 		culture = czech
 		religion = protestant
-		size = 50
+		size = 250
 	}
 
 	farmers = {
 		culture = czech
 		religion = protestant
-		size = 3320   
+		size = 17420   
 	}
 
-	aristocrats = {
-		culture = czech
-		religion = protestant
-		size = 350  
-	}
-
-	clergymen = {
-		culture = czech
-		religion = protestant
-		size = 50    
-	}
-
-	artisans = {
-		culture = czech
-		religion = protestant
-		size = 350  
-	}
-
-	soldiers = {
-		culture = czech
-		religion = protestant
-		size = 75
-	}
-
-	farmers = {
-		culture = czech
-		religion = protestant
-		size = 6175   
-	}
-
-	clergymen = {
-		culture = czech
-		religion = protestant
-		size = 25    
-	}
-
-	artisans = {
-		culture = czech
-		religion = protestant
-		size = 100  
-	}
-
-	soldiers = {
-		culture = czech
-		religion = protestant
-		size = 25
-	}
-
-	farmers = {
-		culture = czech
-		religion = protestant
-		size = 1850   
-	}
-
-	aristocrats = {
-		culture = czech
-		religion = protestant
-		size = 350  
-	}
-
-	clergymen = {
-		culture = czech
-		religion = protestant
-		size = 75    
-	}
-
-	artisans = {
-		culture = czech
-		religion = protestant
-		size = 2400  
-	}
-
-	soldiers = {
-		culture = czech
-		religion = protestant
-		size = 100
-	}
-
-	farmers = {
-		culture = czech
-		religion = protestant
-		size = 6075   
-	}
 }
 3671 = {
 	farmers = {
@@ -1311,25 +789,25 @@
 	clergymen = {
 		culture = czech
 		religion = protestant
-		size = 50    
+		size = 125    
 	}
 
 	artisans = {
 		culture = czech
 		religion = protestant
-		size = 150  
+		size = 575  
 	}
 
 	soldiers = {
 		culture = czech
 		religion = protestant
-		size = 25
+		size = 100
 	}
 
 	farmers = {
 		culture = czech
 		religion = protestant
-		size = 3775    
+		size = 20800    
 	}
 
 	aristocrats = {
@@ -1338,27 +816,4 @@
 		size = 400  
 	}
 
-	clergymen = {
-		culture = czech
-		religion = protestant
-		size = 75    
-	}
-
-	artisans = {
-		culture = czech
-		religion = protestant
-		size = 425  
-	}
-
-	soldiers = {
-		culture = czech
-		religion = protestant
-		size = 75
-	}
-
-	farmers = {
-		culture = czech
-		religion = protestant
-		size = 17025  
-	} 
 }

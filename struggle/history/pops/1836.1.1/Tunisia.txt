@@ -28,33 +28,15 @@
     artisans = {
         culture = african_romance
         religion = punic_church
-        size = 3500
-    }
-
-    artisans = {
-        culture = african_romance
-		religion = punic_church
-        size = 2000
-    }
-
-    farmers = {
-        culture = african_romance
-        religion = punic_church
         size = 25000
     }
 
-    artisans = {
-        culture = african_romance
-        religion = punic_church
-        size = 2000
-    }
-
     farmers = {
         culture = african_romance
         religion = punic_church
-        size = 50100
+        size = 230100
     }
-	
+
     aristocrats = {
         culture = punic
         religion = punic_church
@@ -81,37 +63,13 @@
     artisans = {
         culture = punic
         religion = punic_church
-        size = 1500
-    }
-
-    artisans = {
-        culture = punic
-		religion = punic_church
-        size = 1000
+        size = 4500
     }
 
     farmers = {
         culture = punic
         religion = punic_church
-        size = 10000
-    }
-
-    artisans = {
-        culture = punic
-        religion = punic_church
-        size = 2000
-    }
-
-    farmers = {
-        culture = punic
-        religion = punic_church
-        size = 17100
-    }
-
-    farmers = {
-        culture = punic
-        religion = punic_church
-        size = 5000
+        size = 32100
     }
 
     clergymen = {
@@ -132,29 +90,12 @@
         size = 500
     }
 
-	farmers = {
-		culture = african_romance
-		religion = punic_church
-		size = 100000
-	}
-
-	farmers = {
-		culture = african_romance
-		religion = punic_church
-		size = 55000
-	}
-
 	craftsmen = {
 		culture = african_romance
 		religion = punic_church
 		size = 55000
 	}
 
-	artisans = {
-		culture = african_romance
-		religion = punic_church
-		size = 17500
-	}
 }
 
 #Bizerte (268000/67000 POPS)
@@ -169,19 +110,19 @@
     artisans = {
         culture = african_romance
         religion = punic_church
-        size = 2600
+        size = 97600
     }
 
     farmers = {
         culture = african_romance
         religion = punic_church
-        size = 36860
+        size = 106860
     }
 
     farmers = {
         culture = punic
         religion = punic_church
-        size = 10000
+        size = 23715
     }
 
     slaves = {
@@ -201,117 +142,12 @@
         size = 650
     }
 
-    farmers = {
-        culture = punic
-        religion = punic_church
-        size = 4715
-    }
-
-    farmers = {
-        culture = punic
-        religion = punic_church
-        size = 9000
-    }
-
     bureaucrats = {
         culture = punic
         religion = punic_church
         size = 350
     }
 
-	farmers = {
-		culture = african_romance
-		religion = punic_church
-		size = 30000
-	}
-
-	artisans = {
-		culture = african_romance
-		religion = punic_church
-		size = 10000
-	}
-
-	artisans = {
-		culture = african_romance
-		religion = punic_church
-		size = 10000
-	}
-	artisans = {
-		culture = african_romance
-		religion = punic_church
-		size = 7000
-	}
-
-	artisans = {
-		culture = african_romance
-		religion = punic_church
-		size = 7000
-	}
-
-	artisans = {
-		culture = african_romance
-		religion = punic_church
-		size = 7000
-	}
-
-	artisans = {
-		culture = african_romance
-		religion = punic_church
-		size = 7000
-	}
-
-	artisans = {
-		culture = african_romance
-		religion = punic_church
-		size = 5000
-	}
-
-	artisans = {
-		culture = african_romance
-		religion = punic_church
-		size = 7000
-	}
-
-	farmers = {
-		culture = african_romance
-		religion = punic_church
-		size = 10000
-	}
-	artisans = {
-		culture = african_romance
-		religion = punic_church
-		size = 7000
-	}
-
-	artisans = {
-		culture = african_romance
-		religion = punic_church
-		size = 7000
-	}
-
-	artisans = {
-		culture = african_romance
-		religion = punic_church
-		size = 7000
-	}
-
-	artisans = {
-		culture = african_romance
-		religion = punic_church
-		size = 7000
-	}
-
-	artisans = {
-		culture = african_romance
-		religion = punic_church
-		size = 7000
-	}
-
-	farmers = {
-		culture = african_romance
-		religion = punic_church
-		size = 30000
-	}
 }
 
 #Berneza
@@ -366,38 +202,20 @@
     artisans = {
         culture = punic
         religion = punic_church
-        size = 150
-    }
-
-    artisans = {
-        culture = punic
-		religion = punic_church
-        size = 100
+        size = 10250
     }
 
 
     farmers = {
         culture = african_romance
         religion = punic_church
-        size = 6000
-    }
-
-    artisans = {
-        culture = punic
-        religion = punic_church
-        size = 10000
+        size = 92000
     }
 
     farmers = {
         culture = punic
         religion = punic_church
         size = 92100
-    }
-
-    farmers = {
-        culture = african_romance
-        religion = punic_church
-        size = 1000
     }
 
     clergymen = {
@@ -417,12 +235,6 @@
         religion = jewish
         size = 500
     }
-
-	farmers = {
-		culture = african_romance
-		religion = punic_church
-		size = 85000
-	}
 
 	artisans = {
 		culture = african_romance
@@ -459,7 +271,7 @@
 	farmers = {
 		culture = african_romance
 		religion = punic_church
-		size = 22025
+		size = 58885
 	}
 
 	slaves = {
@@ -478,12 +290,6 @@
         culture = african_romance
         religion = punic_church
         size = 2600
-    }
-
-    farmers = {
-        culture = african_romance
-        religion = punic_church
-        size = 36860
     }
 
     farmers = {

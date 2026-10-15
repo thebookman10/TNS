@@ -5,87 +5,45 @@
 	aristocrats = {
 		culture = lithuanian
 		religion = catholic
-		size = 500
+		size = 950
 	}
 	
 	officers = {
 		culture = lithuanian
 		religion = catholic
-		size = 150
+		size = 400
 	}
 	
 	bureaucrats = {
 		culture = lithuanian
 		religion = catholic
-		size = 150
+		size = 375
 	}
 	
 	clergymen = {
-		culture = lithuanian
-		religion = catholic
-		size = 150
-	}
-
-	artisans = {
-		culture = lithuanian
-		religion = catholic
-		size = 2500
-	}
-
-	soldiers = {
-		culture = lithuanian
-		religion = catholic
-		size = 1100
-	}
-
-	farmers = {
-		culture = lithuanian
-		religion = catholic
-		size = 12400
-	}
-
-	aristocrats = {
-		culture = lithuanian
-		religion = catholic
-		size = 450
-	}
-
-	bureaucrats = {
-		culture = lithuanian
-		religion = catholic
-		size = 225
-	}
-
-	officers = {
 		culture = lithuanian
 		religion = catholic
 		size = 250
 	}
 
-	clergymen = {
-		culture = lithuanian
-		religion = catholic
-		size = 100
-	}
-
 	artisans = {
 		culture = lithuanian
 		religion = catholic
-		size = 3750
+		size = 6250
 	}
 
 	soldiers = {
 		culture = lithuanian
 		religion = catholic
-		size = 100
+		size = 1200
 	}
 
 	farmers = {
 		culture = lithuanian
 		religion = catholic
-		size = 4325
+		size = 16725
 	}
-	
+
 	aristocrats = {
 		culture = ashkenazi
 		religion = jewish
@@ -163,61 +121,31 @@
 	aristocrats = {
 		culture = lithuanian
 		religion = catholic
-		size = 950
+		size = 1200
 	}
 
 	clergymen = {
 		culture = lithuanian
 		religion = catholic
-		size = 400
+		size = 500
 	}
 
 	artisans = {
 		culture = lithuanian
 		religion = catholic
-		size = 1150
+		size = 1300
 	}
 
 	soldiers = {
 		culture = lithuanian
 		religion = catholic
-		size = 2100
+		size = 2200
 	}
 
 	farmers = {
 		culture = lithuanian
 		religion = catholic
-		size = 36500
-	}
-
-	aristocrats = {
-		culture = lithuanian
-		religion = catholic
-		size = 250
-	}
-
-	clergymen = {
-		culture = lithuanian
-		religion = catholic
-		size = 100
-	}
-
-	artisans = {
-		culture = lithuanian
-		religion = catholic
-		size = 150
-	}
-
-	soldiers = {
-		culture = lithuanian
-		religion = catholic
-		size = 100
-	}
-
-	farmers = {
-		culture = lithuanian
-		religion = catholic
-		size = 550
+		size = 37050
 	}
 
 	clergymen = {
@@ -273,55 +201,31 @@
 	clergymen = {
 		culture = lithuanian
 		religion = catholic
-		size = 250
+		size = 525
 	}
 
 	artisans = {
 		culture = lithuanian
 		religion = catholic
-		size = 1500
+		size = 2700
 	}
 
 	soldiers = {
 		culture = lithuanian
 		religion = catholic
-		size = 2250
+		size = 2550
 	}
 
 	farmers = {
 		culture = lithuanian
 		religion = catholic
-		size = 23000
+		size = 36225
 	}
 
 	aristocrats = {
 		culture = lithuanian
 		religion = catholic
 		size = 1950
-	}
-
-	clergymen = {
-		culture = lithuanian
-		religion = catholic
-		size = 275
-	}
-
-	artisans = {
-		culture = lithuanian
-		religion = catholic
-		size = 1200
-	}
-
-	soldiers = {
-		culture = lithuanian
-		religion = catholic
-		size = 300
-	}
-
-	farmers = {
-		culture = lithuanian
-		religion = catholic
-		size = 13225
 	}
 
 	clergymen = {

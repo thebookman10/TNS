@@ -127,7 +127,7 @@
 	farmers = {
 		culture = berber
 		religion = punic_church
-		size = 2650
+		size = 4450
 	}
 
 	aristocrats = {
@@ -154,12 +154,6 @@
 		size = 1120
 	}
 
-	farmers = {
-		culture = berber
-		religion = punic_church
-		size = 1800
-	}
-
 	slaves = {
 		culture = berber
 		religion = punic_church
@@ -172,55 +166,31 @@
 	aristocrats = {
 		culture = punic
 		religion = punic_church
-		size = 175
+		size = 300
 	}
 
 	clergymen = {
 		culture = punic
 		religion = punic_church
-		size = 100
+		size = 150
 	}
 
 	artisans = {
 		culture = punic
 		religion = punic_church
-		size = 500
+		size = 775
 	}
 
 	soldiers = {
 		culture = punic
 		religion = punic_church
-		size = 100
+		size = 1200
 	}
 
 	farmers = {
 		culture = berber
 		religion = punic_church
 		size = 10125
-	}
-
-	aristocrats = {
-		culture = punic
-		religion = punic_church
-		size = 125
-	}
-
-	clergymen = {
-		culture = punic
-		religion = punic_church
-		size = 50
-	}
-
-	artisans = {
-		culture = punic
-		religion = punic_church
-		size = 275
-	}
-
-	soldiers = {
-		culture = punic
-		religion = punic_church
-		size = 1100
 	}
 
 	farmers = {
@@ -710,63 +680,33 @@
 	aristocrats = {
 		culture = tuareg
 		religion = punic_church
-		size = 25
+		size = 40
 	}
 
 	clergymen = {
 		culture = tuareg
 		religion = punic_church
-		size = 50
+		size = 75
 	}
 
 	artisans = {
 		culture = tuareg
 		religion = punic_church
-		size = 150
+		size = 200
 	}
 	
 	soldiers = {
 		culture = tuareg
 		religion = punic_church
-		size = 1100
+		size = 1110
 	}
 
 	farmers = {
 		culture = tuareg
 		religion = punic_church
-		size = 1650
+		size = 2150
 	}
 
-	aristocrats = {
-		culture = tuareg
-		religion = punic_church
-		size = 15
-	}
-
-	clergymen = {
-		culture = tuareg
-		religion = punic_church
-		size = 25
-	}
-
-	artisans = {
-		culture = tuareg
-		religion = punic_church
-		size = 50
-	}
-
-	soldiers = {
-		culture = tuareg
-		religion = punic_church
-		size = 10
-	}
-
-	farmers = {
-		culture = tuareg
-		religion = punic_church
-		size = 500
-	}
-	
 	aristocrats = {
 		culture = teda
 		religion = punic_church
@@ -797,43 +737,25 @@
 	aristocrats = {
 		culture = tuareg
 		religion = punic_church
-		size = 25
+		size = 40
 	}
 
 	clergymen = {
 		culture = tuareg
 		religion = punic_church
-		size = 50
+		size = 75
 	}
 
 	artisans = {
 		culture = tuareg
 		religion = punic_church
-		size = 150
+		size = 200
 	}
 
 	farmers = {
 		culture = tuareg
 		religion = punic_church
-		size = 1650
-	}
-
-	aristocrats = {
-		culture = tuareg
-		religion = punic_church
-		size = 15
-	}
-
-	clergymen = {
-		culture = tuareg
-		religion = punic_church
-		size = 25
-	}
-
-	artisans = {
-		culture = tuareg
-		religion = punic_church
-		size = 50
+		size = 2150
 	}
 
 	soldiers = {
@@ -842,11 +764,6 @@
 		size = 10
 	}
 
-	farmers = {
-		culture = tuareg
-		religion = punic_church
-		size = 500
-	}
 }
 #Fezzan Region (70000)  
 #under the indirect rule of Ottoman Empire in 1836  
@@ -1011,14 +928,9 @@
 	farmers = {
 		culture = high_saxon
 		religion = punic_church
-		size = 40900
+		size = 41900
 	}
 
-	farmers = {
-		culture = high_saxon
-		religion = punic_church
-		size = 1000
-	}
 }
 3587 = {
 	aristocrats = {
@@ -1069,14 +981,9 @@
 	farmers = {
 		culture = berber
 		religion = punic_church
-		size = 2400
+		size = 6400
 	}
 
-	farmers = {
-		culture = berber
-		religion = punic_church
-		size = 4000
-	}
 }
 #Sabha (14000/3500 POPS)
 1742 = {

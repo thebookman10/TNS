@@ -284,62 +284,33 @@
 	aristocrats = {
 		culture = tai
 		religion = theravada
+		size = 275
+	}
+
+	clergymen = {
+		culture = tai
+		religion = theravada
 		size = 150
 	}
 
-	clergymen = {
-		culture = tai
-		religion = theravada
-		size = 75
-	}
-
 	artisans = {
 		culture = tai
 		religion = theravada
-		size = 400
+		size = 750
 	}
 
 	soldiers = {
 		culture = tai
 		religion = theravada
-		size = 75
+		size = 150
 	}
 
 	farmers = {
 		culture = tai
 		religion = theravada
-		size = 8300
+		size = 14675
 	}
 
-	aristocrats = {
-		culture = tai
-		religion = theravada
-		size = 125
-	}
-
-	clergymen = {
-		culture = tai
-		religion = theravada
-		size = 75
-	}
-
-	artisans = {
-		culture = tai
-		religion = theravada
-		size = 350
-	}
-
-	soldiers = {
-		culture = tai
-		religion = theravada
-		size = 75
-	}
-
-	farmers = {
-		culture = tai
-		religion = theravada
-		size = 6375
-	}
 }
 #Pakse (60000/15000 POPS)   
 1363 = {

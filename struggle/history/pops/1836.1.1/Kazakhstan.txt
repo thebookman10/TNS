@@ -11,25 +11,25 @@
 	clergymen = {
 		culture = kazak
 		religion = manichaeism
-		size = 15
+		size = 90
 	}
 
 	artisans = {
 		culture = kazak
 		religion = manichaeism
-		size = 35
+		size = 235
 	}
 
 	soldiers = {
 		culture = kazak
 		religion = manichaeism
-		size = 15
+		size = 40
 	}
 
 	farmers = {
 		culture = kazak
 		religion = manichaeism
-		size = 665
+		size = 4290
 	}
 
 	aristocrats = {
@@ -38,29 +38,6 @@
 		size = 75
 	}
 
-	clergymen = {
-		culture = kazak
-		religion = manichaeism
-		size = 75
-	}
-
-	artisans = {
-		culture = kazak
-		religion = manichaeism
-		size = 200
-	}
-
-	soldiers = {
-		culture = kazak
-		religion = manichaeism
-		size = 25
-	}
-
-	farmers = {
-		culture = kazak
-		religion = manichaeism
-		size = 3625
-	}
 }
 
 #tuzqala
@@ -74,25 +51,25 @@
 	clergymen = {
 		culture = chorasmian
 		religion = manichaeism
-		size = 15
+		size = 90
 	}
 
 	artisans = {
 		culture = chorasmian
 		religion = manichaeism
-		size = 35
+		size = 235
 	}
 
 	soldiers = {
 		culture = chorasmian
 		religion = manichaeism
-		size = 15
+		size = 40
 	}
 
 	farmers = {
 		culture = chorasmian
 		religion = manichaeism
-		size = 665
+		size = 4290
 	}
 
 	aristocrats = {
@@ -101,29 +78,6 @@
 		size = 75
 	}
 
-	clergymen = {
-		culture = chorasmian
-		religion = manichaeism
-		size = 75
-	}
-
-	artisans = {
-		culture = chorasmian
-		religion = manichaeism
-		size = 200
-	}
-
-	soldiers = {
-		culture = chorasmian
-		religion = manichaeism
-		size = 25
-	}
-
-	farmers = {
-		culture = chorasmian
-		religion = manichaeism
-		size = 3625
-	}
 }
 
 #Aqtobe (20000/5000 POPS)
@@ -163,25 +117,25 @@
 	clergymen = {
 		culture = tatar
 		religion = manichaeism
-		size = 30
+		size = 55
 	}
 
 	artisans = {
 		culture = tatar
 		religion = manichaeism
-		size = 45
+		size = 145
 	}
 
 	soldiers = {
 		culture = tatar
 		religion = manichaeism
-		size = 25
+		size = 50
 	}
 
 	farmers = {
 		culture = tatar
 		religion = manichaeism
-		size = 1150
+		size = 2975
 	}
 
 	aristocrats = {
@@ -190,29 +144,6 @@
 		size = 25
 	}
 
-	clergymen = {
-		culture = tatar
-		religion = manichaeism
-		size = 25
-	}
-
-	artisans = {
-		culture = tatar
-		religion = manichaeism
-		size = 100
-	}
-
-	soldiers = {
-		culture = tatar
-		religion = manichaeism
-		size = 25
-	}
-
-	farmers = {
-		culture = tatar
-		religion = manichaeism
-		size = 1825
-	}
 }
 #Turgay (20000/5000 POPS)
 2611 = {
@@ -291,25 +222,25 @@
 	clergymen = {
 		culture = kazak
 		religion = manichaeism
-		size = 75
+		size = 275
 	}
 
 	artisans = {
 		culture = kazak
 		religion = manichaeism
-		size = 150
+		size = 1250
 	}
 
 	soldiers = {
 		culture = kazak
 		religion = manichaeism
-		size = 25
+		size = 250
 	}
 
 	farmers = {
 		culture = kazak
 		religion = manichaeism
-		size = 2700
+		size = 21750
 	}
 
 	aristocrats = {
@@ -318,29 +249,6 @@
 		size = 425
 	}
 
-	clergymen = {
-		culture = kazak
-		religion = manichaeism
-		size = 200
-	}
-
-	artisans = {
-		culture = kazak
-		religion = manichaeism
-		size = 1100
-	}
-
-	soldiers = {
-		culture = kazak
-		religion = manichaeism
-		size = 225
-	}
-
-	farmers = {
-		culture = kazak
-		religion = manichaeism
-		size = 19050
-	}
 }
 #Yasi (80000/20000 POPS)
 1185 = {
@@ -475,14 +383,9 @@
 	farmers = {
 		culture = kazak
 		religion = manichaeism
-		size = 18250
+		size = 18750
 	}
 	
-	farmers = {
-		culture = kazak
-		religion = manichaeism
-		size = 500
-	}
 }
 #Qaratal (108000/27000 POPS)
 1188 = {

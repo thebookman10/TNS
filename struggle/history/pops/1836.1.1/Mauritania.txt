@@ -229,124 +229,66 @@
 	aristocrats = {
 		culture = maures
 		religion = punic_church
-		size = 100
+		size = 175
 	}
 
 	clergymen = {
 		culture = maures
 		religion = punic_church
-		size = 150
+		size = 250
 	}
 
 	artisans = {
 		culture = maures
 		religion = punic_church
-		size = 300
+		size = 500
 	}
 
 	soldiers = {
-		culture = maures
-		religion = punic_church
-		size = 50
-	}
-
-	farmers = {
-		culture = maures
-		religion = punic_church
-		size = 5400
-	}
-
-	aristocrats = {
-		culture = maures
-		religion = punic_church
-		size = 75
-	}
-
-	clergymen = {
 		culture = maures
 		religion = punic_church
 		size = 100
 	}
 
-	artisans = {
-		culture = maures
-		religion = punic_church
-		size = 200
-	}
-
-	soldiers = {
-		culture = maures
-		religion = punic_church
-		size = 50
-	}
-
 	farmers = {
 		culture = maures
 		religion = punic_church
-		size = 3675
+		size = 9075
 	}
+
 }
 #Wadane (28000/7000 POPS) 
 3566 = {
 	aristocrats = {
 		culture = maures
 		religion = punic_church
-		size = 100
+		size = 175
 	}
 
 	clergymen = {
 		culture = maures
 		religion = punic_church
-		size = 150
+		size = 250
 	}
 
 	artisans = {
 		culture = maures
 		religion = punic_church
-		size = 300
+		size = 500
 	}
 
 	soldiers = {
-		culture = maures
-		religion = punic_church
-		size = 50
-	}
-
-	farmers = {
-		culture = maures
-		religion = punic_church
-		size = 2400
-	}
-
-	aristocrats = {
-		culture = maures
-		religion = punic_church
-		size = 75
-	}
-
-	clergymen = {
 		culture = maures
 		religion = punic_church
 		size = 100
 	}
 
-	artisans = {
-		culture = maures
-		religion = punic_church
-		size = 200
-	}
-
-	soldiers = {
-		culture = maures
-		religion = punic_church
-		size = 50
-	}
-
 	farmers = {
 		culture = maures
 		religion = punic_church
-		size = 1675
+		size = 4075
 	}
+
 }
 #Twadenni (28000/7000 POPS) 
 3567 = {

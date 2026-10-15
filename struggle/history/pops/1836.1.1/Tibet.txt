@@ -1441,15 +1441,9 @@
 	aristocrats = {
 		culture = shan
 		religion = theravada
-		size = 200
+		size = 215
 	}
 	
-	aristocrats = {
-		culture = shan
-		religion = theravada
-		size = 15
-	}
-
 	clergymen = {
 		culture = shan
 		religion = theravada
@@ -1479,15 +1473,9 @@
 	aristocrats = {
 		culture = tai
 		religion = theravada
-		size = 200
+		size = 215
 	}
 	
-	aristocrats = {
-		culture = tai
-		religion = theravada
-		size = 15
-	}
-
 	clergymen = {
 		culture = tai
 		religion = theravada
@@ -1517,15 +1505,9 @@
 	aristocrats = {
 		culture = shan
 		religion = theravada
-		size = 200
+		size = 215
 	}
 	
-	aristocrats = {
-		culture = shan
-		religion = theravada
-		size = 15
-	}
-
 	clergymen = {
 		culture = shan
 		religion = theravada
@@ -1555,15 +1537,9 @@
 	aristocrats = {
 		culture = shan
 		religion = theravada
-		size = 200
+		size = 215
 	}
 	
-	aristocrats = {
-		culture = shan
-		religion = theravada
-		size = 15
-	}
-
 	clergymen = {
 		culture = shan
 		religion = theravada
@@ -1593,15 +1569,9 @@
 	aristocrats = {
 		culture = shan
 		religion = theravada
-		size = 200
+		size = 215
 	}
 	
-	aristocrats = {
-		culture = shan
-		religion = theravada
-		size = 15
-	}
-
 	clergymen = {
 		culture = shan
 		religion = theravada
@@ -1631,15 +1601,9 @@
 	aristocrats = {
 		culture = shan
 		religion = theravada
-		size = 200
+		size = 215
 	}
 	
-	aristocrats = {
-		culture = shan
-		religion = theravada
-		size = 15
-	}
-
 	clergymen = {
 		culture = shan
 		religion = theravada
@@ -1669,15 +1633,9 @@
 	aristocrats = {
 		culture = shan
 		religion = theravada
-		size = 200
+		size = 215
 	}
 	
-	aristocrats = {
-		culture = shan
-		religion = theravada
-		size = 15
-	}
-
 	clergymen = {
 		culture = shan
 		religion = theravada
@@ -1707,15 +1665,9 @@
 	aristocrats = {
 		culture = shan
 		religion = theravada
-		size = 200
+		size = 215
 	}
 	
-	aristocrats = {
-		culture = shan
-		religion = theravada
-		size = 15
-	}
-
 	clergymen = {
 		culture = shan
 		religion = theravada

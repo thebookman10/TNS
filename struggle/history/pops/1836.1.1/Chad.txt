@@ -128,31 +128,31 @@
 	aristocrats = {
 		culture = sara
 		religion = punic_church
-		size = 100
+		size = 700
 	}
 
 	clergymen = {
 		culture = sara
 		religion = punic_church
-		size = 100
+		size = 300
 	}
 
 	artisans = {
 		culture = sara
 		religion = punic_church
-		size = 400
+		size = 2400
 	}
 
 	soldiers = {
 		culture = sara
 		religion = punic_church
-		size = 500
+		size = 3500
 	}
 
 	farmers = {
 		culture = sara
 		religion = punic_church
-		size = 8000
+		size = 38566
 	}
 	
 	aristocrats = {
@@ -185,40 +185,10 @@
 		size = 11000
 	}
 
-	aristocrats = {
-		culture = sara
-		religion = punic_church
-		size = 600
-	}
-	
 	bureaucrats = {
 		culture = sara
 		religion = punic_church
 		size = 300
-	}
-
-	clergymen = {
-		culture = sara
-		religion = punic_church
-		size = 200
-	}
-
-	artisans = {
-		culture = sara
-		religion = punic_church
-		size = 2000
-	}
-
-	soldiers = {
-		culture = sara
-		religion = punic_church
-		size = 3000
-	}
-
-	farmers = {
-		culture = sara
-		religion = punic_church
-		size = 30566
 	}
 
 	slaves = {
@@ -238,7 +208,7 @@
 	aristocrats = {
 		culture = sara
 		religion = punic_church
-		size = 300
+		size = 425
 	}
 	
 	bureaucrats = {
@@ -250,7 +220,7 @@
 	clergymen = {
 		culture = sara
 		religion = punic_church
-		size = 200
+		size = 400
 	}
 
 	artisans = {
@@ -262,7 +232,7 @@
 	soldiers = {
 		culture = sara
 		religion = punic_church
-		size = 2000
+		size = 2500
 	}
 
 	farmers = {
@@ -271,28 +241,10 @@
 		size = 30000
 	}
 
-	aristocrats = {
-		culture = sara
-		religion = punic_church
-		size = 125
-	}
-
-	clergymen = {
-		culture = sara
-		religion = punic_church
-		size = 200
-	}
-
-	soldiers = {
-		culture = sara
-		religion = punic_church
-		size = 500
-	}
-
 	farmers = {
 		culture = bedouin
 		religion = punic_church
-		size = 1000
+		size = 4000
 	}
 	
 	aristocrats = {
@@ -311,12 +263,6 @@
 		culture = bedouin
 		religion = punic_church
 		size = 500
-	}
-
-	farmers = {
-		culture = bedouin
-		religion = punic_church
-		size = 3000
 	}
 
 	farmers = {

@@ -3,7 +3,7 @@
 	aristocrats = {
 		culture = assyrian
 		religion = manichaeism
-		size = 325
+		size = 1350
 	}
 
 	bureaucrats = {
@@ -15,258 +15,43 @@
 	officers = {
 		culture = assyrian
 		religion = manichaeism
-		size = 50
+		size = 550
 	}
 
 	clergymen = {
 		culture = assyrian
 		religion = manichaeism
-		size = 150
+		size = 850
 	}
 
 	artisans = {
 		culture = assyrian
 		religion = manichaeism
-		size = 650
+		size = 5500
 	}
 
 	soldiers = {
 		culture = assyrian
 		religion = manichaeism
-		size = 1100
+		size = 3950
 	}
 
 	farmers = {
 		culture = assyrian
 		religion = manichaeism
-		size = 12000
-	}
-
-	aristocrats = {
-		culture = assyrian
-		religion = manichaeism
-		size = 300
-	}
-	
-	officers = {
-		culture = assyrian
-		religion = manichaeism
-		size = 100
-	}
-
-	clergymen = {
-		culture = assyrian
-		religion = manichaeism
-		size = 100
-	}
-
-	artisans = {
-		culture = assyrian
-		religion = manichaeism
-		size = 1100
-	}
-
-	soldiers = {
-		culture = assyrian
-		religion = manichaeism
-		size = 1100
-	}
-
-	farmers = {
-		culture = assyrian
-		religion = manichaeism
-		size = 18150
-	}
-	
-	farmers = {
-		culture = assyrian
-		religion = manichaeism
-		size = 80000
-	}
-	
-	aristocrats = {
-		culture = assyrian
-		religion = manichaeism
-		size = 400
-	}
-	
-	officers = {
-		culture = assyrian
-		religion = manichaeism
-		size = 100
-	}
-
-	clergymen = {
-		culture = assyrian
-		religion = manichaeism
-		size = 100
-	}
-
-	artisans = {
-		culture = assyrian
-		religion = manichaeism
-		size = 1000
-	}
-
-	soldiers = {
-		culture = assyrian
-		religion = manichaeism
-		size = 1100
-	}
-
-	farmers = {
-		culture = assyrian
-		religion = manichaeism
-		size = 4000
-	}
-	
-	aristocrats = {
-		culture = assyrian
-		religion = manichaeism
-		size = 100
-	}
-	
-	officers = {
-		culture = assyrian
-		religion = manichaeism
-		size = 100
-	}
-	
-	soldiers = {
-		culture = assyrian
-		religion = manichaeism
-		size = 100
-	}
-
-	clergymen = {
-		culture = assyrian
-		religion = manichaeism
-		size = 100
-	}
-
-	artisans = {
-		culture = assyrian
-		religion = manichaeism
-		size = 1100
+		size = 208200
 	}
 
 	craftsmen = {
 		culture = assyrian
 		religion = manichaeism
-		size = 17325
+		size = 24550
 	}
 
 	craftsmen = {
 		culture = assyrian
 		religion = orthodox
 		size = 500
-	}
-	aristocrats = {
-		culture = assyrian
-		religion = manichaeism
-		size = 25
-	}
-
-	clergymen = {
-		culture = assyrian
-		religion = manichaeism
-		size = 200
-	}
-
-	artisans = {
-		culture = assyrian
-		religion = manichaeism
-		size = 200
-	}
-
-	soldiers = {
-		culture = assyrian
-		religion = manichaeism
-		size = 250
-	}
-
-	farmers = {
-		culture = assyrian
-		religion = manichaeism
-		size = 2000
-	}
-	
-	aristocrats = {
-		culture = assyrian
-		religion = manichaeism
-		size = 100
-	}
-	
-	officers = {
-		culture = assyrian
-		religion = manichaeism
-		size = 100
-	}
-	
-	soldiers = {
-		culture = assyrian
-		religion = manichaeism
-		size = 200
-	}
-
-	clergymen = {
-		culture = assyrian
-		religion = manichaeism
-		size = 100
-	}
-
-	artisans = {
-		culture = assyrian
-		religion = manichaeism
-		size = 1050
-	}
-
-	farmers = {
-		culture = assyrian
-		religion = manichaeism
-		size = 20450
-	}
-	
-	aristocrats = {
-		culture = assyrian
-		religion = manichaeism
-		size = 100
-	}
-	
-	officers = {
-		culture = assyrian
-		religion = manichaeism
-		size = 100
-	}
-	
-	soldiers = {
-		culture = assyrian
-		religion = manichaeism
-		size = 100
-	}
-
-	clergymen = {
-		culture = assyrian
-		religion = manichaeism
-		size = 100
-	}
-
-	artisans = {
-		culture = assyrian
-		religion = manichaeism
-		size = 400
-	}
-
-	craftsmen = {
-		culture = assyrian
-		religion = manichaeism
-		size = 7225
-	}
-
-	farmers = {
-		culture = assyrian
-		religion = manichaeism
-		size = 71600
 	}
 }
 #Tel Kepe
@@ -328,7 +113,7 @@
 	farmers = {
 		culture = kurdish
 		religion = manichaeism
-		size = 3375
+		size = 8900
 	}
 
 	artisans = {
@@ -373,77 +158,37 @@
 		size = 75
 	}
 
-	farmers = {
-		culture = kurdish
-		religion = manichaeism
-		size = 5525
-	}
 }
 #Tel Afer
 3807 = {
 	aristocrats = {
 		culture = assyrian
 		religion = manichaeism
-		size = 325
+		size = 1550
 	}
 
 	clergymen = {
 		culture = assyrian
 		religion = manichaeism
-		size = 175
+		size = 675
 	}
 
 	artisans = {
 		culture = assyrian
 		religion = manichaeism
-		size = 850
+		size = 4950
 	}
 
 	soldiers = {
 		culture = assyrian
 		religion = manichaeism
-		size = 175
+		size = 3650
 	}
 
 	farmers = {
 		culture = assyrian
 		religion = manichaeism
-		size = 15475
-	}
-
-	aristocrats = {
-		culture = assyrian
-		religion = manichaeism
-		size = 100
-	}
-
-	clergymen = {
-		culture = assyrian
-		religion = manichaeism
-		size = 50
-	}
-
-	artisans = {
-		culture = assyrian
-		religion = manichaeism
-		size = 250
-	}
-
-	soldiers = {
-		culture = assyrian
-		religion = manichaeism
-		size = 75
-	}
-
-	farmers = {
-		culture = assyrian
-		religion = manichaeism
-		size = 5525
-	}
-	aristocrats = {
-		culture = assyrian
-		religion = manichaeism
-		size = 325
+		size = 72475
 	}
 
 	bureaucrats = {
@@ -455,280 +200,53 @@
 	officers = {
 		culture = assyrian
 		religion = manichaeism
-		size = 50
+		size = 350
 	}
 
-	clergymen = {
-		culture = assyrian
-		religion = manichaeism
-		size = 150
-	}
-
-	artisans = {
-		culture = assyrian
-		religion = manichaeism
-		size = 650
-	}
-
-	soldiers = {
-		culture = assyrian
-		religion = manichaeism
-		size = 1100
-	}
-
-	farmers = {
-		culture = assyrian
-		religion = manichaeism
-		size = 12000
-	}
-
-	aristocrats = {
-		culture = assyrian
-		religion = manichaeism
-		size = 300
-	}
-	
-	officers = {
-		culture = assyrian
-		religion = manichaeism
-		size = 100
-	}
-
-	clergymen = {
-		culture = assyrian
-		religion = manichaeism
-		size = 100
-	}
-
-	artisans = {
-		culture = assyrian
-		religion = manichaeism
-		size = 1100
-	}
-
-	soldiers = {
-		culture = assyrian
-		religion = manichaeism
-		size = 1100
-	}
-
-	farmers = {
-		culture = assyrian
-		religion = manichaeism
-		size = 18150
-	}
-	
 	farmers = {
 		culture = assyrian
 		religion = syriac
 		size = 8000
 	}
-	aristocrats = {
-		culture = assyrian
-		religion = manichaeism
-		size = 400
-	}
-	
-	officers = {
-		culture = assyrian
-		religion = manichaeism
-		size = 100
-	}
-
-	clergymen = {
-		culture = assyrian
-		religion = manichaeism
-		size = 100
-	}
-
-	artisans = {
-		culture = assyrian
-		religion = manichaeism
-		size = 1000
-	}
-
-	soldiers = {
-		culture = assyrian
-		religion = manichaeism
-		size = 1100
-	}
-
-	farmers = {
-		culture = assyrian
-		religion = manichaeism
-		size = 4000
-	}
-	
-	aristocrats = {
-		culture = assyrian
-		religion = manichaeism
-		size = 100
-	}
-	
-	officers = {
-		culture = assyrian
-		religion = manichaeism
-		size = 100
-	}
-	
-	soldiers = {
-		culture = assyrian
-		religion = manichaeism
-		size = 100
-	}
-
-	clergymen = {
-		culture = assyrian
-		religion = manichaeism
-		size = 100
-	}
-
-	artisans = {
-		culture = assyrian
-		religion = manichaeism
-		size = 1100
-	}
-
-	farmers = {
-		culture = assyrian
-		religion = manichaeism
-		size = 17325
-	} 
 }
 #Hatra
 3808 = {
 	aristocrats = {
 		culture = assyrian
 		religion = manichaeism
-		size = 25
+		size = 875
 	}
 
 	clergymen = {
 		culture = assyrian
 		religion = manichaeism
-		size = 200
+		size = 500
 	}
 
 	artisans = {
 		culture = assyrian
 		religion = manichaeism
-		size = 200
+		size = 3400
 	}
 
 	soldiers = {
 		culture = assyrian
 		religion = manichaeism
-		size = 250
+		size = 1200
 	}
 
 	farmers = {
 		culture = assyrian
 		religion = manichaeism
-		size = 2000
-	}
-	
-	aristocrats = {
-		culture = assyrian
-		religion = manichaeism
-		size = 100
+		size = 29675
 	}
 	
 	officers = {
 		culture = assyrian
 		religion = manichaeism
-		size = 100
+		size = 300
 	}
 	
-	soldiers = {
-		culture = assyrian
-		religion = manichaeism
-		size = 200
-	}
-
-	clergymen = {
-		culture = assyrian
-		religion = manichaeism
-		size = 100
-	}
-
-	artisans = {
-		culture = assyrian
-		religion = manichaeism
-		size = 1050
-	}
-
-	farmers = {
-		culture = assyrian
-		religion = manichaeism
-		size = 20450
-	}
-	
-	aristocrats = {
-		culture = assyrian
-		religion = manichaeism
-		size = 100
-	}
-	
-	officers = {
-		culture = assyrian
-		religion = manichaeism
-		size = 100
-	}
-	
-	soldiers = {
-		culture = assyrian
-		religion = manichaeism
-		size = 100
-	}
-
-	clergymen = {
-		culture = assyrian
-		religion = manichaeism
-		size = 100
-	}
-
-	artisans = {
-		culture = assyrian
-		religion = manichaeism
-		size = 400
-	}
-
-	farmers = {
-		culture = assyrian
-		religion = manichaeism
-		size = 7225
-	}
-
-	aristocrats = {
-		culture = assyrian
-		religion = manichaeism
-		size = 650
-	}
-	
-	officers = {
-		culture = assyrian
-		religion = manichaeism
-		size = 100
-	}
-
-	clergymen = {
-		culture = assyrian
-		religion = manichaeism
-		size = 100
-	}
-
-	artisans = {
-		culture = assyrian
-		religion = manichaeism
-		size = 1750
-	}
-
-	soldiers = {
-		culture = assyrian
-		religion = manichaeism
-		size = 650
-	}
-
 	farmers = {
 		culture = assyrian
 		religion = syriac
@@ -740,78 +258,37 @@
 	aristocrats = {
 		culture = assyrian
 		religion = manichaeism
-		size = 100
+		size = 200
 	}
 	
 	officers = {
 		culture = assyrian
 		religion = manichaeism
-		size = 100
+		size = 200
 	}
 	
 	soldiers = {
+		culture = assyrian
+		religion = manichaeism
+		size = 300
+	}
+
+	clergymen = {
 		culture = assyrian
 		religion = manichaeism
 		size = 200
 	}
 
-	clergymen = {
-		culture = assyrian
-		religion = manichaeism
-		size = 100
-	}
-
 	artisans = {
 		culture = assyrian
 		religion = manichaeism
-		size = 1050
+		size = 1450
 	}
 
 	farmers = {
 		culture = assyrian
 		religion = manichaeism
-		size = 20450
+		size = 59275
 	}
 	
-	aristocrats = {
-		culture = assyrian
-		religion = manichaeism
-		size = 100
-	}
-	
-	officers = {
-		culture = assyrian
-		religion = manichaeism
-		size = 100
-	}
-	
-	soldiers = {
-		culture = assyrian
-		religion = manichaeism
-		size = 100
-	}
-
-	clergymen = {
-		culture = assyrian
-		religion = manichaeism
-		size = 100
-	}
-
-	artisans = {
-		culture = assyrian
-		religion = manichaeism
-		size = 400
-	}
-
-	farmers = {
-		culture = assyrian
-		religion = manichaeism
-		size = 7225
-	}
-
-	farmers = {
-		culture = assyrian
-		religion = manichaeism
-		size = 31600
-	}
 }

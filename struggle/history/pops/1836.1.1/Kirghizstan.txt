@@ -23,19 +23,7 @@
 	soldiers = {
 		culture = kirgiz
 		religion = manichaeism
-		size = 3000
-	}
-
-	soldiers = {
-		culture = kirgiz
-		religion = manichaeism
-		size = 3000
-	}
-
-	soldiers = {
-		culture = kirgiz
-		religion = manichaeism
-		size = 1000
+		size = 7000
 	}
 
 	farmers = {
@@ -215,7 +203,7 @@
 	artisans = {
 		culture = kirgiz
 		religion = manichaeism
-		size = 450
+		size = 1350
 	}
 
 	soldiers = {
@@ -242,22 +230,10 @@
 		size = 175
 	}
 
-	artisans = {
-		culture = kirgiz
-		religion = manichaeism
-		size = 900
-	}
-
 	soldiers = {
 		culture = sogdian
 		religion = manichaeism
-		size = 3000
-	}
-
-	soldiers = {
-		culture = sogdian
-		religion = manichaeism
-		size = 1000
+		size = 4000
 	}
 
 	farmers = {
@@ -320,13 +296,7 @@
 	soldiers = {
 		culture = kirgiz
 		religion = manichaeism
-		size = 3000
-	}
-
-	soldiers = {
-		culture = kirgiz
-		religion = manichaeism
-		size = 1000
+		size = 4000
 	}
 
 	farmers = {

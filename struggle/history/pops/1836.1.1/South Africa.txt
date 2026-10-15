@@ -56,7 +56,7 @@
 	aristocrats = {
 		culture = boer
 		religion = catholic
-		size = 80
+		size = 2180
 	}
 	
 	aristocrats = {
@@ -68,7 +68,7 @@
 	clergymen = {
 		culture = boer
 		religion = catholic
-		size = 500
+		size = 745
 	}
 	
 	clergymen = {
@@ -80,19 +80,19 @@
 	artisans = {
 		culture = boer
 		religion = catholic
-		size = 400
+		size = 1500
 	}
 
 	soldiers = {
 		culture = boer
 		religion = catholic
-		size = 1000
+		size = 2100
 	}
 
 	farmers = {
 		culture = boer
 		religion = catholic
-		size = 21250
+		size = 35395
 	}
 	
 	farmers = {
@@ -101,30 +101,12 @@
 		size = 4250
 	}
 
-	aristocrats = {
-		culture = boer
-		religion = catholic
-		size = 2100
-	}
-
-	clergymen = {
-		culture = boer
-		religion = catholic
-		size = 245
-	}
-
 	bureaucrats = {
 		culture = boer
 		religion = catholic
 		size = 50
 	}
 
-	artisans = {
-		culture = boer
-		religion = catholic
-		size = 1100
-	}
-	
 	officers = {
 		culture = norse
 		religion = catholic
@@ -135,18 +117,6 @@
 		culture = boer
 		religion = catholic
 		size = 100
-	}
-
-	soldiers = {
-		culture = boer
-		religion = catholic
-		size = 1100
-	}
-
-	farmers = {
-		culture = boer
-		religion = catholic
-		size = 14145
 	}
 
 	
@@ -191,7 +161,7 @@
 	artisans = {
 		culture = griqua
 		religion = catholic
-		size = 250
+		size = 1400
 	}
 
 	farmers = {
@@ -216,12 +186,6 @@
 		culture = khoisan
 		religion = animist
 		size = 150
-	}
-
-	artisans = {
-		culture = griqua
-		religion = catholic
-		size = 1150
 	}
 
 	farmers = {
@@ -263,7 +227,7 @@
 	farmers = {
 		culture = boer
 		religion = catholic
-		size = 23825
+		size = 24085
 	}
 
 	aristocrats = {
@@ -284,11 +248,6 @@
 		size = 9800
 	}
 
-	farmers = {
-		culture = boer
-		religion = catholic
-		size = 260
-	}
 }
 #Swettenham (69700/17425 POPS)
 2090 = {
@@ -337,7 +296,7 @@
 	bureaucrats = {
 		culture = boer
 		religion = catholic
-		size = 30
+		size = 60
 	}
 	
 	soldiers = {
@@ -349,7 +308,7 @@
 	clergymen = {
 		culture = boer
 		religion = catholic
-		size = 650
+		size = 715
 	}
 	
 	clergymen = {
@@ -367,27 +326,9 @@
 	farmers = {
 		culture = boer
 		religion = catholic
-		size = 4425
+		size = 39110
 	}
 	
-	bureaucrats = {
-		culture = boer
-		religion = catholic
-		size = 30
-	}
-
-	clergymen = {
-		culture = boer
-		religion = catholic
-		size = 65
-	}
-
-	farmers = {
-		culture = boer
-		religion = catholic
-		size = 25425
-	}
-
 	clergymen = {
 		culture = khoisan
 		religion = animist
@@ -406,11 +347,6 @@
 		size = 14675
 	}
 
-	farmers = {
-		culture = boer
-		religion = catholic
-		size = 9260
-	}
 }
 #Mossel Bay (34700/8675 POPS)
 2091 = {
@@ -423,7 +359,7 @@
 	soldiers = {
 		culture = boer
 		religion = catholic
-		size = 1100
+		size = 5200
 	}
 
 	artisans = {
@@ -435,15 +371,9 @@
 	farmers = {
 		culture = boer
 		religion = catholic
-		size = 42775
+		size = 44275
 	}
 
-	farmers = {
-		culture = boer
-		religion = catholic
-		size = 1500
-	}
-	
 	farmers = {
 		culture = griqua
 		religion = catholic
@@ -487,12 +417,6 @@
 		size = 100
 	}
 	
-	soldiers = {
-		culture = boer
-		religion = catholic
-		size = 4100
-	}
-
 	farmers = {
 		culture = khoisan
 		religion = catholic
@@ -573,19 +497,19 @@
 	aristocrats = {
 		culture = boer
 		religion = catholic
-		size = 210
+		size = 215
 	}
 
 	bureaucrats = {
 		culture = boer
 		religion = catholic
-		size = 440
+		size = 460
 	}
 
 	clergymen = {
 		culture = boer
 		religion = catholic
-		size = 555
+		size = 580
 	}
 
 	artisans = {
@@ -603,37 +527,13 @@
 	farmers = {
 		culture = boer
 		religion = catholic
-		size = 22450
+		size = 22600
 	}
 	
 	farmers = {
 		culture = griqua
 		religion = catholic
 		size = 650
-	}
-
-	aristocrats = {
-		culture = boer
-		religion = catholic
-		size = 5
-	}
-
-	bureaucrats = {
-		culture = boer
-		religion = catholic
-		size = 20
-	}
-
-	clergymen = {
-		culture = boer
-		religion = catholic
-		size = 25
-	}
-
-	farmers = {
-		culture = boer
-		religion = catholic
-		size = 150
 	}
 
 	clergymen = {
@@ -919,37 +819,31 @@
 	aristocrats = {
 		culture = boer
 		religion = catholic
-		size = 100
+		size = 225
 	}
 
 	artisans = {
 		culture = boer
 		religion = catholic
-		size = 250
+		size = 650
 	}
 	
 	clergymen = {
 		culture = boer
 		religion = catholic
-		size = 100
+		size = 200
 	}
 
 	soldiers = {
 		culture = boer
 		religion = catholic
-		size = 2100
+		size = 2500
 	}
 
 	farmers = {
 		culture = boer
 		religion = catholic
-		size = 1450
-	}
-
-	aristocrats = {
-		culture = boer
-		religion = catholic
-		size = 125
+		size = 4450
 	}
 
 	bureaucrats = {
@@ -958,30 +852,6 @@
 		size = 50
 	}
 
-	clergymen = {
-		culture = boer
-		religion = catholic
-		size = 100
-	}
-
-	artisans = {
-		culture = boer
-		religion = catholic
-		size = 400
-	}
-
-	soldiers = {
-		culture = boer
-		religion = catholic
-		size = 400
-	}
-
-	farmers = {
-		culture = boer
-		religion = catholic
-		size = 3000
-	}
-	
 	clergymen = {
 		culture = griqua
 		religion = catholic
@@ -1058,7 +928,7 @@
 	soldiers = {
 		culture = nguni
 		religion = animist
-		size = 100
+		size = 200
 	}
 
 	farmers = {
@@ -1097,11 +967,6 @@
 		size = 4900
 	}
 
-	soldiers = {
-		culture = nguni
-		religion = animist
-		size = 100
-	}
 }
 #Graaf Reinet (36000/9000 POPS)
 2097 = {
@@ -1109,25 +974,25 @@
 	artisans = {
 		culture = boer
 		religion = catholic
-		size = 160
+		size = 660
 	}
 	
 	clergymen = {
 		culture = boer
 		religion = catholic
-		size = 100
+		size = 200
 	}
 	
 	soldiers = {
 		culture = boer
 		religion = catholic
-		size = 2100
+		size = 2200
 	}
 
 	farmers = {
 		culture = boer
 		religion = catholic
-		size = 6825
+		size = 9075
 	}
 
 	farmers = {
@@ -1154,34 +1019,10 @@
 		size = 75
 	}
 
-	clergymen = {
-		culture = boer
-		religion = catholic
-		size = 100
-	}
-	
-	soldiers = {
-		culture = boer
-		religion = catholic
-		size = 100
-	}
-
-	artisans = {
-		culture = boer
-		religion = catholic
-		size = 500
-	}
-
 	officers = {
 		culture = boer
 		religion = catholic
 		size = 30
-	}
-
-	farmers = {
-		culture = boer
-		religion = catholic
-		size = 2250
 	}
 
 	aristocrats = {
@@ -2226,13 +2067,13 @@
 	clergymen = {
 		culture = boer
 		religion = catholic
-		size = 100
+		size = 110
 	}
 
 	artisans = {
 		culture = boer
 		religion = catholic
-		size = 100
+		size = 150
 	}
 
 	soldiers = {
@@ -2244,27 +2085,9 @@
 	farmers = {
 		culture = boer
 		religion = catholic
-		size = 420
+		size = 670
 	}
 	
-	clergymen = {
-		culture = boer
-		religion = catholic
-		size = 10
-	}
-
-	artisans = {
-		culture = boer
-		religion = catholic
-		size = 50
-	}
-
-	farmers = {
-		culture = boer
-		religion = catholic
-		size = 250
-	}
-
 	aristocrats = {
 		culture = boer
 		religion = catholic
@@ -2403,19 +2226,7 @@
 	soldiers = {
 		culture = zulu
 		religion = animist
-		size = 3000
-	}
-
-	soldiers = {
-		culture = zulu
-		religion = animist
-		size = 3000
-	}
-
-	soldiers = {
-		culture = zulu
-		religion = animist
-		size = 1000
+		size = 7000
 	}
 
 	slaves = {
@@ -2508,37 +2319,7 @@
 	soldiers = {
 		culture = zulu
 		religion = animist
-		size = 3000
-	}
-
-	soldiers = {
-		culture = zulu
-		religion = animist
-		size = 3000
-	}
-
-	soldiers = {
-		culture = zulu
-		religion = animist
-		size = 3000
-	}
-
-	soldiers = {
-		culture = zulu
-		religion = animist
-		size = 3000
-	}
-
-	soldiers = {
-		culture = zulu
-		religion = animist
-		size = 3000
-	}
-
-	soldiers = {
-		culture = zulu
-		religion = animist
-		size = 1000
+		size = 16000
 	}
 
 	farmers = {
