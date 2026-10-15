@@ -112,6 +112,7 @@ nonstate_consciousness = 0
 	puddling = 1
 	hot_blast = 1
 	bessemer_process = 1
+	bessemer_steel = yes
 	experimental_railroad = 1
 	early_railroad = 1
 	iron_railroad = 1
