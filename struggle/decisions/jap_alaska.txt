@@ -13,7 +13,6 @@ political_decisions = {
 		}
 
 		effect = {
-#			JAP = { country_event = 32511 }
 			set_country_flag = japan_alaska
 			}
 		ai_will_do = { factor = 1 }

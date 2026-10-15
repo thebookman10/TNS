@@ -43,7 +43,6 @@ political_decisions = {
 			set_country_flag = zanzibar_sale
 			2045 = { 
 				owner = { 
-#					country_event = 97008
 				}
 			}
 		}
@@ -109,7 +108,6 @@ political_decisions = {
 			set_country_flag = mombasa_sale
 			2032 = { 
 				owner = { 
-#					country_event = 97009
 				}
 			}
 		}
