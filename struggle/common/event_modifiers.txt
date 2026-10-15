@@ -718,9 +718,6 @@ panama_canal_construction = {
 	icon = 11
 }
 
-eiffel_tower_construction = {
-	icon = 11
-}
 
 bigben_construction = {
 	icon = 11
@@ -1726,10 +1723,6 @@ the_french_foreign_legion = {
 	icon = 15
 }
 
-the_eiffel_tower = {
-	prestige = 0.05
-	icon = 7
-}
 
 rhine_crisis = {
 	icon = 6

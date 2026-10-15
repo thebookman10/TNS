@@ -204,39 +204,6 @@ political_decisions = {
 		}
 	}
 	
-	build_the_eiffel_tower = {
-		picture = build_the_eiffel_tower
-		potential = {
-			primary_culture = french
-			is_greater_power = yes
-			capital = 425
-			NOT = {
-				has_country_flag = the_eiffel_tower_was_built
-			}
-			
-			OR = {
-				has_country_flag = world_fair_planner
-				year = 1887
-			}
-		}
-		
-		allow = {
-			war = no
-			bessemer_process = 1
-			OR = {
-				money = 30000
-				ai = yes
-			}
-		}
-		
-		effect = {
-#			country_event = 37236
-			FRA = { set_country_flag = the_eiffel_tower_was_built }
-			BOR = { set_country_flag = the_eiffel_tower_was_built }
-		}
-		
-		ai_will_do = { factor = 1 }
-	}
 	
 	haussmanns_renovations = {
 		picture = haussmanns_renovations
