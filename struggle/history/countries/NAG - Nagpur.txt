@@ -1,4 +1,4 @@
-capital = 1277
+capital = 1302
 primary_culture = marathi
 religion = hindu
 government = absolute_monarchy

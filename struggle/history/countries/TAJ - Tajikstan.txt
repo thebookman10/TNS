@@ -1,4 +1,4 @@
-capital = 1208
+capital = 3342
 primary_culture = khorasani_persian
 culture = aryao
 culture = sogdian

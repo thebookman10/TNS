@@ -1,4 +1,4 @@
-capital = 1047
+capital = 1025
 primary_culture = russian
 religion = orthodox
 government = absolute_monarchy

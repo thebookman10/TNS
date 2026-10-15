@@ -1,4 +1,4 @@
-capital = 1346
+capital = 1603
 primary_culture = thai
 religion = theravada
 government = absolute_monarchy

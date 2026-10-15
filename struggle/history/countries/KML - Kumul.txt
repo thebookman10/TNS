@@ -1,4 +1,4 @@
-capital = 1599
+capital = 1600
 primary_culture = uighur
 religion = sunni
 government = absolute_monarchy

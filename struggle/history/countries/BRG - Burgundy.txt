@@ -1,4 +1,4 @@
-capital = 451
+capital = 720
 primary_culture = north_italian
 culture = arpitan
 religion = catholic

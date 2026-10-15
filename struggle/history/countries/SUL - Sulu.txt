@@ -1,4 +1,4 @@
-capital = 1464
+capital = 1396
 primary_culture = malay
 culture = filipino
 religion = sunni

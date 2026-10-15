@@ -1,4 +1,4 @@
-capital = 343
+capital = 346
 primary_culture = finnish
 culture = swedish
 culture = sami

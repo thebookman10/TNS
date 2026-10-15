@@ -1,4 +1,4 @@
-capital = 1868
+capital = 1864
 primary_culture = somali
 culture = cushitic
 religion = sunni

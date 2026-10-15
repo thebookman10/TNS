@@ -1,4 +1,4 @@
-capital = 2476
+capital = 2497
 primary_culture = Hojese
 religion = catholic
 government = presidential_dictatorship

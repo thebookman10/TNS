@@ -1,4 +1,4 @@
-capital = 1594
+capital = 1488
 primary_culture = uighur
 culture = khotani
 religion = manichaeism

@@ -1,4 +1,4 @@
-capital = 139
+capital = 526
 primary_culture = visigothic
 religion = catholic
 government = hms_government

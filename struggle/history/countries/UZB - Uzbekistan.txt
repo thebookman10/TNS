@@ -1,4 +1,4 @@
-capital = 1195
+capital = 1192
 primary_culture = uzbek
 religion = sunni
 government = absolute_monarchy

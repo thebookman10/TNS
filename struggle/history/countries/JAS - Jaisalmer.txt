@@ -1,4 +1,4 @@
-capital = 1265
+capital = 1275
 primary_culture = rajput
 religion = hindu
 government = absolute_monarchy

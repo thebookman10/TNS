@@ -1,4 +1,4 @@
-capital = 718
+capital = 999
 primary_culture = byelorussian
 religion = orthodox
 government = colonial_company

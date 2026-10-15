@@ -1,4 +1,4 @@
-capital = 1025
+capital = 1032
 primary_culture = russian
 religion = orthodox
 government = democracy

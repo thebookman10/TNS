@@ -1,4 +1,4 @@
-capital = 1901
+capital = 1904
 primary_culture = mossi
 culture = gur
 culture = mande

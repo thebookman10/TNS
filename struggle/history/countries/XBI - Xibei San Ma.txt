@@ -1,4 +1,4 @@
-capital = 3688
+capital = 1556
 primary_culture = amdo
 culture = kham
 religion = gelugpa

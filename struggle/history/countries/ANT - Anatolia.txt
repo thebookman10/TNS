@@ -1,4 +1,4 @@
-capital = 873
+capital = 3494
 primary_culture = south_hungarian
 religion = manichaeism
 government = absolute_monarchy

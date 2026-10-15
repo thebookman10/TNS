@@ -1,4 +1,4 @@
-capital = 2463
+capital = 2344
 primary_culture = new_punic
 culture = new_roman
 religion = punic_church

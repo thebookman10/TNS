@@ -1,4 +1,4 @@
-capital = 2087
+capital = 2089
 primary_culture = boer
 culture = norse
 religion = protestant

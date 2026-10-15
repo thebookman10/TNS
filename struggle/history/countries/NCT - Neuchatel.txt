@@ -1,4 +1,4 @@
-capital = 3628
+capital = 605
 primary_culture = romansh
 religion = catholic
 government = hms_government

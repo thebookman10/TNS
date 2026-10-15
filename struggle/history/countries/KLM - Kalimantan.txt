@@ -1,4 +1,4 @@
-capital = 1423
+capital = 3350
 primary_culture = malay
 culture = asian_minor
 religion = sunni

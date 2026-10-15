@@ -1,4 +1,4 @@
-capital = 986
+capital = 3544
 primary_culture = khanty
 culture = mansi
 religion = animist

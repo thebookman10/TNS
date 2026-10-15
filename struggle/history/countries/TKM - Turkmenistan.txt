@@ -1,4 +1,4 @@
-capital = 1204
+capital = 3445
 primary_culture = parthian
 religion = manichaeism
 government = colonial_company
