@@ -512,7 +512,7 @@ country_event = {
 					}
 				}
 			}
-		cheap_steel = 1
+		invention = bessemer_steel
 	}
 	
 	major = yes
