@@ -78,7 +78,6 @@ political_decisions = {
 				government = absolute_monarchy
 				government = presidential_dictatorship
 				government = bourgeois_dictatorship
-				government = french_bourbon
 			}
 			OR = {
 				###British Puppets###

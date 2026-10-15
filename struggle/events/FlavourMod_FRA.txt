@@ -267,7 +267,7 @@ country_event = {
 	
 	trigger = {
 		tag = FRA
-		government = french_bourbon
+		government = absolute_monarchy
 		civilized = yes	
 		vote_franschise = none_voting
 	}
