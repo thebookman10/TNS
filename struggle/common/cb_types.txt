@@ -282,14 +282,12 @@ take_capital = {
 		NOT = {
 			OR = {
 				tag = JAN
-				tag = GHO
 			}
 		}
 		THIS = {
 			NOT = {
 				OR = {
 					tag = JAN
-					tag = GHO
 				}
 			}
 		}
@@ -927,7 +925,6 @@ restore_america = {
 			OR = {
 				is_core = USA
 				is_core = CSA
-				is_core = FSA
 			}
 		}
 		NOT = { in_sphere = THIS }
@@ -942,7 +939,6 @@ restore_america = {
 			OR = {
 				is_core = USA
 				is_core = CSA
-				is_core = FSA
 			}
 		}
 	}
