@@ -2,12 +2,12 @@ political_decisions = {
 	eng_ai_annex_egypt = {
 		picture = "suezcanal"
 		potential = { 
+			is_greater_power = yes 
+			owns = 1755 
+			exists = EGY 
+			has_global_flag = berlin_conference 
+			NOT = { has_country_flag = ai_annex_egypt } 
 			capital_scope = { continent = europe }
-			is_greater_power = yes
-			owns = 1755
-			exists = EGY
-			has_global_flag = berlin_conference
-			NOT = { has_country_flag = ai_annex_egypt }
 		}
 
 		allow = {
@@ -57,13 +57,15 @@ political_decisions = {
 	form_kingdom_of_egypt = {
 		picture = "egyptian_constitution"
 		potential = {
-			capital_scope = { continent = europe }
 			NOT = { tag = TUR }
 			is_greater_power = yes
 			OR = {
 				government = prussian_constitutionalism
 				government = hms_government
 			}
+			year = 1900
+			NOT = { has_global_flag = form_kingdom_of_egypt }
+			capital_scope = { continent = europe }
 			OR = {
 				EGY = {
 					all_core = {
@@ -72,8 +74,6 @@ political_decisions = {
 				}
 				EGY = { vassal_of = THIS }
 			}
-			year = 1900
-			NOT = { has_global_flag = form_kingdom_of_egypt }
 		}
 		
 		allow = {

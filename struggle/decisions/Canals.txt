@@ -42,9 +42,9 @@ political_decisions = {
 		
 		picture = suezcanal
 		potential = {
-			NOT = { is_canal_enabled = 2 }
 			NOT = { has_global_flag = suez_canal_built }
 			is_greater_power = yes
+			NOT = { is_canal_enabled = 2 }
 			interchangeable_parts = 1
 			OR = {
 				1755 = { owner = { in_sphere = THIS } }
@@ -97,23 +97,9 @@ political_decisions = {
 	found_suez_canal_company = {
 		picture = suezcanalcompany
 		potential = {
-			NOT = { is_canal_enabled = 2 }
 			NOT = { has_global_flag = suez_canal_built }
 			NOT = { has_global_flag = suez_canal_company_founded }
 			is_greater_power = yes
-			interchangeable_parts = 1
-			1755 = {
-				owner = {
-					OR = {
-						part_of_sphere = no 
-						in_sphere = THIS
-						AND = {
-							in_sphere = TUR
-							TUR = { ai = yes }
-						}
-					}
-				}
-			}
 			OR = {
 				AND = {
 					primary_culture = french
@@ -126,6 +112,20 @@ political_decisions = {
 				AND = {
 					is_greater_power = yes
 					ai = no
+				}
+			}
+			NOT = { is_canal_enabled = 2 }
+			interchangeable_parts = 1
+			1755 = {
+				owner = {
+					OR = {
+						part_of_sphere = no 
+						in_sphere = THIS
+						AND = {
+							in_sphere = TUR
+							TUR = { ai = yes }
+						}
+					}
 				}
 			}
 		}
@@ -164,9 +164,11 @@ political_decisions = {
 		picture = suezcanalcompany
 		
 		potential = {
-			is_canal_enabled = 2
 			NOT = { owns = 1755 }
 			is_greater_power = yes
+			NOT = { has_country_modifier = in_bankrupcy }
+			NOT = { has_global_flag = seized_suez_canal }
+			is_canal_enabled = 2
 			1755 = {
 				OR = {
 					owner = { in_default = THIS } 
@@ -177,8 +179,6 @@ political_decisions = {
 				}
 			}
 			any_owned_province = { has_building = naval_base }
-			NOT = { has_country_modifier = in_bankrupcy }
-			NOT = { has_global_flag = seized_suez_canal }
 		}
 		
 		allow = {
@@ -270,12 +270,12 @@ political_decisions = {
 		picture = build_panama_canal
 		
 		potential = {
-			is_canal_enabled = 3
 			NOT = { owns = 1723 }
 			is_greater_power = yes
+			NOT = { has_country_modifier = in_bankrupcy }
+			is_canal_enabled = 3
 			1723 = { owner = { in_default = THIS } }
 			any_owned_province = { has_building = naval_base }
-			NOT = { has_country_modifier = in_bankrupcy }
 		}
 		
 		allow = {

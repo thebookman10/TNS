@@ -135,11 +135,11 @@ potential = {
 		picture = form_south_africa
 		alert = no
 		potential = {
+			NOT = { has_global_flag = south_africa_formed }
+			civilized = yes
 			any_owned_province = { is_core = SAF }
 			SAF = { exists = no }
-			NOT = { has_global_flag = south_africa_formed }
 			NOT = { capital_scope = { continent = africa } }
-			civilized = yes
 			revolution_n_counterrevolution = 1
 		}
 		

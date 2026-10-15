@@ -432,16 +432,16 @@ political_decisions = {
 	make_transcaucasia_sunni = {
 		picture = form_transcaucasia
 		potential = {
+			OR = {
+					has_country_flag = sunni_country
+					has_country_flag = ibadi_country
+				}
 			TCA = {
 				NOT = { has_country_flag = sunni_country } 
 				owns = 1102
 				exists = yes 
 			}
-				is_our_vassal = TCA
-				OR = {
-					has_country_flag = sunni_country
-					has_country_flag = ibadi_country
-				}
+			is_our_vassal = TCA
 			}
 
 		allow = {
@@ -470,13 +470,13 @@ political_decisions = {
 	make_transcaucasia_shiite = {
 		picture = form_transcaucasia
 		potential = {
+			has_country_flag = shiite_country
 			TCA = {
 				NOT = { has_country_flag = shiite_country } 
 				owns = 1102
 				exists = yes
 			}
 			is_our_vassal = TCA
-			has_country_flag = shiite_country
 		}
 
 		allow = {
@@ -505,12 +505,6 @@ political_decisions = {
 	make_transcaucasia_orthodox = {
 		picture = form_transcaucasia
 		potential = {
-			TCA = {
-				NOT = { has_country_flag = orthodox_country } 
-				owns = 1090
-				exists = yes
-			}
-			is_our_vassal = TCA
 			OR = {
 				has_country_flag = catholic_country
 				has_country_flag = protestant_country
@@ -518,6 +512,12 @@ political_decisions = {
 				has_country_flag = orthodox_country
 				has_country_flag = coptic_country
 			}
+			TCA = {
+				NOT = { has_country_flag = orthodox_country } 
+				owns = 1090
+				exists = yes
+			}
+			is_our_vassal = TCA
 		}
 
 		allow = {
@@ -546,6 +546,13 @@ political_decisions = {
 	make_abkhazia_orthodox = {
 		picture = form_transcaucasia
 		potential = {
+			OR = {
+				has_country_flag = catholic_country
+				has_country_flag = protestant_country
+				has_country_flag = mormon_country
+				has_country_flag = orthodox_country
+				has_country_flag = coptic_country
+			}
 			ABK = { 
 				NOT = { has_country_flag = orthodox_country }
 				exists = yes
@@ -553,13 +560,6 @@ political_decisions = {
 			OR = {
 				is_our_vassal = ABK
 				ABK = { in_sphere = THIS }
-			}
-			OR = {
-				has_country_flag = catholic_country
-				has_country_flag = protestant_country
-				has_country_flag = mormon_country
-				has_country_flag = orthodox_country
-				has_country_flag = coptic_country
 			}
 		}
 
@@ -584,6 +584,7 @@ political_decisions = {
 	make_abkhazia_sunni = {
 		picture = form_transcaucasia
 		potential = {
+			has_country_flag = sunni_country
 			ABK = {
 				NOT = { has_country_flag = sunni_country }
 				exists = yes
@@ -592,7 +593,6 @@ political_decisions = {
 				is_our_vassal = TCA
 				ABK = { in_sphere = THIS }
 			}
-			has_country_flag = sunni_country
 		}
 
 		allow = {

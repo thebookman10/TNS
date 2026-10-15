@@ -4,16 +4,10 @@ political_decisions = {
 		picture = native_integration_status
 		alert = no
 		potential = {
-			is_substate = no
 			NOT = { has_country_flag = native_integration_status_on }
 			NOT = { has_country_flag = native_protection_act_enacted }
 			NOT = { has_country_flag = native_assimilation_enacted }
 			NOT = { has_country_modifier = native_removal_act_policy }
-			OR = {
-				capital_scope = { continent = north_america }
-				capital_scope = { continent = south_america }
-				capital_scope = { continent = australia_new_zealand }
-			}
 			OR = {
 				is_culture_group = latin_american_cultures
 				is_culture_group = american_cultures
@@ -21,6 +15,12 @@ political_decisions = {
 				primary_culture = anglo_canadian
 				primary_culture = french_canadian
 				primary_culture = alaskan
+			}
+			is_substate = no
+			OR = {
+				capital_scope = { continent = north_america }
+				capital_scope = { continent = south_america }
+				capital_scope = { continent = australia_new_zealand }
 			}
 			any_owned_province = {
 				is_core = THIS

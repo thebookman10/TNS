@@ -1595,12 +1595,12 @@ picture = russify_baltic_states
 	afghan_northern_borders = {
 		picture = treaty_of_turkmanchay
 		potential = {
+			civilized = yes
 			OR = {
 				owns = 1208
 				1208 = { owner = { vassal_of = THIS } }
 				1208 = { owner = { in_sphere = THIS is_vassal = no } }
 			}
-			civilized = yes
 			any_owned_province = { is_core = BDK }
 		}
 		

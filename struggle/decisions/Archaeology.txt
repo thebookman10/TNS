@@ -162,21 +162,21 @@ political_decisions = {
 	minoan_excavations = {
 		picture = "minoan_excavations"
 		potential = {
-			invention = early_archaeology
 			is_greater_power = yes
-			revolution_n_counterrevolution = 1
-			847 = {
-				OR = {
-					owned_by = CRE
-					owned_by = GRE
-				}
-			}
 			NOT = {
 				owns = 847
 				has_global_flag = minos_found
 				has_country_modifier = minoan_excavations
 				has_country_flag = started_minoan_excavations
 				has_country_flag = crete_refused
+			}
+			invention = early_archaeology
+			revolution_n_counterrevolution = 1
+			847 = {
+				OR = {
+					owned_by = CRE
+					owned_by = GRE
+				}
 			}
 		}
 		
@@ -196,14 +196,14 @@ political_decisions = {
 	forced_minoan_excavations = {
 		picture = "minoan_excavations"
 		potential = {
+			NOT = {
+				has_global_flag = minos_found
+				has_country_modifier = minoan_excavations
+			}
 			invention = early_archaeology
 			OR = {
 				owns = 847
 				847 = { owner = { vassal_of = THIS } }
-			}
-			NOT = {
-				has_global_flag = minos_found
-				has_country_modifier = minoan_excavations
 			}
 		}
 		

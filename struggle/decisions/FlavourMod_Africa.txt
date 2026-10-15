@@ -5,14 +5,14 @@ political_decisions = {
 	end_mahadist_war = {
 		picture = map_africa
 		potential = {
-			capital_scope = { continent = europe }
 			is_greater_power = yes
+			exists = SUD
+			NOT = { has_country_flag = end_mahadist_war }
+			capital_scope = { continent = europe }
 			OR = {
 				EGY = { all_core = { owned_by = THIS } }
 				EGY = { vassal_of = THIS }
 			}
-			exists = SUD
-			NOT = { has_country_flag = end_mahadist_war }
 		}
 		
 		allow = {
@@ -434,15 +434,15 @@ political_decisions = {
 	claim_togoland = {
 		picture = togo_map
 		potential = {
-			capital_scope = { continent = europe }
 			year = 1850
 			NOT = { tag = RUS }
 			NOT = { tag = TUR }
+			NOT = { has_global_flag = togo_organized }
+			has_global_flag = berlin_conference
+			capital_scope = { continent = europe }
 			1914 = { empty = yes }
 			1915 = { empty = yes }
 			slavery = no_slavery
-			NOT = { has_global_flag = togo_organized }
-			has_global_flag = berlin_conference
 		}
 		
 		allow = {

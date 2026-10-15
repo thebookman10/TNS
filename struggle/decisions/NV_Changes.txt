@@ -4,9 +4,9 @@ political_decisions = {
 		alert = yes
 		picture = national_value
 		potential = {
-			nationalvalue = nv_tradition
 			NOT = {	has_country_flag = nv_change }
 			civilized = no
+			nationalvalue = nv_tradition
 		}
 		
 		allow = {

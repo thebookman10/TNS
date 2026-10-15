@@ -36,12 +36,12 @@ political_decisions = {
 	found_suez_canal_company_allied_with_tur = {
 		picture = suezcanalcompany
 		potential = {
-			NOT = { is_canal_enabled = 2 }
 			NOT = { has_global_flag = suez_canal_built }
 			NOT = { has_global_flag = suez_canal_company_founded }
 			is_greater_power = yes
-			interchangeable_parts = 1
 			year = 1870
+			NOT = { is_canal_enabled = 2 }
+			interchangeable_parts = 1
 			1755 = {
 				owner = {
 					tag = TUR
@@ -202,16 +202,18 @@ political_decisions = {
 		picture = brunei_protectorate
 		potential = {
 			OR = {
+				government = absolute_monarchy
+				government = prussian_constitutionalism
+				government = hms_government
+			}
+			year = 1888
+			NOT = { has_country_flag = brunei_protectorate }
+			OR = {
 				SWK = { any_core = { owned_by = THIS } }
 				JOH = { any_core = { owned_by = THIS } }	
 				INO = { any_core = { owned_by = THIS } }
 				MLY = { any_core = { owned_by = THIS } }
 				JAV = { any_core = { owned_by = THIS } }
-			}
-			OR = {
-				government = absolute_monarchy
-				government = prussian_constitutionalism
-				government = hms_government
 			}
 			OR = {
 				SWK = { 
@@ -224,8 +226,6 @@ political_decisions = {
 				}
 				owns = 1395
 			}
-			year = 1888
-			NOT = { has_country_flag = brunei_protectorate }
 		}
 
 		allow = {
@@ -258,9 +258,9 @@ political_decisions = {
 	maldives_protectorate = {
 		picture = maldives_protectorate
 		potential = {
+			NOT = { has_country_flag = maldives_protectorate }
 			invention = the_dark_continent
 			MLD = { exists = yes vassal_of = THIS }
-			NOT = { has_country_flag = maldives_protectorate }
 		}
 
 		allow = {

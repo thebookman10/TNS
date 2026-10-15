@@ -4,9 +4,6 @@ political_decisions = {
 	cuba_purchase = {
 		picture = map_central_america
 		potential = {
-			2209 = { NOT = { owned_by = THIS } owner = {  capital_scope = { continent = north_america }  } }
-			2209 = { NOT = { owned_by = THIS } owner = {  capital_scope = { continent = south_america }  } }
-			CUB = { exists = no }
 			OR = {
 				primary_culture = texan
 				primary_culture = mexican
@@ -15,6 +12,9 @@ political_decisions = {
 				
 			}
 			NOT = { has_country_flag = cuba_purchase }
+			2209 = { NOT = { owned_by = THIS } owner = {  capital_scope = { continent = north_america }  } }
+			2209 = { NOT = { owned_by = THIS } owner = {  capital_scope = { continent = south_america }  } }
+			CUB = { exists = no }
 		}
 		
 		allow = {

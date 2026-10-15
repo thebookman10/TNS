@@ -169,6 +169,11 @@ political_decisions = {
 	picture = map_caribbean
 	alert = no
 		potential = {
+			is_vassal = no
+			NOT = { owns = 2223 }
+			NOT = { has_global_flag = sold_virgin_islands }
+			year = 1890
+			is_greater_power = yes
 			OR = {
 				tag = ULA
 				AND = {
@@ -181,12 +186,7 @@ political_decisions = {
 					}
 				}
 			}
-			is_vassal = no
-			NOT = { owns = 2223 }
 			2223 = { owner = { is_greater_power = no } }
-			NOT = { has_global_flag = sold_virgin_islands }
-			year = 1890
-			is_greater_power = yes
 		}
 		
 		allow = {

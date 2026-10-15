@@ -173,12 +173,12 @@ political_decisions = {
 	switch_to_traditional_academic = {
 		alert = no
 		potential = {
+			civilized = yes
 			NOT = { tech_school = traditional_academic }
 			OR = {
 				ai = no
 				tech_school = unciv_tech_school
 			}
-			civilized = yes
 		}
 		
 		allow = {
@@ -223,8 +223,8 @@ political_decisions = {
 	encourage_the_skoda_works = {
 		picture = skoda_works
 		potential = {
-			NOT = { tech_school = czech_tech_school }
 			is_culture_group = czecho_slovak_culture_group
+			NOT = { tech_school = czech_tech_school }
 		}
 		
 		allow = {
@@ -245,7 +245,6 @@ political_decisions = {
 	switch_to_japanese_tech_school = {
 		picture = yamagata_aritomo
 		potential = {
-			NOT = { tech_school = japanese_tech_school }
 			OR = {
 				tag = JAP
 				tag = TKG
@@ -253,6 +252,7 @@ political_decisions = {
 			}
 			has_country_modifier = line_of_advantage
 			civilized = yes
+			NOT = { tech_school = japanese_tech_school }
 		}
 		
 		allow = {
@@ -274,10 +274,10 @@ political_decisions = {
 		alert = no
 		picture = switch_to_order
 		potential = {
-			tech_school = traditional_academic
 			ai = no
 			civilized = yes
 			NOT = { has_country_flag = picking_up_a_tech_school }
+			tech_school = traditional_academic
 		}
 		
 		allow = {
@@ -294,10 +294,10 @@ political_decisions = {
 		picture = switch_to_productivity
 		alert = no
 		potential = {
-			tech_school = traditional_academic
 			ai = no
 			civilized = yes
 			has_country_flag = picking_up_a_tech_school
+			tech_school = traditional_academic
 		}
 		
 		allow = {

@@ -415,12 +415,12 @@ political_decisions = {
 	to_the_east_of_iran = {
 	
 		potential = {
-			KHR = { ai = yes }	
 			owns = 1127
 			has_country_flag = 	accept_our_defeat_ksk
 			has_country_flag = the_death_of_the_parvizids_ksk
-			tag = KSK 
+			tag = KSK
 			NOT = { has_country_flag = to_the_east_of_iran }
+			KHR = { ai = yes }
         }        
 		 
 		allow = {

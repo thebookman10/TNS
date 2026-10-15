@@ -25,6 +25,8 @@ political_decisions = {
 	commission_warship = {
 		picture = ironclad_commissions
 		potential = {
+			NOT = { has_country_flag = lacking_writing_system }
+			NOT = { has_country_flag = warship_commissioned }
 			any_owned_province = { has_building = naval_base }
 			NOT = { iron_steamers = 1 }
 			OR = {
@@ -33,8 +35,6 @@ political_decisions = {
 				sphere_owner = { invention = ironclads raider_group_doctrine = 1 }
 				overlord = { invention = ironclads raider_group_doctrine = 1 }
 			}
-			NOT = { has_country_flag = lacking_writing_system }
-			NOT = { has_country_flag = warship_commissioned }
 		}
 		
 		allow = {
@@ -99,6 +99,7 @@ political_decisions = {
 	take_on_warship_commission = {
 		picture = ironclad_commissions
 		potential = {
+			NOT = { has_global_flag = warship_commission_being_fulfilled }
 			any_owned_province = { has_building = naval_base }
 			OR = {
 				has_global_flag = warship_commissioned
@@ -106,7 +107,6 @@ political_decisions = {
 			}
 			invention = ironclads
 			raider_group_doctrine = 1
-			NOT = { has_global_flag = warship_commission_being_fulfilled }
 		}
 		
 		allow = {
@@ -604,6 +604,7 @@ political_decisions = {
 	asian_rgo_normalization = {
 		picture = coffee_in_colombia
 		potential = {
+			year = 1870
 			OR = {
 				1485 = { owned_by = THIS NOT = { has_province_modifier = plantation } }
 				2681 = { owned_by = THIS NOT = { has_province_modifier = plantation } }
@@ -672,7 +673,6 @@ political_decisions = {
 					NOT = { has_province_modifier = plantation }
 				}
 			}
-			year = 1870
 		}
 		
 		allow = {
@@ -788,6 +788,7 @@ political_decisions = {
 	africa_rgo_normalization = {
 		picture = coffee_in_colombia
 		potential = {
+			year = 1870
 			any_owned_province = {
 					OR = {
 						continent = africa 
@@ -812,7 +813,6 @@ political_decisions = {
 					NOT = { region = POR_2134 }
 					NOT = { region = ENG_2132 }
 			}
-			year = 1870
 		}
 		
 		allow = {
@@ -911,6 +911,7 @@ political_decisions = {
 	end_of_natural_dyes = {
 		picture = tea_production
 		potential = {
+			year = 1900
 			OR = {
 				any_greater_power = { invention = synthetic_dye }
 				any_neighbor_country = { invention = synthetic_dye }
@@ -924,7 +925,6 @@ political_decisions = {
 				province_control_days = 200
 				unemployment_by_type = { type = farmers value = 0.2 }
 			}
-			year = 1900
 		}
 		
 		allow = {

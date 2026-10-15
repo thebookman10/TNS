@@ -455,6 +455,10 @@ political_decisions = {
 	slovakia_rename_czhslo = {
 		picture = gtfo
 		potential = {
+			owns = 635
+			owns = 634
+			owns = 637
+			NOT = { has_global_flag = slovakia_rename_czhslo }
 			OR = {
 				tag = SLV
 				tag = PNN
@@ -463,10 +467,6 @@ political_decisions = {
 					accepted_culture = slovak
 				}
 			}
-			owns = 635
-			owns = 634
-			owns = 637
-			NOT = { has_global_flag = slovakia_rename_czhslo }
 		}
 		
 		allow = {
@@ -559,16 +559,16 @@ political_decisions = {
 	bohemia_rename_czh = {
 		picture = gtfo
 		potential = {
+			owns = 625 #Prague
+			owns = 626 #Hradec Kralove
+			owns = 631 #Brno
+			NOT = { has_global_flag = bohemia_rename_czh }
 			OR = {
 				is_culture_group = czecho_slovak_culture_group
 				tag = SLV
 				tag = CZH
 				accepted_culture = czech
 			}
-			owns = 625 #Prague
-			owns = 626 #Hradec Kralove
-			owns = 631 #Brno
-			NOT = { has_global_flag = bohemia_rename_czh }
 		}
 		
 		allow = {
@@ -626,12 +626,6 @@ political_decisions = {
 	sudetes_rename_czh = {
 		picture = gtfo
 		potential = {
-			OR = {
-				is_culture_group = czecho_slovak_culture_group
-				tag = SLV
-				tag = CZH
-				accepted_culture = czech
-			}
 			owns = 627 #Karlsbad
 			owns = 628 #Aussig
 			owns = 629 #Plzen
@@ -639,6 +633,12 @@ political_decisions = {
 			owns = 632 #Olomouc
 			owns = 688 #Troppau
 			NOT = { has_global_flag = sudetes_rename_czh }
+			OR = {
+				is_culture_group = czecho_slovak_culture_group
+				tag = SLV
+				tag = CZH
+				accepted_culture = czech
+			}
 		}
 		
 		allow = {
@@ -764,6 +764,10 @@ political_decisions = {
 	east_galicia_rename_polish = {
 		picture = gtfo
 		potential = {
+			OR = { 
+				AND = { owns = 702 NOT = { has_global_flag = polish_renamed_lvov } }
+				AND = { owns = 953 NOT = { has_global_flag = east_galicia_rename_pol } }
+				}
 			OR = {
 				primary_culture = polish
 				AND = { 
@@ -772,10 +776,6 @@ political_decisions = {
 				}
 				tag = WSF
 			}
-			OR = { 
-				AND = { owns = 702 NOT = { has_global_flag = polish_renamed_lvov } }
-				AND = { owns = 953 NOT = { has_global_flag = east_galicia_rename_pol } }
-				}
 		}
 		
 		allow = {
@@ -920,16 +920,16 @@ political_decisions = {
 		picture = gtfo
 		potential = {
 			OR = {
+				AND = { owns = 703 NOT = { has_global_flag = polish_renamed_krakow } }
+				AND = { owns = 705 NOT = { has_global_flag = polish_renamed_galicia } }
+			}
+			OR = {
 				primary_culture = polish
 				AND = {
 					tag = DNB
 					accepted_culture = polish
 				}
 				tag = WSF
-			}
-			OR = {
-				AND = { owns = 703 NOT = { has_global_flag = polish_renamed_krakow } }
-				AND = { owns = 705 NOT = { has_global_flag = polish_renamed_galicia } }
 			}
 		}
 		
@@ -1190,6 +1190,10 @@ political_decisions = {
 	west_galicia_rename_polish = {
 		picture = gtfo
 		potential = {
+			owns = 713
+			owns = 715
+			owns = 716
+			NOT = { has_global_flag = west_galicia_rename_polish }
 			OR = {
 				primary_culture = polish
 				AND = {
@@ -1198,10 +1202,6 @@ political_decisions = {
 				}
 				tag = WSF
 			}
-			owns = 713
-			owns = 715
-			owns = 716
-			NOT = { has_global_flag = west_galicia_rename_polish }
 		}
 		
 		allow = {
@@ -1287,6 +1287,8 @@ political_decisions = {
 	mazovia_rename_polish = {
 		picture = gtfo
 		potential = {
+			owns = 706 #Warsaw
+			NOT = { has_global_flag = mazovia_rename_polish }
 			OR = {
 				primary_culture = polish
 				AND = {
@@ -1295,8 +1297,6 @@ political_decisions = {
 				}
 				tag = WSF
 			}
-			owns = 706 #Warsaw
-			NOT = { has_global_flag = mazovia_rename_polish }
 		}
 		
 		allow = {
@@ -1433,16 +1433,16 @@ political_decisions = {
 		picture = gtfo
 		potential = {
 			OR = {
+				AND = { owns = 691 NOT = { has_global_flag = west_prussia_rename_polish } }
+				AND = { owns = 690 NOT = { has_global_flag = danzig_rename_polish } }
+			}
+			OR = {
 				primary_culture = polish
 				AND = {
 					tag = DNB
 					accepted_culture = polish
 				}
 				tag = WSF
-			}
-			OR = {
-				AND = { owns = 691 NOT = { has_global_flag = west_prussia_rename_polish } }
-				AND = { owns = 690 NOT = { has_global_flag = danzig_rename_polish } }
 			}
 		}
 		
@@ -1483,6 +1483,8 @@ political_decisions = {
 	posen_rename_polish = {
 		picture = gtfo
 		potential = {
+			owns = 699
+			NOT = { has_global_flag = posen_rename_polish }
 			OR = {
 				primary_culture = polish
 				AND = {
@@ -1491,8 +1493,6 @@ political_decisions = {
 				}
 				tag = WSF
 			}
-			owns = 699
-			NOT = { has_global_flag = posen_rename_polish }
 		}
 		
 		allow = {

@@ -87,8 +87,8 @@ political_decisions = {
 	copenhagen_convention = {
 		picture = sound_dues
 		potential = {
-			372 = { trade_goods = precious_goods NOT = { owned_by = THIS } }
 			is_greater_power = yes
+			372 = { trade_goods = precious_goods NOT = { owned_by = THIS } }
 			capital_scope = { continent = europe }
 			NOT = {
 				has_global_flag = sound_dues_abolished

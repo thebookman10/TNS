@@ -4,7 +4,6 @@ political_decisions = {
 	enact_liquor_prohibition = {
 		picture = enact_liquor_prohibition
 		potential = {
-			social_science = 1
 			has_country_modifier = temperance_league
 			NOT = {
 				OR = {
@@ -12,6 +11,7 @@ political_decisions = {
 					has_country_flag = prohibition_repealed
 				}
 			}
+			social_science = 1
 		}
 		allow = {
 			OR = {
@@ -150,8 +150,8 @@ political_decisions = {
 		alert = no
 		picture = sign_the_geneva_convention
 		potential = {
-			part_of_sphere = yes
 			is_vassal = no
+			part_of_sphere = yes
 		}
 		
 		allow = {
@@ -194,8 +194,8 @@ political_decisions = {
 		picture = nationalize
 			
 		potential = {
-			can_nationalize = yes
 			civilized = yes
+			can_nationalize = yes
 		}
 		
 		allow = {
@@ -918,13 +918,13 @@ political_decisions = {
 	abolish_slavery = {
 		picture = enslave_the_serfs_image
 		potential = {
-			NOT = { slavery = no_slavery }
 			OR = {
 				government = hms_government
 				government = democracy
 			}
-			NOT = { any_pop = { type = slaves } }
 			year = 1886
+			NOT = { slavery = no_slavery }
+			NOT = { any_pop = { type = slaves } }
 		}
 		
 		allow = {
@@ -1829,9 +1829,9 @@ political_decisions = {
 	state_of_emergency = {
 		picture = state_of_emergency
 		potential = {
-			state_n_government = 1
 			NOT = { has_country_flag = state_of_emergency }
 			NOT = { has_country_modifier = law_changed_by_force }
+			state_n_government = 1
 			OR = {
 				AND = {
 					militancy = 3

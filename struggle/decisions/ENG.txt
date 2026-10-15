@@ -63,6 +63,8 @@ political_decisions = {
 		picture = rhodesia_charter
 		alert = no
 		potential = {
+			NOT = { has_country_flag = post_colonial_country }
+			civilized = yes
 			any_owned_province = { is_core = RHO }
 			RHO = { exists = no }
 			NOT = {
@@ -72,9 +74,6 @@ political_decisions = {
 				capital_scope = { continent = east_africa } 
 				capital_scope = { continent = south_west_africa }
 			}
-			NOT = { has_country_flag = post_colonial_country }
-			
-			civilized = yes
 			revolution_n_counterrevolution = 1
 		}
 		
@@ -189,13 +188,13 @@ political_decisions = {
 	trucial_protectorate = {
 		picture = map_arabia
 		potential = {
+			NOT = { has_global_flag = created_trucial_protectorate }
 			ABU = {
 				ai = yes
 				in_sphere = THIS
 				government = absolute_monarchy
 			}
 			revolution_n_counterrevolution = 1
-			NOT = { has_global_flag = created_trucial_protectorate }
 		}
 		
 		allow = {
@@ -464,12 +463,12 @@ political_decisions = {
 	unite_north_yemen_existing = {
 		picture = aden_protectorate
 		potential = {
+			NOT = { tag = NYE }
 			OR = {
 				NOT = { 1178 = { is_core = YEM } }
 				NOT = { 1179 = { is_core = YEM } }
 				NOT = { 1180 = { is_core = YEM } }
-			}			
-			NOT = { tag = NYE }
+			}
 			NYE = { exists = yes }
 			OR = {
 				tag = YEM
@@ -640,8 +639,8 @@ political_decisions = {
 		picture = map_east_indies
 		
 		potential = {
-			is_sphere_leader_of = PHG
 			NOT = { has_country_flag = integrated_pahang }
+			is_sphere_leader_of = PHG
 			PHG = {
 				ai = yes
 				exists = yes
@@ -684,8 +683,8 @@ political_decisions = {
 		picture = map_east_indies
 		
 		potential = {
-			is_sphere_leader_of = SLG
 			NOT = { has_country_flag = integrated_selangor }
+			is_sphere_leader_of = SLG
 			SLG = {
 				ai = yes
 				exists = yes
@@ -727,8 +726,8 @@ political_decisions = {
 		picture = map_east_indies
 		
 		potential = {
-			is_sphere_leader_of = PRK
 			NOT = { has_country_flag = integrated_perak }
+			is_sphere_leader_of = PRK
 			PRK = {
 				ai = yes
 				exists = yes

@@ -193,7 +193,6 @@ political_decisions = {
 		}
 	anti_byzantine_crusade = {
 		potential = {
-		BYZ = { exists = yes }
 		OR = {
 			tag = ITA
 			tag = FRC
@@ -202,6 +201,7 @@ political_decisions = {
 		has_global_flag = greek_schism
 		NOT = { has_country_flag = anti_byzantine_crusade }
 		NOT = { has_global_flag = byzantium_death }
+		BYZ = { exists = yes }
 		
 		}
 		allow = {

@@ -655,11 +655,11 @@ political_decisions = {
 	treaty_of_bata = {
 		picture = fernando_po
 		potential = {
+			owns = 1955
+			NOT = { has_country_flag = refused_treaty_on_bata }
 			1973 = { empty = yes }
 			1976 = { empty = no }
 			1958 = { empty = no }
-			owns = 1955
-			NOT = { has_country_flag = refused_treaty_on_bata }
 		}
 
 		allow = {

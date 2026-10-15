@@ -1610,20 +1610,20 @@ political_decisions = {
 	picture = macao_city
 		potential = {
 			OR = {
-				QNG = { exists = yes owns = 1616 NOT = { TPG = { exists = yes } CHI = { exists = yes } } }
-				TPG = { exists = yes owns = 1616 NOT = { QNG = { exists = yes } CHI = { exists = yes } } }
-				CHI = { exists = yes owns = 1616 NOT = { TPG = { exists = yes } QNG = { exists = yes } } }
-				KMT = { exists = yes owns = 1616 NOT = { QNG = { exists = yes } TPG = { exists = yes } } }
-			}
-			OR = {
 				tag = QNG
 				tag = TPG
 				tag = CHI
 				tag = KMT
 			}
 			has_global_flag = sino_portuguese_treaty_of_peking_signed
-			1498 = { NOT = { is_core = CHI } }
 			NOT = { has_global_flag = sino_portuguese_treaty_of_peking_revoked }
+			OR = {
+				QNG = { exists = yes owns = 1616 NOT = { TPG = { exists = yes } CHI = { exists = yes } } }
+				TPG = { exists = yes owns = 1616 NOT = { QNG = { exists = yes } CHI = { exists = yes } } }
+				CHI = { exists = yes owns = 1616 NOT = { TPG = { exists = yes } QNG = { exists = yes } } }
+				KMT = { exists = yes owns = 1616 NOT = { QNG = { exists = yes } TPG = { exists = yes } } }
+			}
+			1498 = { NOT = { is_core = CHI } }
 		}
 		
 		allow = {

@@ -556,9 +556,9 @@ political_decisions = {
 	buying_djibuti = {
 		picture = bahrain_trade
 		potential = {
-			1875 = { empty = yes }
 			civilized = yes
 			has_global_flag = berlin_conference
+			1875 = { empty = yes }
 			total_amount_of_ships = 50
 			OR = {
 				AND = {

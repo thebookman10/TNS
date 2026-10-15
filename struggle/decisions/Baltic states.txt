@@ -307,15 +307,15 @@ political_decisions = {
 	add_ingria_baltic_states = {
 		picture = old_vilnius
 		potential = {
-			UBD = { exists = yes }
 			NOT = { tag = RUT }
+			NOT = { has_global_flag = ingria_in_the_UBD }
+			UBD = { exists = yes }
 			OR = {
 				tag = UBD
 				is_our_vassal = UBD
 			}
 			#UBD = { NOT = { any_owned_province = { is_core = LIT } } }
 			UBD = { is_substate = no }
-			NOT = { has_global_flag = ingria_in_the_UBD }
 		}
 		
 		allow = {

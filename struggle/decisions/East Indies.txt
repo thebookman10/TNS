@@ -441,6 +441,11 @@ political_decisions = {
 	create_malaya = {
 		picture = map_east_indies
 		potential = {
+			NOT = {
+				primary_culture = malay
+				has_global_flag = malaya_formed
+				exists = MLY
+			}
 			OR = {
 				any_owned_province = {
 					OR = {
@@ -478,11 +483,6 @@ political_decisions = {
 						vassal_of = THIS
 					}
 				}
-			}
-			NOT = {
-				primary_culture = malay
-				has_global_flag = malaya_formed
-				exists = MLY
 			}
 		}
 
@@ -1108,6 +1108,7 @@ political_decisions = {
 	introduce_coffee_in_vietnam = {
 		picture = vietnam_coffee
 		potential = {
+			NOT = { has_country_flag = cashcrops_in_the_colonies }
 			capital_scope = { continent = europe }
 			OR = {
 				AND = {
@@ -1127,7 +1128,6 @@ political_decisions = {
 					2054 = { NOT = { trade_goods = coal } }
 				}
 			}
-			NOT = { has_country_flag = cashcrops_in_the_colonies }
 		}
 		
 		allow = {
