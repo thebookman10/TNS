@@ -327,8 +327,6 @@ country_event = {
 	desc = "EVTDESC50011"
 	picture = "constantinople"
 	
-	fire_only_once = yes
-
 	is_triggered_only = yes
 
 	mean_time_to_happen = {
@@ -354,8 +352,6 @@ country_event = {
 	desc = "EVTDESC50012"
 	picture = "constantinople"
 	
-	fire_only_once = yes
-
 	is_triggered_only = yes
 
 	mean_time_to_happen = {
@@ -457,8 +453,6 @@ country_event = {
 	desc = "EVTDESC50015"
 	picture = "constantinople"
 	
-	fire_only_once = yes
-
 	is_triggered_only = yes
 
 	mean_time_to_happen = {
@@ -631,8 +625,6 @@ country_event = {
 	desc = "EVTDESC50020"
 	picture = "constantinople"
 	
-	fire_only_once = yes
-
 	is_triggered_only = yes
 
 	mean_time_to_happen = {
@@ -765,8 +757,6 @@ country_event = {
 	desc = "EVTDESC50024"
 	picture = "constantinople"
 	
-	fire_only_once = yes
-
 	is_triggered_only = yes
 	mean_time_to_happen = {
 		days = 1
@@ -858,8 +848,6 @@ country_event = {
 	desc = "EVTDESC50027"
 	picture = "constantinople"
 	
-	fire_only_once = yes
-
 	is_triggered_only = yes
 	mean_time_to_happen = {
 		days = 1
@@ -1368,7 +1356,6 @@ country_event = {
 	picture = "constantinople"
 	
 	is_triggered_only = yes
-	fire_only_once = yes
 	mean_time_to_happen = {
 		days = 1
 	}
