@@ -1726,7 +1726,7 @@ country_event = {
 		release_vassal = YNN
 		any_country = { limit = { OR = { tag = SZC tag = XBI tag = YNN } government = autonomous_dependency } government = presidential_dictatorship }
 		change_tag_no_core_switch = KMT
-		MGL = { country_event = 50060 }
+		CHI = { country_event = 50060 }
 		CHI = { all_core = { add_core = KMT } }
 		}
 }
@@ -1758,7 +1758,7 @@ country_event = {
 		release = IMG
 		change_tag_no_core_switch = IMG
 		IMG = { government = absolute_monarchy }
-		MGL = { country_event = 50061 }
+		CHI = { country_event = 50061 }
 		}
 }
 #KOREA BREAKS AWAY - THE THREE VASSALS BREAK OFF AND ENTER CIVIL WAR
