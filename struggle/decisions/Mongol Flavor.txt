@@ -82,7 +82,7 @@ political_decisions = {
 			KYR = { country_event = 50011 all_core = { add_core = MGL } }
 			ALT = { all_core = { add_core = MGL } }
 			UYG = { all_core = { add_core = MGL } }
-			ZIN = { all_core = { add_core = MGL } }
+			XIN = { all_core = { add_core = MGL } }
 			KML = { all_core = { add_core = MGL } }
  		   }
 	}
