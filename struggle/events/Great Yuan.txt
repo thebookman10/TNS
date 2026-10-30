@@ -150,8 +150,8 @@ country_event = {
 		name = "EVTOPTA50005"
 		create_vassal = SZC
 		create_vassal = XBI
-		MCK = { capital = 1555 }
 		release_vassal = MCK
+		MCK = { capital = 1555 }
 		MCK = { government = autonomous_dependency }
 		SZC = { government = autonomous_dependency }
 		XBI = { government = autonomous_dependency }
@@ -278,8 +278,8 @@ country_event = {
 		name = "EVTOPTA50009"
 		add_accepted_culture = nanfaren
 		create_vassal = YNN
-		GUI = { capital = 1505 }
 		release_vassal = GUI
+		GUI = { capital = 1505 }
 		GUI = { government = autonomous_dependency }
 		YNN = { government = autonomous_dependency }
 		release_vassal = GNG
@@ -516,8 +516,8 @@ country_event = {
 		KOR_1627 = { add_core = TNT }
 		release_vassal = TNT 
 		TNT = { government = autonomous_dependency }
-		KOR = { capital = 1632 }
 		release_vassal = KOR
+		KOR = { capital = 1632 }
 		KOR = { civilized = no }
 	}
 }
@@ -810,8 +810,8 @@ country_event = {
 		BDK = { all_core = { add_core = TAR } }
 		UKR = { all_core = { add_core = TAR } }
 		ALN = { all_core = { add_core = TAR } }
-		TAR = { capital = 1199 }
 		release_vassal = TAR
+		TAR = { capital = 1199 }
 		TAR = { government = autonomous_dependency }
 			}
 }
@@ -1413,12 +1413,12 @@ country_event = {
 		JAP_1660 = { add_core = XIN }
 		JAP_1665 = { add_core = KML }
 		JAP_1088 = { add_core = UYG }
-		XIN = { government = autonomous_dependency capital = 1660 add_accepted_culture = japanese }
-		KML = { government = autonomous_dependency capital = 1665 add_accepted_culture = japanese }
-		UYG = { government = autonomous_dependency capital = 1088 add_accepted_culture = japanese }
 		release_vassal = XIN
 		release_vassal = KML
 		release_vassal = UYG
+		XIN = { government = autonomous_dependency capital = 1660 add_accepted_culture = japanese }
+		KML = { government = autonomous_dependency capital = 1665 add_accepted_culture = japanese }
+		UYG = { government = autonomous_dependency capital = 1088 add_accepted_culture = japanese }
 		JAP_1640 = { add_core = CHO }
 		JAP_1655 = { add_core = CHO }
 		release_vassal = CHO
@@ -1915,10 +1915,10 @@ country_event = {
 		CHI_1559 = { add_core = SXI }
 		CHI_1572 = { add_core = SXI }
 		CHI_1510 = { add_core = SXI }
-		HUI = { government = presidential_dictatorship capital = 1477 }
-		SXI = { government = proletarian_dictatorship capital = 1572 }
 		release = HUI
 		release = SXI
+		HUI = { government = presidential_dictatorship capital = 1477 }
+		SXI = { government = proletarian_dictatorship capital = 1572 }
 		any_owned = { limit = { is_core = CHI } add_core = HUI }
 		any_owned = { limit = { is_core = CHI } add_core = SXI }
 		IMG = { country_event = 50068 }
@@ -1935,10 +1935,10 @@ country_event = {
 		CHI_1559 = { add_core = SXI }
 		CHI_1572 = { add_core = SXI }
 		CHI_1510 = { add_core = SXI }
-		HUI = { government = presidential_dictatorship capital = 1477 }
-		SXI = { government = proletarian_dictatorship capital = 1572 }
 		release = HUI
 		release = SXI
+		HUI = { government = presidential_dictatorship capital = 1477 }
+		SXI = { government = proletarian_dictatorship capital = 1572 }
 		any_owned = { limit = { is_core = CHI } add_core = HUI }
 		any_owned = { limit = { is_core = CHI } add_core = SXI }
 		IMG = { country_event = 50068 }
@@ -1956,10 +1956,10 @@ country_event = {
 		CHI_1559 = { add_core = SXI }
 		CHI_1572 = { add_core = SXI }
 		CHI_1510 = { add_core = SXI }
-		HUI = { government = presidential_dictatorship capital = 1477 }
-		SXI = { government = proletarian_dictatorship capital = 1572 }
 		release = HUI
 		release = SXI
+		HUI = { government = presidential_dictatorship capital = 1477 }
+		SXI = { government = proletarian_dictatorship capital = 1572 }
 		any_owned = { limit = { is_core = CHI } add_core = HUI }
 		any_owned = { limit = { is_core = CHI } add_core = SXI }
 		IMG = { country_event = 50068 }
