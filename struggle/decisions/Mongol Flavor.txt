@@ -293,6 +293,7 @@ political_decisions = {
 		potential = {
 			tag = MGL
 			has_country_flag = push_into_central_asia
+			NOT = { has_country_flag = ilkhanate_war }
 			}
 		allow = { 
 			OR = { all_core = { OR = { owned_by = THIS owner = { in_sphere = THIS } owner = { vassal_of = THIS } } } }
