@@ -977,7 +977,7 @@ country_event = {
 	#Free tech - more artillery integration and small arms supply chains
 	option = {
 		name = "EVTOPTA50031"
-		activate_technology = amy_decision_making
+		activate_technology = army_decision_making
 		activate_technology = iron_breech_loaded_artillery
 		activate_technology = medicine
 		activate_technology = early_railroad
@@ -1094,7 +1094,7 @@ country_event = {
 		activate_technology = integral_rail_system
 		activate_technology = inorganic_chemistry
 		activate_technology = organic_chemistry
-		activate_technology = compound_steam_engine
+		activate_technology = compound_steam_engines
 		activate_technology = steam_turbine
 		activate_technology = combustion_engine
 			}
