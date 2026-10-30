@@ -3369,6 +3369,7 @@ egyptian_famine = {
 maharlika_war_debts = {
 	tax_efficiency = -0.15
 	max_tax = -0.25
+}
 collapsing_mandate = {
 	administrative_efficiency_modifier = -0.2
 	pop_militancy_modifier = 0.05
