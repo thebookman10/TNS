@@ -277,7 +277,7 @@ political_decisions = {
 			}
 
 		effect = { 
-			set_country_flag = chagatai_pakistan
+			set_country_flag = chagatai_hindustan
 			badboy = 15
 			prestige = 25
 			AWA = { all_core = { add_core = THIS } }
