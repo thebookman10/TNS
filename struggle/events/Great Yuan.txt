@@ -541,6 +541,7 @@ country_event = {
 
 	trigger = {
 		tag = MGL
+		war = no
 		KOR = { exists = yes }
 		has_country_flag = kor_war_mongolia
 		NOT = { OR = { owns = 1620
