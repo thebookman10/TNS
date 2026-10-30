@@ -32,7 +32,6 @@ political_decisions = {
 			SZC = { vassal_of = THIS }
 			XBI = { vassal_of = THIS }
 			MCK = { vassal_of = THIS }
-			IMG = { vassal_of = THIS }
 			}
 			}
 		allow = { 
