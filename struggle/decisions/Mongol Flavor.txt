@@ -514,6 +514,7 @@ political_decisions = {
 	third_japanese_invasion = {
 		potential = {
 			tag = MGL
+			NOT = { has_country_flag = third_japanese_invasion }
 			has_country_flag = ilkhanate_war
 			OR = { JAP = { exists = yes } TKG = { exists = yes } }
 			year = 1892
