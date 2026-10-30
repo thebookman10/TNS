@@ -182,7 +182,7 @@ political_decisions = {
 		effect = { 
 			set_country_flag = centralize_tatarstan
 			prestige = 25
-			all_core = { remove_core = KAZ remove_core = BUK remove_core = TKM remove_core = BDK remove_core = BDK remove_core = UKR remove_core = ALN }
+			all_core = { remove_core = KAZ remove_core = BUK remove_core = TKM remove_core = BDK remove_core = UKR remove_core = ALN }
  		   }
 	}
 #TATARSTAN EXPANSION 1
@@ -553,7 +553,6 @@ political_decisions = {
 			tag = YNN
 			tag = XBI
 			tag = GUI
-			tag = GNG
 			tag = GNG
 			tag = FJN
 			}

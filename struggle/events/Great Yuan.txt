@@ -447,7 +447,6 @@ country_event = {
 		add_accepted_culture = manchu
 		add_accepted_culture = kazak
 		add_accepted_culture = tatar
-		add_accepted_culture = beifaren
 		add_accepted_culture = gelupga
 	}
 }
@@ -1623,7 +1622,6 @@ country_event = {
 	is_triggered_only = yes
 	fire_only_once = yes
 	mean_time_to_happen = { days = 1 }
-	is_triggered_only = yes
 	#Traditionalists already alienated by dropping of divine sanction, alienated further by mongolization process
 	option = {
 		name = "EVTOPTA50056"
@@ -1641,7 +1639,6 @@ country_event = {
 	is_triggered_only = yes
 	fire_only_once = yes
 	mean_time_to_happen = { days = 1 }
-	is_triggered_only = yes
 	#Westernizers no longer care for divine sanction - KMT gains support rapidly
 	option = {
 		name = "EVTOPTA50057"
