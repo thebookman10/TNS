@@ -537,7 +537,7 @@ political_decisions = {
 			}
 		allow = { 
 			treasury = 100000
-			at_war = no
+			war = no
 			NOT = { ruling_party_ideology = reactionary }
 			}
 
@@ -560,7 +560,7 @@ political_decisions = {
 			}
 		allow = { 
 			owns = 2221
-			at_war = no
+			war = no
 			KMT = { exists = no }
 			}
 
@@ -582,7 +582,7 @@ political_decisions = {
 			}
 		allow = { 
 			owns = 1612
-			at_war = no
+			war = no
 			CHI = { exists = no }
 			}
 
@@ -600,7 +600,7 @@ political_decisions = {
 			}
 		allow = { 
 			owns = 1612
-			at_war = no
+			war = no
 			}
 
 		effect = { 
@@ -619,7 +619,7 @@ political_decisions = {
 			}
 		allow = { 
 			owns = 1612
-			at_war = no
+			war = no
 			CHI = { exists = no }
 			}
 
