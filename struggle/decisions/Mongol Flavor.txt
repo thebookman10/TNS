@@ -147,6 +147,7 @@ political_decisions = {
 			}
 		allow = { 
 			OR = { tag = KAZ tag = TKM tag = AKH }
+			TAR = { exists = no }
 			OR = { owns = 3435 3435 = { owner = { OR = { vassal_of = THIS in_sphere = THIS } } } }
 			OR = { owns = 1199 1199 = { owner = { OR = { vassal_of = THIS in_sphere = THIS } } } }
 			OR = { owns = 1036 1036 = { owner = { OR = { vassal_of = THIS in_sphere = THIS } } } }
@@ -311,6 +312,7 @@ political_decisions = {
 			}
 		allow = { 
 			owns = 1213
+			AFS = { exists = no }
 			}
 
 		effect = { 
@@ -619,6 +621,7 @@ political_decisions = {
 			owns = 1612
 			war = no
 			CHI = { exists = no }
+			QNG = { exists = no }
 			}
 
 		effect = { 
