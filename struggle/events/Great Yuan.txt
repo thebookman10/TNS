@@ -1192,9 +1192,9 @@ country_event = {
 #################################################
 #THE PROSPEROUS MANDATE - 1904
 country_event = {
-	id = 50040
-	title = "EVTNAME50040" 
-	desc = "EVTDESC50040"
+	id = 50084
+	title = "EVTNAME50084"
+	desc = "EVTDESC50084"
 	picture = "constantinople"
 	
 	trigger = { 
@@ -1210,7 +1210,7 @@ country_event = {
 	}
 	#Prospering mandate, the fields are well-tilled and the empire is functioning
 	option = {
-		name = "EVTOPTA50040"
+		name = "EVTOPTA50084"
 		prestige = 5
 		country_event = 50041
 			}
