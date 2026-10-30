@@ -720,7 +720,7 @@ country_event = {
 	#The Vassal Spam
 	option = {
 		name = "EVTOPTA50022"
-		any_owned = { limit = { is_core = YNN secede_province = YNN } }
+		any_owned = { limit = { is_core = YNN } secede_province = YNN }
 		ALT = { all_core = { remove_core = ALT } }
 		DAI_1369 = { add_core = ALT }
 		release_vassal = ALT
