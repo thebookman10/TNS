@@ -97,8 +97,7 @@ political_decisions = {
 		allow = { 
 			prestige = 50
 			literacy = 0.10
-			KYR = { exists = no }
-			owns = 1189
+			OR = { KYR = { vassal_of = THIS } owns = 1189 }
 			}
 
 		effect = { 
